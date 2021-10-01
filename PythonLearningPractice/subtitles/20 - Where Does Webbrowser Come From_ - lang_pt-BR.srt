@@ -1,0 +1,108 @@
+1
+00:00:00,460 --> 00:00:02,170
+Imagine que esta folha de papel amarela
+
+2
+00:00:02,170 --> 00:00:05,640
+seja a biblioteca padrão Python. Imagine que
+
+3
+00:00:05,640 --> 00:00:12,070
+isto é o que obtemos ao baixar o Python. No Python, há um arquivo chamado
+
+4
+00:00:13,220 --> 00:00:17,150
+webbrowser. No arquivo webbrowser, há uma função
+
+5
+00:00:17,150 --> 00:00:20,470
+chamada open. Essa é a função que
+
+6
+00:00:20,470 --> 00:00:23,088
+nos permite reproduzir os vídeos do YouTube.
+
+7
+00:00:23,088 --> 00:00:25,780
+Assim como o webbrowser, há outro arquivo ou
+
+8
+00:00:25,780 --> 00:00:28,920
+módulo na biblioteca padrão Python. Ele é
+
+9
+00:00:28,920 --> 00:00:31,300
+chamado time e tem várias funções
+
+10
+00:00:31,300 --> 00:00:37,980
+definidas. Duas delas são ctime, que exibe a hora atual,
+
+11
+00:00:37,980 --> 00:00:42,490
+e sleep, que suspende a animação do
+
+12
+00:00:42,490 --> 00:00:45,610
+programa por um período. Mas como a função sleep
+
+13
+00:00:45,610 --> 00:00:49,060
+suspende ou pausa o fluxo do programa
+
+14
+00:00:49,060 --> 00:00:51,750
+por um determinado número de segundos?
+
+15
+00:00:51,750 --> 00:00:53,360
+Não sabemos exatamente como
+
+16
+00:00:53,360 --> 00:00:56,180
+isso é feito nos bastidores. Da mesma forma, como a função
+
+17
+00:00:56,180 --> 00:00:58,832
+open abre um navegador da Web para
+
+18
+00:00:58,832 --> 00:01:02,080
+reproduzir um vídeo do YouTube? Também não sabemos muito bem
+
+19
+00:01:02,080 --> 00:01:06,040
+como isso é feito nos bastidores. Esses detalhes são ocultados
+
+20
+00:01:06,040 --> 00:01:09,540
+de nós, e, em programação, o processo de
+
+21
+00:01:09,540 --> 00:01:13,020
+ocultar detalhes é chamado de abstração. Essa ideia de abstração é
+
+22
+00:01:13,020 --> 00:01:17,020
+muito importante em programação porque nos permite
+
+23
+00:01:17,020 --> 00:01:19,790
+manter o foco no programa que queremos escrever, que
+
+24
+00:01:19,790 --> 00:01:22,980
+é o programa Intervalo, e nos possibilita usar
+
+25
+00:01:22,980 --> 00:01:25,260
+essas funções apenas lendo a
+
+26
+00:01:25,260 --> 00:01:27,840
+documentação. Vamos ler a documentação e ver se
+
+27
+00:01:27,840 --> 00:01:31,300
+essas funções existem na biblioteca padrão Python.
+

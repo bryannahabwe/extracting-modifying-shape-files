@@ -1,0 +1,112 @@
+1
+00:00:00,310 --> 00:00:02,280
+Gracias por terminar sus asignaciones. Les
+
+2
+00:00:02,280 --> 00:00:05,460
+estaré dando retroalimentación en los foros de debate periódicamente.
+
+3
+00:00:05,460 --> 00:00:07,142
+Okay, ahora quiero hablar sobre cómo
+
+4
+00:00:07,142 --> 00:00:10,150
+conoce Python sobre esta cosa llamada turtle.
+
+5
+00:00:10,150 --> 00:00:14,970
+Bueno, dentro de la biblioteca estándar de Python, hay un archivo llamado
+
+6
+00:00:16,210 --> 00:00:20,620
+turtle, turtle con t minúscula. Y dentro de ese
+
+7
+00:00:20,620 --> 00:00:25,870
+archivo hay algo nuevo. Y ese nuevo elemento se llama clase.
+
+8
+00:00:25,870 --> 00:00:29,840
+Una clase Turtle con T mayúscula. Ahora bien,
+
+9
+00:00:29,840 --> 00:00:31,330
+esto es un poco diferente de lo que hemos
+
+10
+00:00:31,330 --> 00:00:33,700
+visto hasta ahora. Lo que hemos hecho hasta el momento
+
+11
+00:00:33,700 --> 00:00:38,010
+es un tipo de archivo, como un navegador web, punto alguna
+
+12
+00:00:38,010 --> 00:00:41,620
+clase de función, como abrir. Pero no hemos visto
+
+13
+00:00:41,620 --> 00:00:45,390
+esta cosa llamada clase, lo cual nos lleva a la pregunta, ¿qué
+
+14
+00:00:45,390 --> 00:00:47,450
+es una clase? Por ahora pueden pensar en
+
+15
+00:00:47,450 --> 00:00:51,040
+una clase como una caja perfectamente empacada que acomoda las
+
+16
+00:00:51,040 --> 00:00:53,500
+cosas muy bien y que nos permite
+
+17
+00:00:53,500 --> 00:00:58,850
+escribir códigos como turtle.Turtle con estos paréntesis
+
+18
+00:00:58,850 --> 00:01:03,920
+que se ven raros, como si estuviéramos llamando una función. De hecho, cuando lo hacemos en este fragmento
+
+19
+00:01:03,920 --> 00:01:06,060
+de código, en realidad estamos llamando una
+
+20
+00:01:06,060 --> 00:01:09,670
+función, una función llamada init que está definida dentro
+
+21
+00:01:09,670 --> 00:01:13,400
+de la clase Turtle. Init viene de inicializar y
+
+22
+00:01:13,400 --> 00:01:16,130
+lo que hace es crear un espacio en la memoria
+
+23
+00:01:16,130 --> 00:01:20,960
+para una nueva instancia o un nuevo objeto de la clase Turtle. A esta instancia la llamamos
+
+24
+00:01:20,960 --> 00:01:26,180
+brad. Brad ahora puede acceder al resto de los métodos que están dentro de
+
+25
+00:01:26,180 --> 00:01:33,012
+la clase Turtle como forward y right. Forward hace que
+
+26
+00:01:33,012 --> 00:01:35,824
+brad vaya hacia adelante, y right hace que brad gire
+
+27
+00:01:35,824 --> 00:01:38,240
+a la derecha. No confíen en lo que les
+
+28
+00:01:38,240 --> 00:01:40,210
+digo, vamos a buscarlas en la documentación.
+

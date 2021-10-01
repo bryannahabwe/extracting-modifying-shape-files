@@ -1,0 +1,112 @@
+1
+00:00:00,320 --> 00:00:03,110
+Muito bem, aqui está o design do nosso programa. Vou
+
+2
+00:00:03,110 --> 00:00:05,720
+iniciar abrindo um navegador e reproduzindo uma
+
+3
+00:00:05,720 --> 00:00:09,430
+música. Anteriormente, pesquisei no Google como
+
+4
+00:00:09,430 --> 00:00:11,890
+abrir um navegador da Web no Python. Descobri
+
+5
+00:00:11,890 --> 00:00:17,680
+que há uma função chamada webbrowser.open. Essa
+
+6
+00:00:17,680 --> 00:00:20,340
+função recebe o link que quero abrir.
+
+7
+00:00:20,340 --> 00:00:22,810
+Basta inserir um endereço do Youtube nela. Na
+
+8
+00:00:22,810 --> 00:00:25,950
+verdade, pode ser qualquer link que você desejar. Muito bem.
+
+9
+00:00:25,950 --> 00:00:28,380
+Vou salvar e executar esse programa. Chamarei ele
+
+10
+00:00:28,380 --> 00:00:31,470
+de break_time.py. Py significa
+
+11
+00:00:31,470 --> 00:00:35,200
+Python. Para executá-lo, clicarei em Run
+
+12
+00:00:35,200 --> 00:00:38,700
+e Run Module. Minha hipótese é
+
+13
+00:00:38,700 --> 00:00:40,840
+que, ao executarmos este programa, ele abrirá
+
+14
+00:00:40,840 --> 00:00:44,330
+o link do Youtube. Vamos ver. Ah! Parece que
+
+15
+00:00:44,330 --> 00:00:47,170
+temos um erro. A mensagem diz que há um
+
+16
+00:00:47,170 --> 00:00:51,450
+erro no programa, EOL, seja lá o que isso signifique, ao verificar
+
+17
+00:00:51,450 --> 00:00:55,210
+a string literal. Certo. Ah, parece que o Python está
+
+18
+00:00:55,210 --> 00:00:58,840
+indicando o erro. Acho que ficou faltando
+
+19
+00:00:58,840 --> 00:01:02,330
+a aspa final, assim, vou adicioná-la.
+
+20
+00:01:02,330 --> 00:01:04,260
+Vou salvar o programa mais uma vez e
+
+21
+00:01:04,260 --> 00:01:05,978
+executá-lo. Acho que agora funcionará.
+
+22
+00:01:05,978 --> 00:01:11,140
+Outro erro. Quando aprendi a
+
+23
+00:01:11,140 --> 00:01:14,210
+programar, me sentia muito intimidado por esses
+
+24
+00:01:14,210 --> 00:01:16,940
+erros. Olhe para eles. São exibidos em vermelho e
+
+25
+00:01:16,940 --> 00:01:20,080
+evidentes, mas para fazer o programa funcionar, temos que
+
+26
+00:01:20,080 --> 00:01:23,390
+superá-los de alguma forma. Leia o
+
+27
+00:01:23,390 --> 00:01:25,550
+erro e nos diga qual o
+
+28
+00:01:25,550 --> 00:01:28,770
+problema com o código em sua opinião. Insira suas respostas nesta caixa.
+

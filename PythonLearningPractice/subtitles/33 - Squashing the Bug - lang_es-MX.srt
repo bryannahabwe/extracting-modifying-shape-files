@@ -1,0 +1,172 @@
+1
+00:00:00,480 --> 00:00:02,900
+Así el error sugiere que el sistema o el
+
+2
+00:00:02,900 --> 00:00:06,689
+programa, no puede encontrar el archivo especificado. Sabes,
+
+3
+00:00:06,689 --> 00:00:10,100
+eso es muy interesante porque en algún punto
+
+4
+00:00:10,100 --> 00:00:12,520
+pudimos encontrar todos los archivos. De hecho,
+
+5
+00:00:12,520 --> 00:00:15,520
+imprimimos todos los nombres de archivo. Bueno,
+
+6
+00:00:15,520 --> 00:00:17,830
+vamos a seguir leyendo el error. Dice que el
+
+7
+00:00:17,830 --> 00:00:21,025
+error está en la línea 9, y está sucediendo alrededor de
+
+8
+00:00:21,025 --> 00:00:25,650
+os.rename. Esto hace que me pregunte si el programa en realidad
+
+9
+00:00:25,650 --> 00:00:30,560
+está mirando la carpeta correcta cuando está tratando de renombrar los archivos. Así que volviendo
+
+10
+00:00:30,560 --> 00:00:36,090
+a nuestro programa, sé que hay esta función llamada os.getcwd, donde
+
+11
+00:00:36,090 --> 00:00:41,150
+cwd se refiere al Directorio de Trabajo Actual. Permítanme que guarde esto en una variable
+
+12
+00:00:41,150 --> 00:00:45,030
+e lo imprima. Y voy a comentar todo lo demás por el momento.
+
+13
+00:00:48,900 --> 00:00:51,080
+Voy a guardar y a ejecutar.
+
+14
+00:00:53,190 --> 00:00:56,240
+Parece que el Directorio de Trabajo Actual del programa es
+
+15
+00:00:56,240 --> 00:01:00,200
+esta carpeta llamada OOP que reside en la unidad C.
+
+16
+00:01:00,200 --> 00:01:02,750
+Y si vuelvo a mi programa, sé
+
+17
+00:01:02,750 --> 00:01:05,700
+que mis archivos o mis fotos están dentro de esta carpeta
+
+18
+00:01:05,700 --> 00:01:08,680
+llamada prank, que está dentro de OOP que reside en la
+
+19
+00:01:08,680 --> 00:01:11,780
+unidad C. No es extraño que el programa no puede encontrar ninguno de
+
+20
+00:01:11,780 --> 00:01:15,470
+los archivos. Está buscando dentro de OOP. Cuando en realidad todos
+
+21
+00:01:15,470 --> 00:01:18,450
+archivos están dentro de prank. Para solucionar esto, puedo usar
+
+22
+00:01:18,450 --> 00:01:21,910
+la función cambiar de directorio. Y con esta función puedo
+
+23
+00:01:21,910 --> 00:01:24,410
+pedirle al programa que mire en la carpeta donde mis
+
+24
+00:01:24,410 --> 00:01:27,900
+archivos en realidad residen, que es esta carpeta aquí. Así que,
+
+25
+00:01:27,900 --> 00:01:30,440
+voy a copiarla, y la voy a pegar aquí.
+
+26
+00:01:32,820 --> 00:01:34,760
+Y déjenme ahora quitar los comentarios de algunas de las líneas
+
+27
+00:01:34,760 --> 00:01:38,590
+que había comentado antes. Hacia el final de la función,
+
+28
+00:01:38,590 --> 00:01:41,030
+cambiaré la ruta de vuelta a cómo la
+
+29
+00:01:41,030 --> 00:01:45,560
+encontré. Permítanme guardar y ejecutar este programa una
+
+30
+00:01:45,560 --> 00:01:49,830
+vez más. Hmm, el programa no arrojó un error
+
+31
+00:01:49,830 --> 00:01:52,340
+esta vez. Pero ahora quiero comprobar para ver si
+
+32
+00:01:52,340 --> 00:01:55,570
+los archivos realmente han sido renombrados. Así que aquí estamos
+
+33
+00:01:55,570 --> 00:01:58,130
+de vuelta a nuestra carpeta, y te darás cuenta de que los nombres
+
+34
+00:01:58,130 --> 00:02:00,810
+de los archivos ya no tienen ningún número.
+
+35
+00:02:00,810 --> 00:02:03,080
+Han sido renombrados. Además, si los alejo sólo
+
+36
+00:02:03,080 --> 00:02:05,540
+un poco, te darás cuenta de que las fotos revelarán
+
+37
+00:02:05,540 --> 00:02:09,788
+un mensaje secreto, el cual es que las llaves están
+
+38
+00:02:09,788 --> 00:02:14,820
+en el armario detrás de la caja de zapatos. Bien, parece
+
+39
+00:02:14,820 --> 00:02:17,510
+que nuestro programa funcionó. Ahora, antes de terminar
+
+40
+00:02:17,510 --> 00:02:20,630
+este proyecto, mi recomendación final en términos de su mejora,
+
+41
+00:02:20,630 --> 00:02:23,390
+es agregar una sentencia de impresión cada vez que
+
+42
+00:02:23,390 --> 00:02:26,430
+cambiamos el nombre de un archivo. Así que aquí estoy imprimiendo
+
+43
+00:02:26,430 --> 00:02:29,474
+el nombre anterior del archivo, y aquí está su nuevo nombre.
+

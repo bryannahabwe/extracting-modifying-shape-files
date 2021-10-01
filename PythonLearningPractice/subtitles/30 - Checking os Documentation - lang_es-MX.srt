@@ -1,0 +1,20 @@
+1
+00:00:00,350 --> 00:00:04,480
+Así que, aquí estoy en la documentación de Python para os, y permítanme buscar
+
+2
+00:00:04,480 --> 00:00:08,470
+algo que pueda ayudarnos a renombrar un archivo. Y he aquí, hay una función para renombrar
+
+3
+00:00:08,470 --> 00:00:12,820
+que podríamos utilizar. Toma la fuente o el nombre actual del archivo y
+
+4
+00:00:12,820 --> 00:00:14,690
+lo cambia al destino o al nuevo
+
+5
+00:00:14,690 --> 00:00:16,710
+nombre del archivo. Vamos a utilizar esta función.
+

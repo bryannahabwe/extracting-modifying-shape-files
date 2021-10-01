@@ -1,0 +1,204 @@
+1
+00:00:00,330 --> 00:00:02,070
+Agora que sabemos um pouco sobre as variáveis de
+
+2
+00:00:02,070 --> 00:00:05,050
+classe, vamos passar a outra ideia na programação
+
+3
+00:00:05,050 --> 00:00:08,870
+orientada a objeto: no Python, todas as classes vêm com
+
+4
+00:00:08,870 --> 00:00:13,920
+algumas variáveis de classe pré-existentes. Uma delas é chamada doc. Essa
+
+5
+00:00:13,920 --> 00:00:16,880
+variável tem sublinhados nos dois lados do
+
+6
+00:00:16,880 --> 00:00:20,130
+nome. Vejamos essa variável em ação. Estou na
+
+7
+00:00:20,130 --> 00:00:23,450
+janela do shell Python com o prompt Python.
+
+8
+00:00:23,450 --> 00:00:26,250
+Posso digitar um programa aqui, como 2+2, e
+
+9
+00:00:26,250 --> 00:00:28,940
+ele me dá a resposta correta. Quero
+
+10
+00:00:28,940 --> 00:00:31,780
+relembrar a classe Turtle que
+
+11
+00:00:31,780 --> 00:00:34,480
+usamos outro dia ao desenhar formas. Posso
+
+12
+00:00:34,480 --> 00:00:38,740
+simplesmente importar essa classe Turtle. Pronto. Vejamos
+
+13
+00:00:38,740 --> 00:00:40,500
+o que acontece quando uso o nome de classe
+
+14
+00:00:40,500 --> 00:00:46,130
+turtle.Turtle. Lembre-se de que este era o nome do módulo
+
+15
+00:00:46,130 --> 00:00:48,650
+ou do arquivo, e este era o nome de classe.
+
+16
+00:00:48,650 --> 00:00:51,960
+Se eu usar o nome de classe com a variável
+
+17
+00:00:51,960 --> 00:00:55,430
+predefinida chamada doc, vejamos qual o resultado...
+
+18
+00:00:56,680 --> 00:01:00,330
+Recebo um tipo de documentação sobre a classe Turtle.
+
+19
+00:01:00,330 --> 00:01:03,140
+Eu me pergunto se posso usar a variável doc
+
+20
+00:01:03,140 --> 00:01:06,010
+com a classe Movie. Assim, volto ao código
+
+21
+00:01:06,010 --> 00:01:08,760
+da classe Movie e, atrás deste arquivo, está
+
+22
+00:01:08,760 --> 00:01:11,320
+o outro arquivo Python no qual estou definindo várias
+
+23
+00:01:11,320 --> 00:01:13,750
+instâncias da classe Movie. Volto ao
+
+24
+00:01:13,750 --> 00:01:17,150
+código da classe Movie por um segundo. Vou
+
+25
+00:01:17,150 --> 00:01:20,090
+adicionar uma documentação ao início da
+
+26
+00:01:20,090 --> 00:01:22,720
+classe Movie. Você pode ter percebido que uso
+
+27
+00:01:22,720 --> 00:01:26,290
+aspas triplas para definir a documentação. É possível
+
+28
+00:01:26,290 --> 00:01:29,030
+criar uma documentação com as aspas triplas em
+
+29
+00:01:29,030 --> 00:01:31,940
+várias linhas. Por enquanto, só tenho uma linha.
+
+30
+00:01:31,940 --> 00:01:35,100
+Vou salvar este arquivo e acessar
+
+31
+00:01:35,100 --> 00:01:38,410
+o outro arquivo Python. Rolo
+
+32
+00:01:38,410 --> 00:01:42,510
+até o final e faço qualquer
+
+33
+00:01:42,510 --> 00:01:48,880
+tipo de instrução print. Pronto. Tentarei imprimir a classe Movie,
+
+34
+00:01:48,880 --> 00:01:52,080
+que é acessada ao escrever media.Movie, e
+
+35
+00:01:52,080 --> 00:01:55,112
+a respectiva documentação [SOUND].
+
+36
+00:01:57,410 --> 00:02:00,900
+Pronto. Vou salvar e executar esse arquivo.
+
+37
+00:02:03,130 --> 00:02:05,240
+Aqui está. A documentação para a
+
+38
+00:02:05,240 --> 00:02:08,030
+classe Movie. Observe como a acessei. Acessei
+
+39
+00:02:08,030 --> 00:02:10,949
+a documentação usando o nome de classe, que é Movie,
+
+40
+00:02:10,949 --> 00:02:14,860
+e uma variável de classe predefinida chamada doc. Agora
+
+41
+00:02:14,860 --> 00:02:17,860
+que usamos com sucesso a variável doc,
+
+42
+00:02:17,860 --> 00:02:20,140
+tenho uma pergunta para você. Você sabia que, assim como
+
+43
+00:02:20,140 --> 00:02:23,220
+a variável doc, o Python tem mais algumas
+
+44
+00:02:23,220 --> 00:02:28,280
+variáveis predefinidas? Elas incluem as variáveis name e module.
+
+45
+00:02:28,280 --> 00:02:30,470
+Há mais informações
+
+46
+00:02:30,470 --> 00:02:32,470
+disponíveis sobre elas nos links das Notas do
+
+47
+00:02:32,470 --> 00:02:34,320
+instrutor. Quero que você
+
+48
+00:02:34,320 --> 00:02:37,050
+leia a documentação nas Notas do instrutor
+
+49
+00:02:37,050 --> 00:02:40,840
+e use essas variáveis name e module em um novo
+
+50
+00:02:40,840 --> 00:02:43,170
+programa. Depois disso, volte
+
+51
+00:02:43,170 --> 00:02:45,160
+para a tela e marque esta caixa.
+

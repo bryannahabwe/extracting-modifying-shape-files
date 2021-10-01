@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:02,272
+De acuerdo, este es el código de nuestra clase
+
+2
+00:00:02,272 --> 00:00:05,254
+Movie otra vez, y ahora, tengo mucha curiosidad
+
+3
+00:00:05,254 --> 00:00:08,307
+de descubrir lo que sucede detrás de escenas cuando
+
+4
+00:00:08,307 --> 00:00:11,857
+creo la instancia llamada avatar proporcionando estos cuatro
+
+5
+00:00:11,857 --> 00:00:15,236
+elementos de información. Por cierto, estos elementos son el
+
+6
+00:00:15,236 --> 00:00:19,028
+nombre de la película, su trama, el enlace a su póster
+
+7
+00:00:19,028 --> 00:00:22,279
+y el enlace a su URL de YouTube.
+
+8
+00:00:22,279 --> 00:00:25,051
+Por cierto, evidentemente las dos últimas cosas
+
+9
+00:00:25,051 --> 00:00:28,080
+no son enlaces o URLs. Suenan
+
+10
+00:00:28,080 --> 00:00:31,530
+más como frases en inglés, hice eso porque
+
+11
+00:00:31,530 --> 00:00:37,700
+no había suficiente espacio en la pantalla para que pudiera añadir las URLs o enlaces completos. Bien,
+
+12
+00:00:37,700 --> 00:00:38,980
+tan pronto como ejecutemos esta línea de
+
+13
+00:00:38,980 --> 00:00:42,730
+código, se llama a la función init. Self, en ese
+
+14
+00:00:42,730 --> 00:00:46,130
+caso, es sí misma o la instancia que se está creando. Que es
+
+15
+00:00:46,130 --> 00:00:50,840
+Avatar. La variable movie_title obtiene el valor correcto,
+
+16
+00:00:50,840 --> 00:00:54,500
+que es Avatar. La variable movie_storyline obtiene
+
+17
+00:00:54,500 --> 00:00:58,290
+el valor correcto. La variable poster_image obtiene
+
+18
+00:00:58,290 --> 00:01:02,500
+el valor correcto también. Por último, trailer_youtube
+
+19
+00:01:02,500 --> 00:01:06,230
+obtiene el enlace correcto del avance de YouTube. Bueno,
+
+20
+00:01:06,230 --> 00:01:10,852
+hasta ahora, todo bien. Bueno, una vez que se llama a init y estos cuatro
+
+21
+00:01:10,852 --> 00:01:13,770
+argumentos reciben sus valores apropiados, todas
+
+22
+00:01:13,770 --> 00:01:16,310
+las variables asociadas a la instancia
+
+23
+00:01:16,310 --> 00:01:20,200
+avatar, se inician correctamente. Bien, en este
+
+24
+00:01:20,200 --> 00:01:23,960
+punto, si digo avatar.storyline, el programa imprimirá
+
+25
+00:01:23,960 --> 00:01:26,790
+el valor correcto. De acuerdo, ahora voy a
+
+26
+00:01:26,790 --> 00:01:29,490
+retroceder un poco y voy enlazar
+
+27
+00:01:29,490 --> 00:01:31,240
+algunos de los elementos de información que hemos estado
+
+28
+00:01:31,240 --> 00:01:34,580
+viendo. Aquí está nuestro clase Movie. Y después de definir
+
+29
+00:01:34,580 --> 00:01:37,368
+la clase Movie, generé dos de sus instancias,
+
+30
+00:01:37,368 --> 00:01:41,190
+toy_story y avatar. Podría haber creado más instancias,
+
+31
+00:01:41,190 --> 00:01:42,860
+pero por ahora, sólo he creado a estas
+
+32
+00:01:42,860 --> 00:01:46,350
+dos. Ahora, cuando generé estas dos instancias,
+
+33
+00:01:46,350 --> 00:01:50,720
+lo que estaba haciendo en realidad detrás de escenas, es que estaba separando espacio para
+
+34
+00:01:50,720 --> 00:01:53,578
+cada instancia. Y dentro de ese espacio, cada
+
+35
+00:01:53,578 --> 00:01:56,562
+instancia tenía su propia copia de variables. Estas
+
+36
+00:01:56,562 --> 00:01:58,976
+variables incluyen título, trama,
+
+37
+00:01:58,976 --> 00:02:02,346
+poster_image_url y trailer_youtube_url. Estas
+
+38
+00:02:02,346 --> 00:02:05,858
+son las variables de toy_story y estas son las variables de avatar.
+
+39
+00:02:05,858 --> 00:02:11,026
+Bueno, debido a que estas variables son únicas para cada instancia de la clase Movie, estas
+
+40
+00:02:11,026 --> 00:02:15,962
+variables se denominan variables de instancia. Y esa frase, variables de
+
+41
+00:02:15,962 --> 00:02:21,119
+instancia, es otra nueva palabra que voy a añadir a nuestra lista de palabras.
+

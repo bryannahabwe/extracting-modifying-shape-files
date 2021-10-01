@@ -1,0 +1,128 @@
+1
+00:00:00,440 --> 00:00:03,300
+Bien, antes de cerrar este proyecto, quiero
+
+2
+00:00:03,300 --> 00:00:05,850
+que tomemos un minuto para conectar algunas de las ideas que
+
+3
+00:00:05,850 --> 00:00:08,300
+hemos visto en esta lección hasta ahora. Empezamos
+
+4
+00:00:08,300 --> 00:00:11,290
+creando cuadros y escribimos una porción de
+
+5
+00:00:11,290 --> 00:00:15,890
+código que decía brad = turtle.Turtle. Lo que
+
+6
+00:00:15,890 --> 00:00:19,090
+estábamos haciendo en realidad tras bastidores era crear un
+
+7
+00:00:19,090 --> 00:00:22,818
+objeto o instancia de la clase Turtle. Lo que
+
+8
+00:00:22,818 --> 00:00:26,820
+entonces pudímos hacer con esa instancia son cosas como brad.forward.
+
+9
+00:00:26,820 --> 00:00:29,730
+A continuación, queríamos hacer cosas como leer contenidos
+
+10
+00:00:29,730 --> 00:00:31,960
+desde un archivo en nuestra computadora, por lo que escribimos una
+
+11
+00:00:31,960 --> 00:00:35,300
+fracción de código que decía quotes igual a abrir
+
+12
+00:00:35,300 --> 00:00:38,422
+ubicación del archivo. Lo que estábamos haciendo realmente tras bastidores,
+
+13
+00:00:38,422 --> 00:00:42,070
+era crear un objeto del tipo archivo. Pudimos
+
+14
+00:00:42,070 --> 00:00:46,560
+en ese momento hacer cosas con ese objeto como quotes.read. Y
+
+15
+00:00:46,560 --> 00:00:49,460
+cuando quisimos acceder a un sitio web en Internet,
+
+16
+00:00:49,460 --> 00:00:52,040
+escribimos una fracción de código que decía que la conexión es
+
+17
+00:00:52,040 --> 00:00:55,270
+igual a urllib.urlopen. Ahora bien, esta fracción de
+
+18
+00:00:55,270 --> 00:00:58,930
+código también devolvió un objeto similar a un archivo o instancia
+
+19
+00:00:58,930 --> 00:01:00,210
+y pudimos entonces hacer cosas con
+
+20
+00:01:00,210 --> 00:01:04,900
+esa instancia, como connection.read. En los tres
+
+21
+00:01:04,900 --> 00:01:08,600
+ejemplos, creamos instancias u objetos
+
+22
+00:01:08,600 --> 00:01:11,373
+y luego usamos esos objetos. Bien, algunos
+
+23
+00:01:11,373 --> 00:01:16,620
+de ustedes puede decir que en el ejemplo de editor de lenguaje obsceno, todo lo que utilizamos fueron funciones.
+
+24
+00:01:16,620 --> 00:01:21,650
+Funciones como open y urlopen y que no hubo clase de la manera que lo vimos en el
+
+25
+00:01:21,650 --> 00:01:25,890
+ejemplo anterior con Turtle. Bueno, a pesar de que en la superficie
+
+26
+00:01:25,890 --> 00:01:28,450
+parece que no hicimos uso de ninguna clase
+
+27
+00:01:28,450 --> 00:01:31,420
+en el ejemplo de editor de lenguaje obsceno, si nos fijamos en
+
+28
+00:01:31,420 --> 00:01:35,950
+cómo se implementan realmente las funciones como open y urlopen
+
+29
+00:01:35,950 --> 00:01:39,470
+en Python, encontraremos que algunas clases,
+
+30
+00:01:39,470 --> 00:01:42,580
+funciones similares a init se llaman para devolver estos objetos.
+
+31
+00:01:43,660 --> 00:01:46,730
+Bien, veamos un ejemplo más de cómo
+
+32
+00:01:46,730 --> 00:01:49,820
+utilizar clases. Las cosas serán mucho más claras después de eso.
+

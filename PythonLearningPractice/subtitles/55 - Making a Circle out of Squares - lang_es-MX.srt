@@ -1,0 +1,60 @@
+1
+00:00:00,260 --> 00:00:02,920
+Okay, aquí estamos, de nuevo en el código. Por ahora, lo
+
+2
+00:00:02,920 --> 00:00:06,689
+que haré será continuar dibujando el cuadrado, pero quitaré
+
+3
+00:00:06,689 --> 00:00:08,880
+el resto del código. Entonces, permítanme continuar y
+
+4
+00:00:08,880 --> 00:00:14,570
+hacerlo. Déjenme guardarlo rápidamente y ejecutarlo para asegurar que todo funcione bien.
+
+5
+00:00:16,950 --> 00:00:18,710
+Muy bien, el programa aún parece estar dibujando
+
+6
+00:00:18,710 --> 00:00:22,390
+un cuadrado, lo cual es bueno. Ahora, si recuerdan el reto original,
+
+7
+00:00:22,390 --> 00:00:25,720
+era dibujar un círculo a base de cuadrados. Y hasta
+
+8
+00:00:25,720 --> 00:00:29,170
+ahora, todo lo que han hecho es dibujar tan sólo un cuadrado.
+
+9
+00:00:29,170 --> 00:00:32,310
+Ante esto, tengo una pregunta para ustedes. ¿Cómo podrían
+
+10
+00:00:32,310 --> 00:00:35,020
+construir el código que hemos escrito hasta ahora para dibujar
+
+11
+00:00:35,020 --> 00:00:38,800
+esta imagen? Bueno, no se preocupen por escribir el código ahora. Lo único
+
+12
+00:00:38,800 --> 00:00:42,140
+que quiero que hagan es que identifiquen en lenguaje simple y claro
+
+13
+00:00:42,140 --> 00:00:45,710
+los pasos que deben seguir para resolver este problema. Pueden presentar sus respuestas en
+
+14
+00:00:45,710 --> 00:00:48,160
+el foro de debate. Una vez que lo hayan hecho, asegúrense
+
+15
+00:00:48,160 --> 00:00:49,860
+de marcar esta casilla antes de continuar.
+

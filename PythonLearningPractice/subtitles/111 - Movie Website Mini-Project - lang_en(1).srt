@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:05,085
+So let me start this video by saying that in case this code did not work for you,
+
+2
+00:00:05,085 --> 00:00:08,915
+ask us questions on the discussion forum. We are here to help.
+
+3
+00:00:08,915 --> 00:00:13,155
+Now, you may be curious about this file called fresh_tomatoes.
+
+4
+00:00:13,155 --> 00:00:15,450
+So let's talk about it next.
+
+5
+00:00:15,450 --> 00:00:18,255
+Now, I want you to recall that this file
+
+6
+00:00:18,255 --> 00:00:23,215
+fresh_tomatoes.py had a function inside it called open_movies_page.
+
+7
+00:00:23,215 --> 00:00:26,160
+Now this function receives a list of movies,
+
+8
+00:00:26,160 --> 00:00:31,770
+and then creates and opens an HTML file or a webpage that showcases those movies.
+
+9
+00:00:31,770 --> 00:00:34,770
+By the way, it stores this HTML file in
+
+10
+00:00:34,770 --> 00:00:38,785
+the exact same folder as all of your other movie program files.
+
+11
+00:00:38,785 --> 00:00:40,675
+So let me go to that folder now.
+
+12
+00:00:40,675 --> 00:00:45,925
+And here is my movies folder with all of my python movie files right here.
+
+13
+00:00:45,925 --> 00:00:50,995
+Notice that this is the HTML file that we just created by running our program.
+
+14
+00:00:50,995 --> 00:00:56,005
+This is the file that actually showed us all of our movies and played the trailer.
+
+15
+00:00:56,005 --> 00:01:01,010
+And here is the fresh_tomatoes python file that you downloaded from our website.
+
+16
+00:01:01,010 --> 00:01:04,200
+Let me open it. All right,
+
+17
+00:01:04,200 --> 00:01:08,220
+here is the code for our python file, fresh_tomatoes.py.
+
+18
+00:01:08,220 --> 00:01:11,760
+Now, while I won't go through this entire code in detail,
+
+19
+00:01:11,760 --> 00:01:13,915
+I encourage you to read through this program.
+
+20
+00:01:13,915 --> 00:01:16,590
+I want you to understand how it takes in a list of
+
+21
+00:01:16,590 --> 00:01:20,260
+movies and creates a website to show those movies.
+
+22
+00:01:20,260 --> 00:01:24,370
+Now, we've added comments to this file that will make this code readable.
+
+23
+00:01:24,370 --> 00:01:26,790
+All right. The next thing we want to do is we
+
+24
+00:01:26,790 --> 00:01:30,270
+want you to share the movie website that you've created thus far.
+
+25
+00:01:30,270 --> 00:01:31,795
+So here is your task.
+
+26
+00:01:31,795 --> 00:01:36,400
+We want you to create your very own movie website with your favorite movies.
+
+27
+00:01:36,400 --> 00:01:38,445
+Once you've done that, we want you to share
+
+28
+00:01:38,445 --> 00:01:41,560
+any one of the following two things with us on the forum.
+
+29
+00:01:41,560 --> 00:01:43,830
+You can take a screenshot or an image of
+
+30
+00:01:43,830 --> 00:01:46,260
+your movie website and share that with us on the forum,
+
+31
+00:01:46,260 --> 00:01:48,990
+or if you have access to a smartphone,
+
+32
+00:01:48,990 --> 00:01:51,180
+we want you to record and share
+
+33
+00:01:51,180 --> 00:01:55,125
+a YouTube video of you showing your movie website to a friend.
+
+34
+00:01:55,125 --> 00:01:57,560
+Once you've submitted your responses on the forum,
+
+35
+00:01:57,560 --> 00:01:59,180
+make sure you check this box.
+

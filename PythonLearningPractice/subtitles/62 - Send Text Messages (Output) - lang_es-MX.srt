@@ -1,0 +1,20 @@
+1
+00:00:00,400 --> 00:00:04,750
+Bien, escribí este programa que envía mensajes de texto y aquí está el teléfono
+
+2
+00:00:04,750 --> 00:00:08,810
+donde quiero recibir mi mensaje de texto. Así que, permítanme continuar y ejecutar mi
+
+3
+00:00:08,810 --> 00:00:16,140
+código. En tres, dos, uno.
+
+4
+00:00:18,790 --> 00:00:22,020
+Oh, parece que tengo un nuevo mensaje, me pregunto de quién
+
+5
+00:00:22,020 --> 00:00:27,810
+es. El mensaje dice, mi nombre es Ron Burgundy, excelente. Vamos a diseñar este programa.
+

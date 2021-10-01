@@ -1,0 +1,88 @@
+1
+00:00:00,300 --> 00:00:03,740
+Até agora, vimos como a herança
+
+2
+00:00:03,740 --> 00:00:07,030
+pode nos ajudar a reutilizar variáveis de instância. Agora,
+
+3
+00:00:07,030 --> 00:00:09,420
+quero mostrar um exemplo de como a herança
+
+4
+00:00:09,420 --> 00:00:12,790
+pode ajudar a reutilizar métodos. De volta ao
+
+5
+00:00:12,790 --> 00:00:14,710
+código, temos uma classe
+
+6
+00:00:14,710 --> 00:00:17,650
+chamada Parent e uma classe chamada Child. Lembre-se
+
+7
+00:00:17,650 --> 00:00:21,610
+que a classe Child é herdeira da classe Parent. Vou
+
+8
+00:00:21,610 --> 00:00:25,220
+começar definindo um método de instância simples na
+
+9
+00:00:25,220 --> 00:00:29,160
+classe Parent, e vou chamá-lo de show_info.
+
+10
+00:00:29,160 --> 00:00:32,000
+O primeiro argumento desse método é self, e
+
+11
+00:00:32,000 --> 00:00:37,020
+tudo o que esse método faz é imprimir last_name e eye_color do pai.
+
+12
+00:00:39,300 --> 00:00:41,380
+Há duas instruções print.
+
+13
+00:00:42,590 --> 00:00:44,970
+Para testar se o método realmente
+
+14
+00:00:44,970 --> 00:00:47,910
+funciona, vou chamar o método show_info
+
+15
+00:00:47,910 --> 00:00:51,190
+usando a instância billy_cyrus da classe Parent. Farei
+
+16
+00:00:51,190 --> 00:00:57,135
+isso em seguida. Aqui está o método. Tudo o que fiz até agora foi criar um novo
+
+17
+00:00:57,135 --> 00:01:01,060
+método chamado show_info na classe Parent. Depois,
+
+18
+00:01:01,060 --> 00:01:05,050
+usei uma instância da classe Parent chamada billy_cyrus
+
+19
+00:01:05,050 --> 00:01:10,130
+para chamar o método. Para manter o foco na saída desta instrução, vou
+
+20
+00:01:10,130 --> 00:01:16,100
+comentar a outra instância. Pronto. Vou
+
+21
+00:01:16,100 --> 00:01:20,570
+salvar e executar esse programa. Muito bem. O programa imprime
+
+22
+00:01:20,570 --> 00:01:25,660
+os valores corretos de sobrenome e cor dos olhos de billy_cyrus. Até aí, tudo bem.
+

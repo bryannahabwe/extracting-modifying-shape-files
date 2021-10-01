@@ -1,0 +1,92 @@
+1
+00:00:00,350 --> 00:00:03,150
+Ok, vamos começar a escrever o código. Primeiro,
+
+2
+00:00:03,150 --> 00:00:07,110
+criei um arquivo chamado send_text.py. Como você pode ver,
+
+3
+00:00:07,110 --> 00:00:09,240
+este arquivo está vazio por enquanto.
+
+4
+00:00:10,380 --> 00:00:13,040
+Se você acessar a página de instalação do Twilio...
+
+5
+00:00:13,040 --> 00:00:15,430
+A propósito, este link também está disponível nas
+
+6
+00:00:15,430 --> 00:00:19,340
+Notas do instrutor. Se você rolar para baixo nesta página,
+
+7
+00:00:19,340 --> 00:00:22,110
+perceberá que o Twilio forneceu alguns códigos de exemplo que
+
+8
+00:00:22,110 --> 00:00:25,580
+nos permitem enviar mensagens de texto para o celular. Só
+
+9
+00:00:25,580 --> 00:00:27,850
+quero executar e ver se este código
+
+10
+00:00:27,850 --> 00:00:31,530
+funciona. Se este programa funcionar, só então
+
+11
+00:00:31,530 --> 00:00:34,080
+tentarei compreender como a
+
+12
+00:00:34,080 --> 00:00:37,530
+mensagem é enviada ao nosso celular. Por enquanto,
+
+13
+00:00:37,530 --> 00:00:40,820
+copiarei este código, voltarei ao programa de
+
+14
+00:00:40,820 --> 00:00:44,360
+sintaxe e o colarei. Parece que
+
+15
+00:00:44,360 --> 00:00:48,420
+o código está importando o Twilio. Embora seja um pouco
+
+16
+00:00:48,420 --> 00:00:50,770
+diferente do que vimos até agora, há esta
+
+17
+00:00:50,770 --> 00:00:53,230
+palavra-chave from, que não vimos
+
+18
+00:00:53,230 --> 00:00:56,208
+antes. Vou executar este código mais tarde. As
+
+19
+00:00:56,208 --> 00:01:01,130
+próximas duas linhas no programa contém account_sid e
+
+20
+00:01:01,130 --> 00:01:05,140
+auth_token. Essas linhas devem ser para o Twilio
+
+21
+00:01:05,140 --> 00:01:07,810
+descobrir quem eu sou. Quase como
+
+22
+00:01:07,810 --> 00:01:10,390
+meu nome de usuário e senha. Vamos até o
+
+23
+00:01:10,390 --> 00:01:13,020
+site do Twilio saber mais sobre essas dois valores.
+

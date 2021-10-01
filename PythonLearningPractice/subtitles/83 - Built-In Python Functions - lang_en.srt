@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:03,045
+Now, before we write the second part of this program,
+
+2
+00:00:03,045 --> 00:00:06,325
+I want you to experiment with built-in functions.
+
+3
+00:00:06,325 --> 00:00:10,410
+Pick any one of the built-in functions or read through their documentation.
+
+4
+00:00:10,410 --> 00:00:14,700
+By the way, the link to this page is available in the instructor notes.
+
+5
+00:00:14,700 --> 00:00:17,985
+Use your chosen built-in functions in a new program.
+
+6
+00:00:17,985 --> 00:00:20,630
+And then, share your experiences on the forum.
+
+7
+00:00:20,630 --> 00:00:22,305
+You should answer questions like,
+
+8
+00:00:22,305 --> 00:00:26,135
+which built-in function did you actually decide to use?
+
+9
+00:00:26,135 --> 00:00:27,925
+What did your program do?
+
+10
+00:00:27,925 --> 00:00:30,525
+And what problems did you run into?
+
+11
+00:00:30,525 --> 00:00:34,005
+By the way, being able to read documentation and
+
+12
+00:00:34,005 --> 00:00:38,745
+experimenting with Python is a big part of learning how to program.
+
+13
+00:00:38,745 --> 00:00:41,145
+Once you've posted your responses on the forum,
+
+14
+00:00:41,145 --> 00:00:44,000
+feel free to check this box before you continue.
+

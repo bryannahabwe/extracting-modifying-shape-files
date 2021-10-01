@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:02,640
+Okay. So, here's the code for class parent.
+
+2
+00:00:02,640 --> 00:00:07,120
+And now, I will start to define class child.
+
+3
+00:00:07,450 --> 00:00:12,030
+Now, I know class child inherits from class parent,
+
+4
+00:00:12,030 --> 00:00:16,315
+and the way to indicate that in Python is to say this.
+
+5
+00:00:16,315 --> 00:00:20,550
+The syntax here means that class child will now
+
+6
+00:00:20,550 --> 00:00:24,965
+inherit or reuse everything that is publicly available in class parent.
+
+7
+00:00:24,965 --> 00:00:28,220
+Now, things will get really interesting when we begin to
+
+8
+00:00:28,220 --> 00:00:31,520
+define the _init_ method or the constructor for this class.
+
+9
+00:00:31,520 --> 00:00:34,240
+So, we know that class child has
+
+10
+00:00:34,240 --> 00:00:38,630
+three variables: last name and eye color that are inherited from class parent,
+
+11
+00:00:38,630 --> 00:00:41,120
+and there is other variable called "number of toys."
+
+12
+00:00:41,120 --> 00:00:44,900
+So, in addition to the keyword "self," I will receive those values
+
+13
+00:00:44,900 --> 00:00:48,980
+as arguments right here in the _init_ function, there they are.
+
+14
+00:00:48,980 --> 00:00:53,330
+Now, to initialize the variables I'm inheriting from class parent,
+
+15
+00:00:53,330 --> 00:00:55,705
+variables like last name and eye color,
+
+16
+00:00:55,705 --> 00:01:01,510
+I will actually reuse class parents _init_ method. This is how to do it.
+
+17
+00:01:13,460 --> 00:01:15,960
+The last instance variable,
+
+18
+00:01:15,960 --> 00:01:19,480
+number of toys, will be initialized next.
+
+19
+00:01:19,480 --> 00:01:25,900
+Okay. Finally, I will add a print statement to the very beginning of the _init_ method.
+
+20
+00:01:32,330 --> 00:01:36,585
+All right. Now, that we have defined our class child,
+
+21
+00:01:36,585 --> 00:01:40,435
+the next thing to do is to create an instance of this class child.
+
+22
+00:01:40,435 --> 00:01:45,490
+I will call it appropriately enough Miley Cyrus, and here,
+
+23
+00:01:45,490 --> 00:01:48,395
+I will provide the three necessary arguments,
+
+24
+00:01:48,395 --> 00:01:51,440
+and then I will print out two things,
+
+25
+00:01:51,440 --> 00:01:55,565
+her last name and the number of toys.
+
+26
+00:01:55,565 --> 00:01:59,580
+Also, so I can focus on these print statements in my output,
+
+27
+00:01:59,580 --> 00:02:02,720
+I will comment out the previous instance for now.
+
+28
+00:02:02,720 --> 00:02:06,140
+There. Let me save this file.
+
+29
+00:02:06,140 --> 00:02:08,665
+Now, before I run this program,
+
+30
+00:02:08,665 --> 00:02:11,680
+I want you to think about what the output of this program will be.
+
+31
+00:02:11,680 --> 00:02:14,110
+So, here is the code one more time,
+
+32
+00:02:14,110 --> 00:02:15,440
+here is class parent,
+
+33
+00:02:15,440 --> 00:02:16,985
+and here's class child.
+
+34
+00:02:16,985 --> 00:02:19,810
+And here, we are creating an instance of class child,
+
+35
+00:02:19,810 --> 00:02:21,250
+and we named it Miley Cyrus.
+
+36
+00:02:21,250 --> 00:02:24,850
+So, what do you think will be printed when I run this piece of code?
+
+37
+00:02:24,850 --> 00:02:28,140
+Enter your responses in this box.
+

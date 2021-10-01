@@ -1,0 +1,20 @@
+1
+00:00:00,400 --> 00:00:04,750
+Criei esse programa que envia mensagens de texto. Aqui está o celular
+
+2
+00:00:04,750 --> 00:00:08,810
+no qual quero receber a mensagem de texto. Vou continuar e executar o
+
+3
+00:00:08,810 --> 00:00:16,140
+código. Em três, dois, um.
+
+4
+00:00:18,790 --> 00:00:22,020
+Parece que tenho uma nova mensagem, me pergunto de quem
+
+5
+00:00:22,020 --> 00:00:27,810
+é. A mensagem diz que é de Ron Burgundy, legal. Vamos desenvolver esse programa.
+

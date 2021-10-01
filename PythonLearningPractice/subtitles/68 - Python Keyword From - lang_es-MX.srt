@@ -1,0 +1,36 @@
+1
+00:00:00,120 --> 00:00:03,790
+Entonces ahora que nuestro código ha funcionado, veamos que es lo que realmente sucede
+
+2
+00:00:03,790 --> 00:00:06,830
+con este programa. Ahora, lo primero que me llama la atención
+
+3
+00:00:06,830 --> 00:00:09,080
+es esta primera línea de código, que
+
+4
+00:00:09,080 --> 00:00:15,830
+es from twilio.rest import TwilioRestClient Bien, hasta ahora,
+
+5
+00:00:15,830 --> 00:00:18,670
+lo que hemos estado haciendo son declaraciones como esta,
+
+6
+00:00:18,670 --> 00:00:21,780
+donde decimos importar algún nombre de archivo. Como en
+
+7
+00:00:21,780 --> 00:00:25,160
+este caso, import turtle, sin embargo aquí tenemos
+
+8
+00:00:25,160 --> 00:00:33,010
+esta nueva palabra llamada from (desde). Aquí les dejo esta tarea, queremos que descubran
+
+9
+00:00:33,010 --> 00:00:38,080
+lo que significa la palabra clave from de Python. Puede escribir sus respuestas en esta casilla.
+

@@ -1,0 +1,88 @@
+1
+00:00:00,300 --> 00:00:03,740
+Perfecto, hasta ahora hemos visto como la herencia
+
+2
+00:00:03,740 --> 00:00:07,030
+nos puede ayudar a reutilizar las variables de instancia. Bueno,
+
+3
+00:00:07,030 --> 00:00:09,420
+les quiero mostrar un ejemplo de cómo la herencia
+
+4
+00:00:09,420 --> 00:00:12,790
+puede ayudar a reutilizar métodos. Bien, aquí estamos
+
+5
+00:00:12,790 --> 00:00:14,710
+de vuelta en el código donde tenemos una clase
+
+6
+00:00:14,710 --> 00:00:17,650
+llamada Parent y una clase llamada Child. Y si
+
+7
+00:00:17,650 --> 00:00:21,610
+recuerdan, la clase Child hereda de la clase Parent. Bien,
+
+8
+00:00:21,610 --> 00:00:25,220
+Empezaré por definir un método de instancia simple dentro
+
+9
+00:00:25,220 --> 00:00:29,160
+de la clase Parent. Y lo llamaré show_info.
+
+10
+00:00:29,160 --> 00:00:32,000
+El primer argumento de este método es self y
+
+11
+00:00:32,000 --> 00:00:37,020
+todo lo que este método hace es imprimir last_name y eye_Color de Parent.
+
+12
+00:00:39,300 --> 00:00:41,380
+De acuerdo, ahí están las dos sentencias Print.
+
+13
+00:00:42,590 --> 00:00:44,970
+Ahora para verificar si este método realmente
+
+14
+00:00:44,970 --> 00:00:47,910
+funciona, voy a llamar a este método show_info
+
+15
+00:00:47,910 --> 00:00:51,190
+utilizando la instancia billy_cyrus de Parent. Permítanme hacer
+
+16
+00:00:51,190 --> 00:00:57,135
+eso a continuación. Bien, ahí está ese método. Bueno, todo lo que he hecho hasta ahora es crear un nuevo
+
+17
+00:00:57,135 --> 00:01:01,060
+método llamado show_info dentro de la clase Parent. Después
+
+18
+00:01:01,060 --> 00:01:05,050
+utilice una instancia llamada billy_cyrus de la clase Parent,
+
+19
+00:01:05,050 --> 00:01:10,130
+para llamar a ese método. Ahora, para poder concentrarme en el resultado de esta sentencia,
+
+20
+00:01:10,130 --> 00:01:16,100
+voy a ignorar en el código la otra sentencia de la instancia por ahora. Listo. Permítanme
+
+21
+00:01:16,100 --> 00:01:20,570
+continuar y guardar, y ejecutar este programa. Muy bien. Así que el programa imprime
+
+22
+00:01:20,570 --> 00:01:25,660
+los valores correctos del apellido y color de ojos billy_cyrus Hasta ahora, todo bien.
+

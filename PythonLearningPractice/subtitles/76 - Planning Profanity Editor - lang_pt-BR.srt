@@ -1,0 +1,32 @@
+1
+00:00:00,230 --> 00:00:02,565
+Antes de criar o programa, deixe-me fazer uma
+
+2
+00:00:02,565 --> 00:00:05,880
+pergunta. Se
+
+3
+00:00:05,880 --> 00:00:07,400
+você estivesse criando o programa de
+
+4
+00:00:07,400 --> 00:00:10,850
+verificação de palavrões, que etapas executaria para obter a saída? Não se preocupe com a escrita de códigos no momento.
+
+5
+00:00:10,850 --> 00:00:13,520
+Em poucas palavras, descreva as etapas necessárias para obter
+
+6
+00:00:13,520 --> 00:00:16,250
+a saída. Após
+
+7
+00:00:16,250 --> 00:00:18,490
+enviar suas respostas ao fórum, não deixe de marcar
+
+8
+00:00:18,490 --> 00:00:20,210
+esta caixa antes de continuar.
+

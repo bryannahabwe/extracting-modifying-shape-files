@@ -1,0 +1,40 @@
+1
+00:00:00,530 --> 00:00:03,180
+Uma maneira de desenhar vários quadrados
+
+2
+00:00:03,180 --> 00:00:05,420
+é começar desenhando apenas um. Assim, veja
+
+3
+00:00:05,420 --> 00:00:07,250
+o que vou fazer. Vou me afastar do
+
+4
+00:00:07,250 --> 00:00:10,600
+computador por um momento. Colocar este chapéu.
+
+5
+00:00:13,280 --> 00:00:17,510
+E desenhar sobre este tapete vermelho, que será minha tela. Ao
+
+6
+00:00:17,510 --> 00:00:21,970
+me mover, você verá meu desenho. Aqui está.
+
+7
+00:00:25,060 --> 00:00:28,240
+Neste caso, desenhei um triângulo. Aqui
+
+8
+00:00:28,240 --> 00:00:31,130
+está uma tarefa para você. Se você me pedisse para desenhar
+
+9
+00:00:31,130 --> 00:00:34,630
+um quadrado neste tapete vermelho, que instruções passo a passo
+
+10
+00:00:34,630 --> 00:00:37,380
+você daria? Escreva suas respostas na caixa fornecida.
+

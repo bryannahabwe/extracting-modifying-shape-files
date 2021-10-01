@@ -1,0 +1,44 @@
+1
+00:00:00,590 --> 00:00:03,280
+Bueno, estoy de vuelta con el código y si
+
+2
+00:00:03,280 --> 00:00:06,670
+me desplazo hacia abajo, se darán cuenta que hice un cambio
+
+3
+00:00:06,670 --> 00:00:10,520
+en el código, el cual es, añadí una sentencia if para imprimir
+
+4
+00:00:10,520 --> 00:00:15,020
+mensajes de resultados más fáciles de leer. Permítanme ejecutar el código ahora.
+
+5
+00:00:17,290 --> 00:00:20,930
+¡Ajá! El programa dice que hay lenguaje obsceno
+
+6
+00:00:20,930 --> 00:00:23,780
+en el documento movie_quotes. Y si vuelvo
+
+7
+00:00:23,780 --> 00:00:26,560
+a mi documento movie_quotes, puedo encontrar la
+
+8
+00:00:26,560 --> 00:00:29,700
+palabra culpable. Bien, voy a proseguir y cambiar rápidamente eso.
+
+9
+00:00:31,290 --> 00:00:37,180
+Entonces, voy a cambiarlo y guardar este documento y ahora, si ejecuto mi código,
+
+10
+00:00:37,180 --> 00:00:40,230
+recibo un mensaje diciendo que no se encontró lenguaje obsceno.
+
+11
+00:00:40,230 --> 00:00:42,970
+Perfecto, el segundo paso de nuestro programa también está hecho.
+

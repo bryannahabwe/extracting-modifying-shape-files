@@ -1,0 +1,20 @@
+1
+00:00:00,350 --> 00:00:04,480
+Esta é a documentação Python para OS, e vou pesquisar
+
+2
+00:00:04,480 --> 00:00:08,470
+algo que possa nos ajudar a renomear um arquivo. Surpresa, há uma função rename
+
+3
+00:00:08,470 --> 00:00:12,820
+que podemos usar. A função usa a origem ou o nome atual do arquivo e
+
+4
+00:00:12,820 --> 00:00:14,690
+o altera para o destino ou o novo
+
+5
+00:00:14,690 --> 00:00:16,710
+nome do arquivo. Vamos usar essa função.
+

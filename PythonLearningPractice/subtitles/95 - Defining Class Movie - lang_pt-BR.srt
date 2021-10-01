@@ -1,0 +1,168 @@
+1
+00:00:00,260 --> 00:00:02,640
+O design da nossa classe Movie está
+
+2
+00:00:02,640 --> 00:00:04,410
+aqui no canto superior direito, [SOUND] e vou
+
+3
+00:00:04,410 --> 00:00:07,410
+começar com um arquivo de programação em branco. Chamei esse arquivo
+
+4
+00:00:07,410 --> 00:00:10,570
+de media.py e o salvei na pasta
+
+5
+00:00:10,570 --> 00:00:14,165
+movies. Para criar uma nova classe,
+
+6
+00:00:14,165 --> 00:00:17,370
+[SOUND] usarei a palavra-chave class e
+
+7
+00:00:17,370 --> 00:00:22,000
+a chamarei de Movie. Você provavelmente percebeu que
+
+8
+00:00:22,000 --> 00:00:25,380
+a primeira letra do nome da classe, M,
+
+9
+00:00:25,380 --> 00:00:28,900
+está em maiúscula. Essa letra não precisa necessariamente
+
+10
+00:00:28,900 --> 00:00:31,710
+estar em maiúscula, mas o guia de estilo do Google
+
+11
+00:00:31,710 --> 00:00:34,260
+para Python aconselha que sim.
+
+12
+00:00:34,260 --> 00:00:36,500
+Mas o que é o guia de estilo do Google
+
+13
+00:00:36,500 --> 00:00:38,960
+para Python, afinal? Vamos pesquisar no Google
+
+14
+00:00:38,960 --> 00:00:42,580
+para saber. Este primeiro link me parece apropriado.
+
+15
+00:00:44,280 --> 00:00:48,370
+O guia de estilo fornece a programadores de todo o
+
+16
+00:00:48,370 --> 00:00:51,530
+mundo as convenções sobre como escrever programas.
+
+17
+00:00:51,530 --> 00:00:54,360
+Se você rolar para baixo um pouco, observará
+
+18
+00:00:54,360 --> 00:00:57,120
+que há convenções para tudo, desde como nomear
+
+19
+00:00:57,120 --> 00:01:00,110
+algo até como escrever comentários. O
+
+20
+00:01:00,110 --> 00:01:02,640
+link para este site está disponível nas Notas
+
+21
+00:01:02,640 --> 00:01:05,660
+do instrutor. Recomendo que você leia integralmente esse documento.
+
+22
+00:01:05,660 --> 00:01:09,150
+Se você clicar neste link chamado Naming, verá
+
+23
+00:01:09,150 --> 00:01:12,980
+que o Google recomenda que a primeira letra
+
+24
+00:01:12,980 --> 00:01:16,700
+na definição de um nome de classe esteja em maiúscula.
+
+25
+00:01:16,700 --> 00:01:20,060
+Ok, de volta ao código. Até agora
+
+26
+00:01:20,060 --> 00:01:24,040
+encontramos uma palavra-chave chamada class. Na verdade,
+
+27
+00:01:24,040 --> 00:01:26,360
+encontraremos várias novas palavras nesta
+
+28
+00:01:26,360 --> 00:01:29,220
+lição, e vou listar todas em um
+
+29
+00:01:29,220 --> 00:01:32,710
+único local para facilitar a consulta. A palavra class é a primeira
+
+30
+00:01:32,710 --> 00:01:35,470
+da lista. Analisaremos todas as palavras
+
+31
+00:01:35,470 --> 00:01:38,270
+nessa lista antes de terminar a lição. Você
+
+32
+00:01:38,270 --> 00:01:41,550
+talvez tenha percebido que a classe está vazia.
+
+33
+00:01:41,550 --> 00:01:43,500
+Para descobrir o que fazer a seguir,
+
+34
+00:01:43,500 --> 00:01:46,150
+voltarei ao meu design. Portanto,
+
+35
+00:01:46,150 --> 00:01:49,470
+de volta ao design de classe. Finalmente,
+
+36
+00:01:49,470 --> 00:01:52,790
+vou criar várias instâncias
+
+37
+00:01:52,790 --> 00:01:56,190
+da classe Movie. Instâncias como Toy Story e
+
+38
+00:01:56,190 --> 00:01:59,760
+Avatar. Também criei anteriormente instâncias
+
+39
+00:01:59,760 --> 00:02:03,930
+da classe Turtle, como Brad, e, para tanto,
+
+40
+00:02:03,930 --> 00:02:06,265
+tive que escrever o código
+
+41
+00:02:06,265 --> 00:02:09,960
+turtle.Turtle. Assim, acho que terei que escrever um código como
+
+42
+00:02:09,960 --> 00:02:15,270
+este para criar a instância Toy Story da classe Movie. Vamos fazer isso em seguida.
+

@@ -1,0 +1,16 @@
+1
+00:00:00,380 --> 00:00:05,750
+Criei um programa que, no momento, está oculto atrás deste gráfico. Se executá-lo,
+
+2
+00:00:06,840 --> 00:00:12,479
+ele começará a desenhar quadrados. E desses quadrados surgirá um círculo.
+
+3
+00:00:12,479 --> 00:00:22,479
+[MUSIC]
+
+4
+00:00:27,918 --> 00:00:31,057
+Vamos desenvolver uma forma e aprender sobre classes ao mesmo tempo.
+

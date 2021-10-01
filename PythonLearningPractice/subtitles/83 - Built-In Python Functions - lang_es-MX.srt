@@ -1,0 +1,48 @@
+1
+00:00:00,310 --> 00:00:02,330
+De acuerdo, antes de escribir la segunda parte de este
+
+2
+00:00:02,330 --> 00:00:06,330
+programa, quiero que experimenten con las funciones incorporadas.
+
+3
+00:00:06,330 --> 00:00:09,340
+Escojan cualquiera de las funciones incorporadas, lean su
+
+4
+00:00:09,340 --> 00:00:12,560
+documentación. Por cierto, el enlace a esta página también
+
+5
+00:00:12,560 --> 00:00:16,160
+está disponible en las notas del instructor. Utilicen sus funciones
+
+6
+00:00:16,160 --> 00:00:18,940
+incorporadas en un programa nuevo y luego
+
+7
+00:00:18,940 --> 00:00:22,400
+compartan sus experiencias en el foro. Deben responder a preguntas como:
+
+8
+00:00:22,400 --> 00:00:26,210
+¿Cuál de las funciones incorporadas en efecto decidieron usar?
+
+9
+00:00:26,210 --> 00:00:30,530
+¿Qué hizo su programa? ¿Y con que problemas se encontraron?
+
+10
+00:00:30,530 --> 00:00:35,820
+Por cierto, tener la capacidad de leer la documentación y experimentar con Python, es
+
+11
+00:00:35,820 --> 00:00:39,840
+una gran parte de aprender a programar. Una vez que han enviado sus
+
+12
+00:00:39,840 --> 00:00:43,500
+respuestas al foro, no duden en marcar esta casilla antes de continuar.
+

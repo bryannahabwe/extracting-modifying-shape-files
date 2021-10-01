@@ -1,0 +1,188 @@
+1
+00:00:00,290 --> 00:00:02,350
+Bien, en una lección anterior creamos una clase
+
+2
+00:00:02,350 --> 00:00:05,850
+llamada Movie. Bueno, esta clase tenía los siguientes atributos,
+
+3
+00:00:05,850 --> 00:00:08,875
+título de la película, su trama, un enlace a la
+
+4
+00:00:08,875 --> 00:00:11,460
+imagen del póster de la película y el enlace a su
+
+5
+00:00:11,460 --> 00:00:14,670
+tráiler de YouTube. Además de estas cosas, la clase
+
+6
+00:00:14,670 --> 00:00:18,690
+Movie también tenía una función llamada show_trailer. Después de que
+
+7
+00:00:18,690 --> 00:00:21,800
+definimos esta clase Movie creamos varias instancias
+
+8
+00:00:21,800 --> 00:00:25,830
+de esta clase. Instancias como, Toy Story y Avatar.
+
+9
+00:00:25,830 --> 00:00:28,270
+Bien, imaginemos además que queríamos crear
+
+10
+00:00:28,270 --> 00:00:32,390
+otra clase llamada TvShow. Pensaría que
+
+11
+00:00:32,390 --> 00:00:34,970
+esta clase tendría detalles como el título
+
+12
+00:00:34,970 --> 00:00:38,620
+del programa, su temporada y el número episodio. Y
+
+13
+00:00:38,620 --> 00:00:40,770
+también, el canal de televisión que transmite
+
+14
+00:00:40,770 --> 00:00:43,690
+el programa. Además, esta clase también podría tener
+
+15
+00:00:43,690 --> 00:00:47,280
+una función llamada, get_local_listings. Una vez que creamos una
+
+16
+00:00:47,280 --> 00:00:51,020
+clase llamada TvShow, podemos crear instancias múltiples de
+
+17
+00:00:51,020 --> 00:00:54,440
+esta clase, instancias como, primera temporada, episodio uno
+
+18
+00:00:54,440 --> 00:00:58,820
+de Breaking Bad y el último episodio de Seinfeld.
+
+19
+00:00:58,820 --> 00:01:01,200
+Perfecto, si continuamos con nuestro experimento mental,
+
+20
+00:01:01,200 --> 00:01:03,660
+podemos imaginar, además, que puede haber
+
+21
+00:01:03,660 --> 00:01:06,280
+varios artículos que ambas clases pueden
+
+22
+00:01:06,280 --> 00:01:10,260
+compartir entre sí. Cosas como el título por supuesto,
+
+23
+00:01:10,260 --> 00:01:12,720
+también la duración de la película y
+
+24
+00:01:12,720 --> 00:01:16,040
+la duración del programa de televisión en minutos. Entonces, la
+
+25
+00:01:16,040 --> 00:01:18,240
+mejor manera de estructurar este código sería
+
+26
+00:01:18,240 --> 00:01:21,120
+crear otra clase llamada Video, que tendría
+
+27
+00:01:21,120 --> 00:01:23,968
+dos atributos. El título del video y su
+
+28
+00:01:23,968 --> 00:01:28,490
+duración. Y la clase Movie podría heredar de
+
+29
+00:01:28,490 --> 00:01:31,370
+esta clase Video. Para esto, tendríamos
+
+30
+00:01:31,370 --> 00:01:34,740
+que añadir el nombre de la clase Video dentro de estos
+
+31
+00:01:34,740 --> 00:01:38,040
+paréntesis. Ahora, esto significaría que la clase Movie,
+
+32
+00:01:38,040 --> 00:01:42,720
+heredaría el título y duración de la clase Video. Adicionalmente,
+
+33
+00:01:42,720 --> 00:01:46,030
+la clase TvShow también podría heredar de la clase
+
+34
+00:01:46,030 --> 00:01:48,610
+Video. Para esto, también tendríamos
+
+35
+00:01:48,610 --> 00:01:51,248
+que añadir el nombre de la clase Video dentro de estos
+
+36
+00:01:51,248 --> 00:01:55,560
+paréntesis. Bueno, esto significaría que la clase TvShow
+
+37
+00:01:55,560 --> 00:01:59,760
+heredaría el título y la duración de la clase Video. Ahora
+
+38
+00:01:59,760 --> 00:02:01,540
+pueden ver claramente como podemos escribir una
+
+39
+00:02:01,540 --> 00:02:04,570
+parte del código, en este caso la clase Video,
+
+40
+00:02:04,570 --> 00:02:08,430
+y seguir reutilizándolo en múltiples lugares diferentes.
+
+41
+00:02:08,430 --> 00:02:11,400
+Otro gran beneficio de escribir código de esta manera,
+
+42
+00:02:11,400 --> 00:02:14,330
+además de solo reutilizar el código, es que
+
+43
+00:02:14,330 --> 00:02:17,590
+nos permite seguir un modelo intuitivo
+
+44
+00:02:17,590 --> 00:02:20,970
+de cómo existen las cosas en nuestro cerebro. Así que hablando
+
+45
+00:02:20,970 --> 00:02:27,260
+intuitivamente, sabemos que son los vídeos, sabemos también que son los programas de televisión y las películas. Entonces,
+
+46
+00:02:27,260 --> 00:02:30,110
+escribir código de esta manera le permite a los programadores
+
+47
+00:02:30,110 --> 00:02:33,320
+hacer un mapa de cómo existen las cosas en nuestro cerebro al escribir código.
+

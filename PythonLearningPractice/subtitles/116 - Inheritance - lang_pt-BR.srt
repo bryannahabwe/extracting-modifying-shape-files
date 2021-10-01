@@ -1,0 +1,96 @@
+1
+00:00:00,490 --> 00:00:02,190
+Agora que sabemos um pouco sobre
+
+2
+00:00:02,190 --> 00:00:05,360
+as variáveis de classe, tanto as que criamos como
+
+3
+00:00:05,360 --> 00:00:09,360
+as variáveis padrão ou predefinidas nas classes Python,
+
+4
+00:00:09,360 --> 00:00:11,340
+quero dedicar um momento para falar da
+
+5
+00:00:11,340 --> 00:00:15,290
+próxima grande ideia na programação orientada a objeto, que é a
+
+6
+00:00:15,290 --> 00:00:18,660
+herança. Vamos pensar no significado e no uso da palavra
+
+7
+00:00:18,660 --> 00:00:23,110
+herança.
+
+8
+00:00:23,110 --> 00:00:25,570
+Você já deve ter ouvido alguém dizer que uma criança pode
+
+9
+00:00:25,570 --> 00:00:29,460
+herdar determinados traços dos pais. Coisas como o
+
+10
+00:00:29,460 --> 00:00:32,369
+sobrenome, a cor dos olhos e dinheiro, se a criança tiver
+
+11
+00:00:32,369 --> 00:00:34,940
+sorte. Se adotássemos esse significado de herança,
+
+12
+00:00:34,940 --> 00:00:38,110
+como usado no cotidiano,
+
+13
+00:00:38,110 --> 00:00:40,330
+e o transformássemos em código ou usássemos em termos
+
+14
+00:00:40,330 --> 00:00:43,890
+de programação, criaríamos uma classe chamada Parent. Essa classe
+
+15
+00:00:43,890 --> 00:00:47,530
+teria alguns atributos, como last_name e eye_color.
+
+16
+00:00:47,530 --> 00:00:50,740
+Em seguida, criaríamos uma classe Child, que
+
+17
+00:00:50,740 --> 00:00:54,140
+herdaria esses dois atributos da classe Parent.
+
+18
+00:00:54,140 --> 00:00:57,010
+Além disso, a classe Child teria outra variável
+
+19
+00:00:57,010 --> 00:01:00,570
+própria, chamada "number_of_toys". Como você pode perceber,
+
+20
+00:01:00,570 --> 00:01:03,670
+se criarmos códigos assim,
+
+21
+00:01:03,670 --> 00:01:06,820
+já estaremos reutilizando os códigos, o que é uma grande
+
+22
+00:01:06,820 --> 00:01:10,270
+vantagem da programação orientada a objeto. A seguir,
+
+23
+00:01:10,270 --> 00:01:12,340
+vamos pegar nosso projeto
+
+24
+00:01:12,340 --> 00:01:15,190
+e convertê-lo em um código real. Vamos fazer isso em seguida.
+

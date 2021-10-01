@@ -1,0 +1,176 @@
+1
+00:00:00,270 --> 00:00:03,175
+So the first thing you want
+to do is download this file,
+
+2
+00:00:03,175 --> 00:00:06,650
+fresh_tomatoes.py from
+the instructor notes.
+
+3
+00:00:06,650 --> 00:00:11,670
+Once you've downloaded it, make sure you
+save this file in the exact same folder
+
+4
+00:00:11,670 --> 00:00:15,500
+as the Python file where we created
+all of these movie instances.
+
+5
+00:00:15,500 --> 00:00:17,970
+Okay, so I'm going to begin to
+use the fresh_tomatoes file.
+
+6
+00:00:19,420 --> 00:00:22,485
+And then call the function
+open_movies_page.
+
+7
+00:00:24,220 --> 00:00:28,120
+Now I know that this function
+open_movies_page takes in a list
+
+8
+00:00:28,120 --> 00:00:29,800
+on an array of movies.
+
+9
+00:00:29,800 --> 00:00:32,570
+I do have a bunch of movies that
+I have created over here, but
+
+10
+00:00:32,570 --> 00:00:35,670
+I do need to put them all
+in a list on an array.
+
+11
+00:00:35,670 --> 00:00:37,320
+Let me do that next.
+
+12
+00:00:37,320 --> 00:00:41,380
+So, I will define an empty array or
+a list called movies.
+
+13
+00:00:41,380 --> 00:00:42,660
+There it is.
+
+14
+00:00:42,660 --> 00:00:46,570
+And to this list, I will add all of
+the movies I had created previously.
+
+15
+00:00:47,610 --> 00:00:52,078
+So, the first movie to add is toy_story,
+next one is avatar,
+
+16
+00:00:52,078 --> 00:00:54,960
+next is school_of_rock,
+
+17
+00:00:54,960 --> 00:00:59,440
+the next one is ratatouille,
+it's spelling is a little difficult.
+
+18
+00:00:59,440 --> 00:01:00,650
+I think I got it.
+
+19
+00:01:00,650 --> 00:01:05,800
+Next in line is midnight_in_paris and
+the final one is hunger_games.
+
+20
+00:01:05,800 --> 00:01:08,250
+So there is our movies array.
+
+21
+00:01:08,250 --> 00:01:11,440
+By the way, in case you need
+more information about lists or
+
+22
+00:01:11,440 --> 00:01:14,960
+arrays, you can find a helpful
+link in the instructor notes.
+
+23
+00:01:14,960 --> 00:01:15,730
+All right.
+
+24
+00:01:15,730 --> 00:01:17,930
+Now that I have a list of movies,
+
+25
+00:01:17,930 --> 00:01:22,570
+I can give this list as input to
+the open_movies_page function.
+
+26
+00:01:22,570 --> 00:01:24,240
+Let me do that next.
+
+27
+00:01:24,240 --> 00:01:29,570
+So I will provide movies as the argument
+to open_movies_page function.
+
+28
+00:01:29,570 --> 00:01:30,710
+There it is.
+
+29
+00:01:30,710 --> 00:01:33,920
+Now before I save and
+run this entire program,
+
+30
+00:01:33,920 --> 00:01:38,820
+I know that I still haven't imported
+the file fresh_tomatoes in my program.
+
+31
+00:01:38,820 --> 00:01:43,380
+So I will scroll all the way up,
+and import fresh_tomatoes.
+
+32
+00:01:43,380 --> 00:01:48,110
+Notice that this line of code will
+work only if the fresh_tomatoes file
+
+33
+00:01:48,110 --> 00:01:52,000
+is in the exact same folder
+as our current Python file.
+
+34
+00:01:52,000 --> 00:01:52,590
+Okay.
+
+35
+00:01:52,590 --> 00:01:54,650
+Time to save and run this program.
+
+36
+00:01:55,780 --> 00:01:57,060
+And there is our movies website.
+
+37
+00:01:58,150 --> 00:02:01,055
+If I click on any one of the links,
+its trailer will play.
+
+38
+00:02:01,055 --> 00:02:08,216
+[MUSIC]
+

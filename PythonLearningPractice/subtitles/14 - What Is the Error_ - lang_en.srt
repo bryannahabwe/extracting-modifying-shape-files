@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:02,815
+Okay. So, here is our program design.
+
+2
+00:00:02,815 --> 00:00:06,575
+I'm going to start by opening a browser and playing a song.
+
+3
+00:00:06,575 --> 00:00:11,570
+So previously, I Googled to find out how one would open a web browser in Python.
+
+4
+00:00:11,570 --> 00:00:16,470
+And I discovered that there is this function called webbrowser.open.
+
+5
+00:00:16,470 --> 00:00:20,165
+This function takes in the link I want to open.
+
+6
+00:00:20,165 --> 00:00:22,190
+I just pasted a YouTube address in there.
+
+7
+00:00:22,190 --> 00:00:25,830
+In fact, this could have been any link you want. All right.
+
+8
+00:00:25,830 --> 00:00:27,985
+Let's save the program and run it.
+
+9
+00:00:27,985 --> 00:00:30,510
+I'm going to call it breaktime.py.
+
+10
+00:00:30,510 --> 00:00:32,370
+Py stands for Python.
+
+11
+00:00:32,370 --> 00:00:34,875
+To run it, I will click on run,
+
+12
+00:00:34,875 --> 00:00:37,285
+and then click on run module.
+
+13
+00:00:37,285 --> 00:00:40,080
+Now my hypothesis is that when we run this program,
+
+14
+00:00:40,080 --> 00:00:42,940
+it will open the YouTube link. Let's see.
+
+15
+00:00:42,940 --> 00:00:45,670
+Oh, it seems like we have an error.
+
+16
+00:00:45,670 --> 00:00:50,630
+Okay. It says, "There's an error in your program: EOL," whatever that means,
+
+17
+00:00:50,630 --> 00:00:52,905
+"while scanning the string literal."
+
+18
+00:00:52,905 --> 00:00:57,180
+Okay. Oh, look, Python is pointing at the error.
+
+19
+00:00:57,180 --> 00:01:00,240
+It seems like I missed the closing quote.
+
+20
+00:01:00,240 --> 00:01:02,055
+So I'm going to add that.
+
+21
+00:01:02,055 --> 00:01:04,985
+Let me save the program one more time and run it.
+
+22
+00:01:04,985 --> 00:01:09,240
+Now, I believe it will work. Another error.
+
+23
+00:01:09,240 --> 00:01:12,030
+When I first learned how to program,
+
+24
+00:01:12,030 --> 00:01:15,630
+I felt so intimidated by these errors. Look at them.
+
+25
+00:01:15,630 --> 00:01:17,925
+They are red and in your face,
+
+26
+00:01:17,925 --> 00:01:19,680
+but to make the program work,
+
+27
+00:01:19,680 --> 00:01:21,860
+we have to somehow get past them.
+
+28
+00:01:21,860 --> 00:01:24,510
+So, would you mind reading the error and telling us
+
+29
+00:01:24,510 --> 00:01:27,260
+what you think is the problem with this code?
+
+30
+00:01:27,260 --> 00:01:29,090
+Enter your responses in this box.
+

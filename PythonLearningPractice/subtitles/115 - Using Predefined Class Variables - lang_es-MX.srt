@@ -1,0 +1,204 @@
+1
+00:00:00,330 --> 00:00:02,070
+Bueno, ahora que sabemos un poco más de
+
+2
+00:00:02,070 --> 00:00:05,050
+las variables de clase, vamos a continuar con otra idea en la programación orientación a objetos
+
+3
+00:00:05,050 --> 00:00:08,870
+lo cual es que en Python, todas las clases vienen con
+
+4
+00:00:08,870 --> 00:00:13,920
+algunas variables de clase pre-existentes. Una de ellas se llama __doc__. Bueno,
+
+5
+00:00:13,920 --> 00:00:16,880
+esta variable tiene guiones bajos a ambos lados de su
+
+6
+00:00:16,880 --> 00:00:20,130
+nombre. Veamos esta variable en acción. Bien, aquí
+
+7
+00:00:20,130 --> 00:00:23,450
+estoy en la ventana de Python Shell, con el símbolo de Python.
+
+8
+00:00:23,450 --> 00:00:26,250
+Puedo escribir un programa aquí como 2 + 2 y
+
+9
+00:00:26,250 --> 00:00:28,940
+me da la respuesta correcta. Bien, quiero que
+
+10
+00:00:28,940 --> 00:00:31,780
+recordemos esta clase llamada Turtle que habíamos
+
+11
+00:00:31,780 --> 00:00:34,480
+utilizado hace algún tiempo mientras dibujábamos formas. Bien,
+
+12
+00:00:34,480 --> 00:00:38,740
+puedo simplemente importar esa clase Turtle aquí. Listo, entonces déjenme
+
+13
+00:00:38,740 --> 00:00:40,500
+ver lo que sucede cuando utilizo el nombre de la clase
+
+14
+00:00:40,500 --> 00:00:46,130
+turtle.Turtle. Recuerden que este era el nombre del módulo
+
+15
+00:00:46,130 --> 00:00:48,650
+o del archivo y éste era el nombre de la clase.
+
+16
+00:00:48,650 --> 00:00:51,960
+Si utilizo el nombre de la clase con la variable
+
+17
+00:00:51,960 --> 00:00:55,430
+preempaquetada llamada __doc__, déjenme ver lo que imprime.
+
+18
+00:00:56,680 --> 00:01:00,330
+Lo que obtengo es cierta documentación sobre la clase Turtle.
+
+19
+00:01:00,330 --> 00:01:03,140
+Ahora me pregunto si puedo usar esta variable __doc__
+
+20
+00:01:03,140 --> 00:01:06,010
+con mi clase Movie. Bueno, volvamos al código.
+
+21
+00:01:06,010 --> 00:01:08,760
+para la clase Movie y detrás de este archivo está mi
+
+22
+00:01:08,760 --> 00:01:11,320
+otro archivo Python donde estoy definiendo un montón de
+
+23
+00:01:11,320 --> 00:01:13,750
+instancias de la clase de Movie. Permítanme volver al
+
+24
+00:01:13,750 --> 00:01:17,150
+código para la clase Movie durante un segundo. Bien, en esta ocasión
+
+25
+00:01:17,150 --> 00:01:20,090
+voy a añadir un poco de documentación. Al principio de
+
+26
+00:01:20,090 --> 00:01:22,720
+la clase Movie. Pueden haber notado que utilizo comillas
+
+27
+00:01:22,720 --> 00:01:26,290
+triples para definir mi documentación. Bueno, lo que puedo
+
+28
+00:01:26,290 --> 00:01:29,030
+hacer con comillas triples es que puedo crear documentación en
+
+29
+00:01:29,030 --> 00:01:31,940
+múltiples líneas. Por ahora sólo tengo una línea.
+
+30
+00:01:31,940 --> 00:01:35,100
+Entonces, voy a continuar y guardar este archivo y después voy a ir
+
+31
+00:01:35,100 --> 00:01:38,410
+a mi otro archivo Python. Aquí, voy a
+
+32
+00:01:38,410 --> 00:01:42,510
+desplazarme hasta la parte de abajo e ignorar en el código cualquier
+
+33
+00:01:42,510 --> 00:01:48,880
+tipo de sentencias print. Listo. Ahora, voy a tratar de imprimir mi clase Movie,
+
+34
+00:01:48,880 --> 00:01:52,080
+al que se accede diciendo, media.Movie. Voy a
+
+35
+00:01:52,080 --> 00:01:55,112
+tratar de imprimir su documentación.
+
+36
+00:01:57,410 --> 00:02:00,900
+Listo. Déjenme guardar y ejecutar este archivo.
+
+37
+00:02:03,130 --> 00:02:05,240
+Ahí está. La documentación de mi
+
+38
+00:02:05,240 --> 00:02:08,030
+clase Movie. Observen cómo accedí a ella. Accedí a ella
+
+39
+00:02:08,030 --> 00:02:10,949
+utilizando mi nombre de la clase, que es Movie,
+
+40
+00:02:10,949 --> 00:02:14,860
+y una variable de clase predefinida, llama __doc__. Bien, ahora
+
+41
+00:02:14,860 --> 00:02:17,860
+que hemos utilizado con éxito esta variable llamada __doc__,
+
+42
+00:02:17,860 --> 00:02:20,140
+tengo una pregunta para ustedes. Ustedes saben
+
+43
+00:02:20,140 --> 00:02:23,220
+que de manera muy similar a la variable __doc__, Python tiene unas pocas más
+
+44
+00:02:23,220 --> 00:02:28,280
+variables predefinidas, éstas incluyen la variable __name__ y __module__.
+
+45
+00:02:28,280 --> 00:02:30,470
+Por cierto, más información acerca de estas
+
+46
+00:02:30,470 --> 00:02:32,470
+también está disponible mediante los enlaces en las notas
+
+47
+00:02:32,470 --> 00:02:34,320
+del instructor. Todo lo que quiero que hagan es
+
+48
+00:02:34,320 --> 00:02:37,050
+leer toda la documentación en las notas del instructor
+
+49
+00:02:37,050 --> 00:02:40,840
+y luego quiero que utilicen estas variables __name__ y __module__, en un programa
+
+50
+00:02:40,840 --> 00:02:43,170
+nuevo. Una vez que lo hayan hecho, por favor regresen
+
+51
+00:02:43,170 --> 00:02:45,160
+a la pantalla y marquen esta casilla.
+

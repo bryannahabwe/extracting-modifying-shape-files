@@ -1,0 +1,104 @@
+1
+00:00:00,330 --> 00:00:03,070
+Bien, la librería estándar de Python sugiere que la
+
+2
+00:00:03,070 --> 00:00:06,670
+función open regresa un objeto del
+
+3
+00:00:06,670 --> 00:00:10,400
+tipo de archivo. Bien, esta palabra objeto es realmente interesante
+
+4
+00:00:10,400 --> 00:00:12,930
+porque la hemos visto antes. ¿Recuerdan la vez
+
+5
+00:00:12,930 --> 00:00:14,980
+que estábamos dibujando cuadrados utilizando la clase
+
+6
+00:00:14,980 --> 00:00:18,490
+Turtle? Estábamos escribiendo líneas de código de esta manera.
+
+7
+00:00:18,490 --> 00:00:21,630
+Esto significaba que brad era un objeto o
+
+8
+00:00:21,630 --> 00:00:25,340
+instancia de la clase Turtle. Del mismo modo, cuando escribimos
+
+9
+00:00:25,340 --> 00:00:28,900
+líneas como esta, que es quotes igual a abrir
+
+10
+00:00:28,900 --> 00:00:31,680
+la ubicación del archivo, y el archivo, en nuestro caso, era
+
+11
+00:00:31,680 --> 00:00:34,990
+un archivo de citas de películas. Estamos diciendo que quotes
+
+12
+00:00:34,990 --> 00:00:38,560
+es un objeto o una instancia del archivo. Así que, vamos a
+
+13
+00:00:38,560 --> 00:00:41,150
+pensar por un momento, lo que sucede cuando ejecutamos
+
+14
+00:00:41,150 --> 00:00:43,590
+esta línea de código. Cuando ejecutamos esta
+
+15
+00:00:43,590 --> 00:00:47,050
+línea de código, se invoca la función llamada __init__
+
+16
+00:00:47,050 --> 00:00:50,590
+desde el interior de la clase Turtle. Y lo que hace es
+
+17
+00:00:50,590 --> 00:00:57,280
+crear un espacio en la memoria para el objeto brad. Ahora, en el caso de open,
+
+18
+00:00:57,280 --> 00:00:59,350
+a pesar de que en la superficie parece que
+
+19
+00:00:59,350 --> 00:01:02,000
+estamos únicamente invocando una función y que no
+
+20
+00:01:02,000 --> 00:01:08,480
+se involucra a ninguna clase. Si examinamos bien dentro del código para saber como
+
+21
+00:01:08,480 --> 00:01:11,910
+se implementó open dentro de Python. Nos daremos cuenta de que
+
+22
+00:01:11,910 --> 00:01:16,370
+open, a su vez, esta invocando una función similar a init
+
+23
+00:01:16,370 --> 00:01:20,410
+para crear un objeto de archivo. Muy bien, ya es suficiente
+
+24
+00:01:20,410 --> 00:01:24,100
+jerga por ahora. Vamos a hablar de las instancias y objetos un
+
+25
+00:01:24,100 --> 00:01:27,410
+poco después en el curso. Por ahora, podemos regocijarnos
+
+26
+00:01:27,410 --> 00:01:30,450
+en el hecho de que hemos terminado la primera parte del identificador de lenguaje obsceno
+

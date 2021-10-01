@@ -1,0 +1,64 @@
+1
+00:00:00,270 --> 00:00:02,190
+Bueno, hasta ahora lo que hemos hecho es que
+
+2
+00:00:02,190 --> 00:00:05,440
+hemos definido la clase Movie y luego continuamos y definimos
+
+3
+00:00:05,440 --> 00:00:09,220
+un par de instancias de esa clase, es decir, toy_story y
+
+4
+00:00:09,220 --> 00:00:12,590
+avatar. A continuación, lo que quiero hacer es
+
+5
+00:00:12,590 --> 00:00:16,110
+un pequeño ejercicio mental rápido, ¿qué
+
+6
+00:00:16,110 --> 00:00:19,430
+piensan que pasará si quito la palabra clave self de enfrente
+
+7
+00:00:19,430 --> 00:00:21,860
+de una de las variables de instancia? Así que déjenme
+
+8
+00:00:21,860 --> 00:00:25,320
+seguir adelante y hacerlo ahora mismo. [SOUND] Ahí está. Ahora,
+
+9
+00:00:25,320 --> 00:00:27,920
+quiero pensar en esta pregunta. Este es el código para
+
+10
+00:00:27,920 --> 00:00:30,660
+la clase Movie una vez más, y este es el self
+
+11
+00:00:30,660 --> 00:00:33,480
+que quiero quitar de enfrente de la trama. Y
+
+12
+00:00:33,480 --> 00:00:36,060
+quiero que piensen en esta pregunta, especialmente en el contexto
+
+13
+00:00:36,060 --> 00:00:41,110
+de ejecutar este código, que es print(avatar.storyline). Una vez que tengan una
+
+14
+00:00:41,110 --> 00:00:44,970
+hipótesis, quiero que la escriban en este cuadro. Después
+
+15
+00:00:44,970 --> 00:00:47,950
+que hayan enviado esta respuesta, quiero que hagan este cambio
+
+16
+00:00:47,950 --> 00:00:51,490
+en su propia computadora y vean si su hipótesis coincide con su resultado.
+

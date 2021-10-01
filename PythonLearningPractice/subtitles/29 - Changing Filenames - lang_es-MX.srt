@@ -1,0 +1,36 @@
+1
+00:00:00,240 --> 00:00:02,860
+Está bien, vamos a hacer el paso dos ahora, que es
+
+2
+00:00:02,860 --> 00:00:06,010
+renombrar los archivos. Ahora, yo di el enlace a la
+
+3
+00:00:06,010 --> 00:00:10,750
+documentación para el módulo os en las notas del instructor.
+
+4
+00:00:10,750 --> 00:00:13,500
+Quiero que exploren dicha documentación y encuentren
+
+5
+00:00:13,500 --> 00:00:16,960
+qué función podemos utilizar para renombrar los archivos.
+
+6
+00:00:16,960 --> 00:00:19,130
+Por cierto, los ingenieros de software hacen este tipo de búsqueda
+
+7
+00:00:19,130 --> 00:00:22,860
+con bastante frecuencia. Una vez que hayas encontrado
+
+8
+00:00:22,860 --> 00:00:25,560
+esa función, introduce el nombre de esa función en
+
+9
+00:00:25,560 --> 00:00:26,320
+el cuadro correspondiente.
+

@@ -1,0 +1,16 @@
+1
+00:00:00,380 --> 00:00:04,700
+Bien, de manera muy parecida a webbrowser, time y os, urllib
+
+2
+00:00:04,700 --> 00:00:07,260
+también es un módulo o un archivo en Python.
+
+3
+00:00:09,500 --> 00:00:11,640
+Y urlopen es una función dentro de él.
+
+4
+00:00:13,910 --> 00:00:17,300
+No lo crean solo porque lo digo, vamos a buscarlos en la documentación de Python
+

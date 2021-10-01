@@ -1,0 +1,104 @@
+1
+00:00:00,570 --> 00:00:03,140
+Antes de que continuemos con este proyecto, quiero
+
+2
+00:00:03,140 --> 00:00:05,450
+enfatizar algunas palabras nuevas que hemos utilizado
+
+3
+00:00:05,450 --> 00:00:09,170
+en el código hasta ahora. Hemos identificado Turtle como
+
+4
+00:00:09,170 --> 00:00:13,540
+una clase y a brad y a angie como instancias de dicha
+
+5
+00:00:13,540 --> 00:00:16,210
+clase. Ahora, quiero tomarme un momento para
+
+6
+00:00:16,210 --> 00:00:19,040
+hablar sobre estas nuevas palabras. Pueden pensar en una
+
+7
+00:00:19,040 --> 00:00:22,210
+clase como el cianotipo de una construcción. Bien, un
+
+8
+00:00:22,210 --> 00:00:25,590
+cianotipo, como sabemos, contiene cierta información sobre
+
+9
+00:00:25,590 --> 00:00:27,570
+la construcción. Por ejemplo, la altura de la
+
+10
+00:00:27,570 --> 00:00:30,640
+construcción, el número de habitaciones de la construcción. También
+
+11
+00:00:30,640 --> 00:00:33,430
+sabemos que el mismo cianotipo puede utilizarse
+
+12
+00:00:33,430 --> 00:00:37,390
+para construir múltiples edificios diferentes. Por ejemplo, una oficina
+
+13
+00:00:37,390 --> 00:00:40,180
+con paredes amarillas y un complejo residencial con paredes
+
+14
+00:00:40,180 --> 00:00:44,570
+azules. Una clase es como un cianotipo. Así que vamos a
+
+15
+00:00:44,570 --> 00:00:46,620
+tomar el ejemplo de la clase Turtle que hemos estado utilizando
+
+16
+00:00:46,620 --> 00:00:50,190
+hasta ahora. Una clase Turtle, al igual que un cianotipo,
+
+17
+00:00:50,190 --> 00:00:53,140
+contiene cierta información sobre turtle.
+
+18
+00:00:53,140 --> 00:00:55,740
+El tamaño de turtle, su color, el hecho de que
+
+19
+00:00:55,740 --> 00:00:58,710
+turtle pueda moverse hacia adelante y girar a la derecha. Y a partir de
+
+20
+00:00:58,710 --> 00:01:02,400
+esta clase, o cianotipo, podemos crear múltiples instancias
+
+21
+00:01:02,400 --> 00:01:05,560
+diferentes de esa clase. Por ejemplo, brad es
+
+22
+00:01:05,560 --> 00:01:08,300
+una instancia de la clase Turtle que dibuja un cuadrado
+
+23
+00:01:08,300 --> 00:01:11,130
+amarillo, y angie también es una instancia de clase
+
+24
+00:01:11,130 --> 00:01:15,330
+Turtle que dibuja un círculo azul. Así que en resumen,
+
+25
+00:01:15,330 --> 00:01:18,340
+pueden pensar en una clase como en un cianotipo, y pueden
+
+26
+00:01:18,340 --> 00:01:22,940
+pensar en sus objetos como ejemplos o instancias de dicho cianotipo.
+

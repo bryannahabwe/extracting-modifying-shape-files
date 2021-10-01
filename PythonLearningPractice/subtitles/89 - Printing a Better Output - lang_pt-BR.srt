@@ -1,0 +1,44 @@
+1
+00:00:00,590 --> 00:00:03,280
+De volta ao código mais uma vez. Se
+
+2
+00:00:03,280 --> 00:00:06,670
+rolar para baixo, você verá que fiz uma alteração no
+
+3
+00:00:06,670 --> 00:00:10,520
+código. Adicionei uma instrução if para imprimir
+
+4
+00:00:10,520 --> 00:00:15,020
+mensagens de saída de leitura mais fácil. Vou executar o código agora.
+
+5
+00:00:17,290 --> 00:00:20,930
+Arrá. O programa diz que há um palavrão
+
+6
+00:00:20,930 --> 00:00:23,780
+no documento movie_quotes. Se voltar
+
+7
+00:00:23,780 --> 00:00:26,560
+ao documento movie_quotes, encontrarei a
+
+8
+00:00:26,560 --> 00:00:29,700
+palavra indevida. Vou continuar e alterar isso rapidamente.
+
+9
+00:00:31,290 --> 00:00:37,180
+Altero e salvo o documento. Se executar o código,
+
+10
+00:00:37,180 --> 00:00:40,230
+receberei uma mensagem dizendo que nenhum palavrão foi encontrado.
+
+11
+00:00:40,230 --> 00:00:42,970
+Muito bem, a segunda etapa do programa também está concluída.
+

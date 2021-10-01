@@ -1,0 +1,44 @@
+1
+00:00:00,630 --> 00:00:05,120
+Nosso objetivo é enviar uma mensagem de texto usando código. Conheço um pacote Python
+
+2
+00:00:05,120 --> 00:00:08,530
+que faz exatamente isso. Ele é chamado de twilio.
+
+3
+00:00:08,530 --> 00:00:10,570
+Vou colocar twilio no quadro.
+
+4
+00:00:12,610 --> 00:00:16,050
+Twilio vem com uma biblioteca padrão Python,
+
+5
+00:00:16,050 --> 00:00:18,060
+motivo pelo qual o deixei de fora do
+
+6
+00:00:18,060 --> 00:00:21,180
+fundo amarelo. Twilio é um dos milhares de
+
+7
+00:00:21,180 --> 00:00:23,840
+pacotes Python externos disponíveis para você
+
+8
+00:00:23,840 --> 00:00:25,910
+baixar e usar. Há um link
+
+9
+00:00:25,910 --> 00:00:27,850
+nas Notas do instrutor que indica alguns
+
+10
+00:00:27,850 --> 00:00:31,300
+dos pacotes Python externos mais populares. Por enquanto,
+
+11
+00:00:31,300 --> 00:00:34,260
+vamos começar baixando o twilio.
+

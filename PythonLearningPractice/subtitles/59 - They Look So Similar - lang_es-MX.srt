@@ -1,0 +1,108 @@
+1
+00:00:00,480 --> 00:00:02,980
+Gracias por compartir sus respuestas. Ahora que
+
+2
+00:00:02,980 --> 00:00:05,670
+hemos utilizado las clases por primera vez,
+
+3
+00:00:05,670 --> 00:00:07,790
+quiero enfatizar algo que me tomó
+
+4
+00:00:07,790 --> 00:00:09,920
+mucho tiempo entender cuando estuve
+
+5
+00:00:09,920 --> 00:00:12,560
+en la universidad. Antes, cuando queríamos usar
+
+6
+00:00:12,560 --> 00:00:18,320
+las funciones, escribíamos un código como webbrowser.open. Pero
+
+7
+00:00:18,320 --> 00:00:20,430
+cuando queríamos crear instancias de esta
+
+8
+00:00:20,430 --> 00:00:23,755
+clase, la clase Turtle, escribíamos un código que decía
+
+9
+00:00:23,755 --> 00:00:27,280
+turtle.Turtle. Ahora, miren estas dos
+
+10
+00:00:27,280 --> 00:00:31,070
+instrucciones. Se ven muy parecidas. Parece que
+
+11
+00:00:31,070 --> 00:00:35,750
+estamos llamando una función en ambos casos. Pero algo diferente
+
+12
+00:00:35,750 --> 00:00:38,685
+pasa detrás de escena. Cuando llamamos
+
+13
+00:00:38,685 --> 00:00:41,810
+webbrowser.open, todo lo que estamos haciendo es llamar
+
+14
+00:00:41,810 --> 00:00:44,660
+una función. No es gran cosa. Pero cuando
+
+15
+00:00:44,660 --> 00:00:48,830
+escribimos turtle.Turtle, la función init definida
+
+16
+00:00:48,830 --> 00:00:51,540
+dentro de la clase Turtle es la función que
+
+17
+00:00:51,540 --> 00:00:55,100
+es llamada. Y ésta crea o inicializa espacio dentro
+
+18
+00:00:55,100 --> 00:00:57,490
+de la memoria para una nueva instancia que hemos llamado
+
+19
+00:00:57,490 --> 00:01:00,450
+brad. A pesar de que parece que llamamos
+
+20
+00:01:00,450 --> 00:01:03,450
+funciones en ambos casos, llamamos open en
+
+21
+00:01:03,450 --> 00:01:06,100
+el primer caso, y la función init en
+
+22
+00:01:06,100 --> 00:01:09,430
+el segundo caso, no todas las funciones se crean
+
+23
+00:01:09,430 --> 00:01:14,210
+igual. Cuando llamamos webbrowser.open, todo lo que hicimos fue
+
+24
+00:01:14,210 --> 00:01:18,870
+llamar una función, pero cuando llamamos turtle.Turtle, esta a su vez
+
+25
+00:01:18,870 --> 00:01:23,530
+llamó la función init que creó o inicializó espacio en la memoria
+
+26
+00:01:23,530 --> 00:01:28,030
+que no existía antes. Así que con esto concluye nuestro primer ejemplo
+
+27
+00:01:28,030 --> 00:01:31,190
+de cómo utilizar las clases. Veamos algunos ejemplos más.
+

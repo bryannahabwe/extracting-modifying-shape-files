@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:02,272
+Aqui está o código da classe
+
+2
+00:00:02,272 --> 00:00:05,254
+Movie mais uma vez. Estou muito curioso
+
+3
+00:00:05,254 --> 00:00:08,307
+para descobrir o que acontece em segundo plano quando
+
+4
+00:00:08,307 --> 00:00:11,857
+crio a instância chamada avatar fornecendo essas quatro
+
+5
+00:00:11,857 --> 00:00:15,236
+informações. Essas informações são
+
+6
+00:00:15,236 --> 00:00:19,028
+o nome e a história do filme, o link para a imagem do cartaz
+
+7
+00:00:19,028 --> 00:00:22,279
+e o link para a URL no YouTube.
+
+8
+00:00:22,279 --> 00:00:25,051
+A propósito, estes dois últimos elementos
+
+9
+00:00:25,051 --> 00:00:28,080
+obviamente não são links nem URLs. Eles parecem
+
+10
+00:00:28,080 --> 00:00:31,530
+mais frases em inglês. Fiz isso porque
+
+11
+00:00:31,530 --> 00:00:37,700
+não havia espaço suficiente na tela para adicionar os links ou URLs completos. Assim
+
+12
+00:00:37,700 --> 00:00:38,980
+que executarmos esta linha de
+
+13
+00:00:38,980 --> 00:00:42,730
+código, a função init será chamada. Self, nesse
+
+14
+00:00:42,730 --> 00:00:46,130
+caso, é ela mesma ou a instância sendo criada, que
+
+15
+00:00:46,130 --> 00:00:50,840
+é avatar. A variável movie_title recebe o valor correto,
+
+16
+00:00:50,840 --> 00:00:54,500
+que é Avatar. A variável movie_storyline recebe
+
+17
+00:00:54,500 --> 00:00:58,290
+o valor correto. A variável poster_image também recebe
+
+18
+00:00:58,290 --> 00:01:02,500
+o valor correto. Finalmente, trailer_youtube
+
+19
+00:01:02,500 --> 00:01:06,230
+recebe o link correto do trailer no YouTube. Até aqui,
+
+20
+00:01:06,230 --> 00:01:10,852
+tudo bem. Após a função init ser chamada e todos os quatro
+
+21
+00:01:10,852 --> 00:01:13,770
+argumentos receberem os valores apropriados, todas as
+
+22
+00:01:13,770 --> 00:01:16,310
+variáveis associadas à instância
+
+23
+00:01:16,310 --> 00:01:20,200
+avatar são inicializadas apropriadamente. Neste
+
+24
+00:01:20,200 --> 00:01:23,960
+ponto, se escrevo avatar.storyline, o programa imprimirá
+
+25
+00:01:23,960 --> 00:01:26,790
+o valor correto. Agora, vou
+
+26
+00:01:26,790 --> 00:01:29,490
+dar um passo atrás e associar
+
+27
+00:01:29,490 --> 00:01:31,240
+algumas informações que temos
+
+28
+00:01:31,240 --> 00:01:34,580
+visto. Aqui está a classe Movie. Após
+
+29
+00:01:34,580 --> 00:01:37,368
+a definição da classe Movie, criei duas instâncias:
+
+30
+00:01:37,368 --> 00:01:41,190
+toy_story e avatar. Eu poderia ter criado mais instâncias,
+
+31
+00:01:41,190 --> 00:01:42,860
+mas por enquanto só criei estas
+
+32
+00:01:42,860 --> 00:01:46,350
+duas. Quando criei estas duas instâncias,
+
+33
+00:01:46,350 --> 00:01:50,720
+o que fiz nos bastidores foi reservar um espaço para
+
+34
+00:01:50,720 --> 00:01:53,578
+cada instância. Nesse espaço, cada
+
+35
+00:01:53,578 --> 00:01:56,562
+instância tem sua própria cópia das variáveis. Essas
+
+36
+00:01:56,562 --> 00:01:58,976
+variáveis incluem title, storyline,
+
+37
+00:01:58,976 --> 00:02:02,346
+poster_image_url e trailer_youtube_url. Estas são as variáveis
+
+38
+00:02:02,346 --> 00:02:05,858
+de toy_story, e estas as variáveis de avatar.
+
+39
+00:02:05,858 --> 00:02:11,026
+Como essas variáveis são exclusivas de cada instância da classe movie,
+
+40
+00:02:11,026 --> 00:02:15,962
+elas são chamadas de variáveis de instância. E esse termo, variáveis de
+
+41
+00:02:15,962 --> 00:02:21,119
+instância, é outro termo novo que adicionarei à nossa lista de palavras.
+

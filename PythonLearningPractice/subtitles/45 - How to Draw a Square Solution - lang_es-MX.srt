@@ -1,0 +1,16 @@
+1
+00:00:00,550 --> 00:00:01,640
+Ă‰sta es una manera de dibujar un
+
+2
+00:00:01,640 --> 00:00:06,870
+cuadrado. Puedo moverme hacia adelante y girar a la derecha, moverme hacia adelante
+
+3
+00:00:06,870 --> 00:00:10,550
+y girar a la derecha, moverme hacia adelante de nuevo y girar a la derecha
+
+4
+00:00:10,550 --> 00:00:14,450
+otra vez, moverme hacia adelante y girar a la derecha. AhĂ­ lo tienen.
+

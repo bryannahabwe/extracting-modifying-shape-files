@@ -1,0 +1,100 @@
+1
+00:00:00,420 --> 00:00:04,070
+Aqui está o código da classe Movie. Atrás dele, está oculto
+
+2
+00:00:04,070 --> 00:00:05,870
+o outro arquivo de programação em que
+
+3
+00:00:05,870 --> 00:00:08,920
+definimos várias instâncias da classe Movie, como
+
+4
+00:00:08,920 --> 00:00:12,710
+Toy Story e Avatar. Vou voltar ao
+
+5
+00:00:12,710 --> 00:00:14,850
+código da classe Movie e definir
+
+6
+00:00:14,850 --> 00:00:18,543
+uma nova função ou método chamado show_trailer.
+
+7
+00:00:21,530 --> 00:00:24,530
+Cada método da instância, seja init
+
+8
+00:00:24,530 --> 00:00:28,740
+ou "show_trailer", usa o primeiro argumento como self. Adicionarei
+
+9
+00:00:28,740 --> 00:00:32,140
+isso. Tudo o que show_trailer fará
+
+10
+00:00:32,140 --> 00:00:35,480
+é abrir o navegador da Web com a URL correta.
+
+11
+00:00:35,480 --> 00:00:37,940
+O link ou URL é armazenado na
+
+12
+00:00:37,940 --> 00:00:41,540
+variável de instância trailer_youtube_url. A forma de
+
+13
+00:00:41,540 --> 00:00:45,060
+acessar essa variável de instância é pela palavra-chave self.
+
+14
+00:00:45,060 --> 00:00:46,760
+A última coisa que preciso fazer para este código
+
+15
+00:00:46,760 --> 00:00:52,860
+funcionar é inserir import webbrowser. [SOUND]
+
+16
+00:00:52,860 --> 00:00:57,050
+Pronto, agora vou salvar este arquivo. Após definirmos
+
+17
+00:00:57,050 --> 00:01:01,510
+o método show_trailer, o próximo passo é chamar este método
+
+18
+00:01:01,510 --> 00:01:06,130
+usando nosso outro arquivo de programação. Faço isso e aqui já
+
+19
+00:01:06,130 --> 00:01:08,375
+tenho a instância ou o objeto chamado avatar.
+
+20
+00:01:08,375 --> 00:01:11,680
+[SOUND]. Vou usar [SOUND] avatar
+
+21
+00:01:11,680 --> 00:01:15,011
+para chamar o método show_trailer. [SOUND] Continuando,
+
+22
+00:01:15,011 --> 00:01:16,240
+salvo este arquivo.
+
+23
+00:01:22,360 --> 00:01:23,240
+E vou executá-lo.
+
+24
+00:01:23,240 --> 00:01:26,211
+[MUSIC]
+
+25
+00:01:26,211 --> 00:01:33,135
+Uau, é fantástico.
+

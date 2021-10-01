@@ -1,0 +1,32 @@
+1
+00:00:00,360 --> 00:00:02,730
+Bien, lo primero que tenemos que saber acerca de open es
+
+2
+00:00:02,730 --> 00:00:05,670
+que no dijimos importar algo en nuestro código
+
+3
+00:00:05,670 --> 00:00:08,690
+para utilizar esta función. En contraste, cuando tuvimos que
+
+4
+00:00:08,690 --> 00:00:12,840
+utilizar una función como rename. Dijimos, import os.
+
+5
+00:00:12,840 --> 00:00:15,780
+pero no con esta función. Esto es porque las funciones
+
+6
+00:00:15,780 --> 00:00:18,820
+como open se usan tan comúnmente en Python que
+
+7
+00:00:18,820 --> 00:00:22,620
+siempre están disponibles. No se fíen de lo que digo
+
+8
+00:00:22,620 --> 00:00:24,970
+en cuanto a esto. Vamos a buscar en la documentación de Python.
+

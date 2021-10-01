@@ -1,0 +1,68 @@
+1
+00:00:00,270 --> 00:00:03,620
+Aqui estou, na página de inscrição do Twilio. Este
+
+2
+00:00:03,620 --> 00:00:07,610
+link também está disponível nas Notas do instrutor. Vou fazer uma inscrição
+
+3
+00:00:07,610 --> 00:00:10,740
+gratuita. O Twilio também solicita meu número de telefone,
+
+4
+00:00:10,740 --> 00:00:13,160
+o que informarei. No momento, estou
+
+5
+00:00:13,160 --> 00:00:15,260
+nos Estados Unidos. Não deixe
+
+6
+00:00:15,260 --> 00:00:16,940
+de selecionar o país em que você está localizado.
+
+7
+00:00:20,060 --> 00:00:23,230
+O Twilio me envia um código de verificação pelo telefone
+
+8
+00:00:23,230 --> 00:00:26,170
+registrado anteriormente. Você também receberá
+
+9
+00:00:26,170 --> 00:00:29,590
+um código no seu. Vou inserir esse código nesta caixa. Ok,
+
+10
+00:00:29,590 --> 00:00:32,490
+recebi um número de telefone, não tenho muita certeza
+
+11
+00:00:32,490 --> 00:00:34,680
+ainda se entendi, mas vou continuar.
+
+12
+00:00:34,680 --> 00:00:37,810
+Muito bem, parece que posso fazer várias coisas
+
+13
+00:00:37,810 --> 00:00:40,850
+em minha conta, mas o que estou procurando realmente é o
+
+14
+00:00:40,850 --> 00:00:45,030
+token de autorização. Onde está? Hum... Vou até
+
+15
+00:00:45,030 --> 00:00:50,350
+minha conta! Aqui estão. O SID da conta e o
+
+16
+00:00:50,350 --> 00:00:52,750
+token de autenticação. Vou copiar e
+
+17
+00:00:52,750 --> 00:00:55,030
+colar os dois no meu programa.
+

@@ -1,0 +1,52 @@
+1
+00:00:00,160 --> 00:00:02,140
+Certo. Estamos de volta ao código e tudo o
+
+2
+00:00:02,140 --> 00:00:06,210
+que fiz foi adicionar a função translate ao programa.
+
+3
+00:00:06,210 --> 00:00:08,560
+Esse código diz para
+
+4
+00:00:08,560 --> 00:00:13,330
+renomear cada arquivo ou foto na pasta.
+
+5
+00:00:13,330 --> 00:00:15,870
+Este é o antigo nome do arquivo, e aqui está
+
+6
+00:00:15,870 --> 00:00:20,070
+o novo nome do arquivo sem qualquer número. Minha hipótese é
+
+7
+00:00:20,070 --> 00:00:22,710
+a de que, se eu salvar e executar o programa, todos os
+
+8
+00:00:22,710 --> 00:00:26,260
+arquivos de foto serão renomeados e veremos a mensagem secreta.
+
+9
+00:00:26,260 --> 00:00:30,370
+Vou salvar e executar esse programa.
+
+10
+00:00:32,390 --> 00:00:35,670
+Nossa! Isso claramente não funcionou. Você
+
+11
+00:00:35,670 --> 00:00:38,210
+se importaria de ler este editor e nos dizer o que
+
+12
+00:00:38,210 --> 00:00:40,300
+acha que é o problema? Quando você tiver uma
+
+13
+00:00:40,300 --> 00:00:43,020
+hipótese, quero que a insira na caixa fornecida.
+

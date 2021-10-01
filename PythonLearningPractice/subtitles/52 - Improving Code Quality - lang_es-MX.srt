@@ -1,0 +1,76 @@
+1
+00:00:00,565 --> 00:00:02,570
+Bueno, puedo pensar en al menos dos razones por las que
+
+2
+00:00:02,570 --> 00:00:06,000
+mi profesora de ciencias de la computación de la universidad se enojaría por la calidad
+
+3
+00:00:06,000 --> 00:00:08,810
+de este código. La primera es que estoy haciendo algo
+
+4
+00:00:08,810 --> 00:00:13,090
+repetitivo dentro de mi código. Cosas como moverse hacia adelante, girar a la derecha, moverse
+
+5
+00:00:13,090 --> 00:00:15,860
+hacia adelante, girar a la derecha. Lo hago cuatro veces, pero
+
+6
+00:00:15,860 --> 00:00:19,310
+no uso ningún tipo de ciclo. Otra razón es que
+
+7
+00:00:19,310 --> 00:00:23,570
+el nombre de mi función es draw_square. Lo cual hago.
+
+8
+00:00:23,570 --> 00:00:25,650
+Pero luego sigo adelante y dibujo un círculo dentro de esa
+
+9
+00:00:25,650 --> 00:00:28,190
+función también. Eso no me parece muy lógico.
+
+10
+00:00:29,490 --> 00:00:32,310
+Así que con base en estas dos ideas, ¿qué cambios le
+
+11
+00:00:32,310 --> 00:00:34,450
+harían al código que hemos escrito hasta ahora
+
+12
+00:00:34,450 --> 00:00:37,300
+para hacerlo más utilizable? Quiero que hagan
+
+13
+00:00:37,300 --> 00:00:40,420
+esos cambios y que suban una impresión de pantalla del
+
+14
+00:00:40,420 --> 00:00:44,700
+código al foro de debate. Les tengo una tarea de créditos extras,
+
+15
+00:00:44,700 --> 00:00:47,510
+la cual es crear un tercer turtle y que éste
+
+16
+00:00:47,510 --> 00:00:50,640
+dibuje un triángulo. Una vez que lo hayan hecho,
+
+17
+00:00:50,640 --> 00:00:53,650
+quiero que suban una impresión de pantalla del nuevo resultado al foro
+
+18
+00:00:53,650 --> 00:00:55,940
+de debate. Asegúrense de marcar esta casilla
+
+19
+00:00:55,940 --> 00:00:57,920
+después de que hayan presentado sus respuestas en el foro.
+

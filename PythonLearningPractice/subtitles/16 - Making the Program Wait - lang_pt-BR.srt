@@ -1,0 +1,64 @@
+1
+00:00:00,410 --> 00:00:05,620
+A seguir, tentaremos fazer o programa aguardar um determinado período de tempo.
+
+2
+00:00:05,620 --> 00:00:07,610
+Para saber mais sobre isso, voltei ao
+
+3
+00:00:07,610 --> 00:00:11,890
+Google e digitei "python make my program wait".
+
+4
+00:00:13,320 --> 00:00:15,100
+Um dos primeiro links foi este
+
+5
+00:00:15,100 --> 00:00:19,670
+site chamado stackoverflow.com. Esse site logo será um dos seus
+
+6
+00:00:19,670 --> 00:00:22,490
+favoritos como programador.
+
+7
+00:00:22,490 --> 00:00:25,830
+Ele sugeriu usar algo chamado time.sleep, que suspende
+
+8
+00:00:25,830 --> 00:00:30,670
+o programa por alguns segundos. Ok, de volta ao programa. Como
+
+9
+00:00:30,670 --> 00:00:35,345
+ainda estou na fase de testes, tentarei suspender o programa somente por dez
+
+10
+00:00:35,345 --> 00:00:39,900
+segundos. Podemos alterar esse número mais tarde. Também sei que preciso importar o
+
+11
+00:00:39,900 --> 00:00:45,930
+módulo time. Vou salvar e executar. Muito bem.
+
+12
+00:00:45,930 --> 00:00:51,001
+Parece que o programa está aguardando alguns segundos antes de
+
+13
+00:00:51,001 --> 00:00:56,752
+abrir o navegador da Web.
+
+14
+00:00:56,752 --> 00:00:59,660
+[MUSIC]
+
+15
+00:00:59,660 --> 00:01:02,170
+[MUSIC]
+
+16
+00:01:02,170 --> 00:01:08,580
+Mais um item concluído.
+

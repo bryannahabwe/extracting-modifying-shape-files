@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:02,240
+Congratulations on finishing another project.
+
+2
+00:00:02,240 --> 00:00:04,215
+Here is your assignment.
+
+3
+00:00:04,215 --> 00:00:07,955
+Now that we've seen classes in two different projects, for instance,
+
+4
+00:00:07,955 --> 00:00:09,870
+with total and twill your rest client,
+
+5
+00:00:09,870 --> 00:00:14,135
+we want you to answer the following questions on that discussion forum.
+
+6
+00:00:14,135 --> 00:00:17,050
+The first question is, what is a class?
+
+7
+00:00:17,050 --> 00:00:20,400
+The next one is, what is an instance of a class?
+
+8
+00:00:20,400 --> 00:00:22,140
+And finally, thus far,
+
+9
+00:00:22,140 --> 00:00:24,365
+we have compared a class to a blueprint.
+
+10
+00:00:24,365 --> 00:00:27,685
+Can you think of another analogy to explain classes?
+
+11
+00:00:27,685 --> 00:00:31,270
+Make sure to check this box after you submitted your responses on the forum.
+

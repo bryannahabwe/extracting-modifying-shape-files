@@ -1,0 +1,28 @@
+1
+00:00:00,230 --> 00:00:04,950
+O Python está com dificuldade de compreender o que é webbrowser. Podemos
+
+2
+00:00:04,950 --> 00:00:09,010
+corrigir isso escrevendo import webbrowser na parte superior. Essa é
+
+3
+00:00:09,010 --> 00:00:12,600
+nossa maneira de dizer ao Python que queremos usar webbrowser
+
+4
+00:00:12,600 --> 00:00:16,140
+e todas as suas funcionalidades no programa. Vamos salvar e executar.
+
+5
+00:00:16,140 --> 00:00:19,306
+[MUSIC]
+
+6
+00:00:19,306 --> 00:00:24,760
+Muito bem. Dessa vez o programa funcionou, e podemos
+
+7
+00:00:24,760 --> 00:00:26,410
+marcar mais uma tarefa como concluída.
+

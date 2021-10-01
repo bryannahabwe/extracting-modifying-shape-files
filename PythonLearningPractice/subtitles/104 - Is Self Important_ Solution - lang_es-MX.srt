@@ -1,0 +1,72 @@
+1
+00:00:00,420 --> 00:00:02,620
+Bien, cuando quitamos la palabra clave self, de enfrente
+
+2
+00:00:02,620 --> 00:00:04,650
+de trama. Permítanme continuar y hacer eso
+
+3
+00:00:04,650 --> 00:00:08,370
+una vez más. Lo que realmente estamos haciendo es cambiar la trama
+
+4
+00:00:08,370 --> 00:00:11,740
+de ser una variable de instancia, accesible con instancias como toy_story
+
+5
+00:00:11,740 --> 00:00:16,120
+y avatar, a ser una variable simple local dentro
+
+6
+00:00:16,120 --> 00:00:19,180
+de la función init. Bueno, aún podré
+
+7
+00:00:19,180 --> 00:00:22,890
+acceder a esta variable, trama, desde cualquier lugar dentro de esta función
+
+8
+00:00:22,890 --> 00:00:26,440
+init. Pero no con una instancia como avatar. Y
+
+9
+00:00:26,440 --> 00:00:27,890
+dado que estamos intentando hacer eso en
+
+10
+00:00:27,890 --> 00:00:31,100
+esta sentencia print, mi hipótesis es que Python
+
+11
+00:00:31,100 --> 00:00:33,480
+arrojará un error y dirá que este objeto movie
+
+12
+00:00:33,480 --> 00:00:37,210
+Avatar no tiene trama. Así que para comprobar esa
+
+13
+00:00:37,210 --> 00:00:41,600
+hipótesis, voy a guardar mi archivo media
+
+14
+00:00:41,600 --> 00:00:44,270
+y luego volveré a mi archivo entertainment_center y
+
+15
+00:00:44,270 --> 00:00:48,000
+ejecutaré ese archivo. Ahí está el error. Python dice
+
+16
+00:00:48,000 --> 00:00:51,530
+que la instancia Movie, en este caso avatar, no tiene
+
+17
+00:00:51,530 --> 00:00:55,750
+un atributo llamado trama. Bien, para corregir esto, lo que voy a hacer es
+
+18
+00:00:55,750 --> 00:01:01,202
+volver al código y añadir la palabra clave self enfrente de trama. Listo.
+

@@ -1,0 +1,52 @@
+1
+00:00:00,210 --> 00:00:02,570
+Bien, así que a nuestro programa ya solo le falta una cosa
+
+2
+00:00:02,570 --> 00:00:05,440
+más. Digamos que queremos tomar un descanso
+
+3
+00:00:05,440 --> 00:00:08,280
+después de cada dos horas de trabajo en la máquina.
+
+4
+00:00:08,280 --> 00:00:11,200
+Puedo aumentar la duración de la demora de diez segundos
+
+5
+00:00:11,200 --> 00:00:15,770
+a dos horas. Ahora recuerde, la función de suspensión solo acepta
+
+6
+00:00:15,770 --> 00:00:19,310
+segundos, por lo que este número es dos segundos y no dos horas
+
+7
+00:00:19,310 --> 00:00:22,690
+para el equipo. Para solucionar esto,
+
+8
+00:00:22,690 --> 00:00:25,530
+tengo que encontrar el número de segundos que hay en dos horas.
+
+9
+00:00:25,530 --> 00:00:29,320
+Y usar esto en su lugar. Dado que todavía estoy probando mi programa,
+
+10
+00:00:29,320 --> 00:00:32,850
+voy a mantener el tiempo de espera en un tiempo manejable de diez segundos.
+
+11
+00:00:32,850 --> 00:00:35,450
+Bien, ahora que hemos escrito nuestro primer programa,
+
+12
+00:00:35,450 --> 00:00:37,238
+vamos a entender de donde provienen las funciones como
+
+13
+00:00:37,238 --> 00:00:41,120
+webbrowser.open y time.sleep.
+

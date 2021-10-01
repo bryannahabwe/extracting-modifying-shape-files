@@ -1,0 +1,24 @@
+1
+00:00:00,400 --> 00:00:05,342
+Acho que há duas etapas principais para fazer isso funcionar. Na primeira etapa,
+
+2
+00:00:05,342 --> 00:00:11,103
+temos que ler o texto de um documento. Vou anotar isso. Ler
+
+3
+00:00:11,103 --> 00:00:16,270
+texto. Na segunda etapa, temos que verificar
+
+4
+00:00:16,270 --> 00:00:21,270
+se há palavrões nesse texto. Também vou anotar isso. Verificar
+
+5
+00:00:24,010 --> 00:00:24,670
+palavrões no texto.
+
+6
+00:00:27,990 --> 00:00:30,470
+Vamos começar pela leitura do texto de um documento.
+

@@ -1,0 +1,364 @@
+1
+00:00:00,450 --> 00:00:02,860
+Bien, estoy de vuelta con el código y
+
+2
+00:00:02,860 --> 00:00:05,620
+puedo ver mi clase Movie, voy a empezar
+
+3
+00:00:05,620 --> 00:00:08,990
+a definir dentro de ella la función init.
+
+4
+00:00:08,990 --> 00:00:12,290
+Bueno, ya hay algo muy curioso acerca de esta función,
+
+5
+00:00:12,290 --> 00:00:14,750
+y es que hay dos guiones bajos en ambos
+
+6
+00:00:14,750 --> 00:00:17,740
+lados de la palabra init. Estos guiones bajos son una
+
+7
+00:00:17,740 --> 00:00:21,750
+forma que Python tiene para decirnos a los programadores ¡hey!
+
+8
+00:00:21,750 --> 00:00:25,520
+el nombre init, está reservado esencialmente en Python y que
+
+9
+00:00:25,520 --> 00:00:28,210
+esta es una función o método especial. ¿Qué tiene
+
+10
+00:00:28,210 --> 00:00:31,690
+de especial init? Lo especial es que inicia o crea
+
+11
+00:00:31,690 --> 00:00:35,460
+espacio en la memoria para recordar detalles como el título, la trama
+
+12
+00:00:35,460 --> 00:00:37,630
+etcétera para las nuevas películas que estamos
+
+13
+00:00:37,630 --> 00:00:40,530
+a punto de crear. Pues bien, init necesita cierta
+
+14
+00:00:40,530 --> 00:00:43,990
+información o valores. El primero de los cuales
+
+15
+00:00:43,990 --> 00:00:47,780
+es siempre la palabra clave de Python, self. Bien, se preguntarán
+
+16
+00:00:47,780 --> 00:00:50,620
+que es esta cosa llamada self. Bueno, se puede
+
+17
+00:00:50,620 --> 00:00:54,600
+pensar en self como en "sí mismo", o como la instancia que se está creando.
+
+18
+00:00:54,600 --> 00:00:57,230
+Entonces, cuando ejecutamos esta línea de código en nuestro
+
+19
+00:00:57,230 --> 00:01:00,110
+otro archivo Python, por cierto, sólo para recordarles que,
+
+20
+00:01:00,110 --> 00:01:02,900
+aquí estamos tratando de crear una nueva película llamada, toy_story.
+
+21
+00:01:02,900 --> 00:01:04,590
+Y cuando ejecutamos esta línea de código, sabemos
+
+22
+00:01:04,590 --> 00:01:08,400
+que se invoca a la función __init__ dentro de la clase Movie. Self,
+
+23
+00:01:08,400 --> 00:01:12,410
+en ese caso, apunta a toy_story. Bien, tengo que
+
+24
+00:01:12,410 --> 00:01:15,830
+confesarles algo. Recuerdo que cuando comencé a aprender
+
+25
+00:01:15,830 --> 00:01:19,360
+programación orientada al objeto hace años en la universidad, este concepto de
+
+26
+00:01:19,360 --> 00:01:22,980
+self era realmente difícil de entender para mí. Si ese
+
+27
+00:01:22,980 --> 00:01:25,090
+es el caso con ustedes, no se preocupen
+
+28
+00:01:25,090 --> 00:01:28,060
+mucho por ahora. Esto se facilitará cuando
+
+29
+00:01:28,060 --> 00:01:30,990
+ejecutemos todo el código dentro de unos segundos. En
+
+30
+00:01:30,990 --> 00:01:34,260
+cualquier caso, vamos a añadir la palabra clave self a nuestra lista
+
+31
+00:01:34,260 --> 00:01:36,880
+de nuevas palabras. De acuerdo, voy a regresar a
+
+32
+00:01:36,880 --> 00:01:39,830
+la clase Movie y continuaré para definir la función init.
+
+33
+00:01:40,910 --> 00:01:46,070
+Bueno, queremos que init inicie partes de la información como el título, la trama
+
+34
+00:01:46,070 --> 00:01:51,027
+y otras que queremos recordar dentro de nuestra clase. Esta es una manera de hacerlo. Voy a
+
+35
+00:01:51,027 --> 00:01:55,674
+decir, self.title, entonces self.storyline.
+
+36
+00:01:55,674 --> 00:02:00,504
+El siguiente es, poster_image_url y
+
+37
+00:02:00,504 --> 00:02:05,940
+finalmente, trailer_youtube_url. Bueno, de alguna manera tenemos que iniciar
+
+38
+00:02:05,940 --> 00:02:08,979
+estas variables, con la información que init
+
+39
+00:02:08,979 --> 00:02:11,760
+va a recibir. En particular, va a recibir información
+
+40
+00:02:11,760 --> 00:02:14,590
+en cuatro partes. La primera de las cuales es
+
+41
+00:02:14,590 --> 00:02:18,360
+el título de una película, enseguida, la trama de la película,
+
+42
+00:02:18,360 --> 00:02:21,060
+luego la imagen del póster de la película y
+
+43
+00:02:21,060 --> 00:02:24,970
+por último, el trailer en YouTube. Entonces, observen, una vez que he
+
+44
+00:02:24,970 --> 00:02:27,820
+recibido esta información en cuatro partes como valores
+
+45
+00:02:27,820 --> 00:02:31,550
+de la función __init__, puedo iniciar las variables de mi Movie.
+
+46
+00:02:31,550 --> 00:02:34,330
+Así es como lo hacemos: self.title es el título
+
+47
+00:02:34,330 --> 00:02:38,612
+de la película, self.storyline es la trama de la película. Lo siguiente es
+
+48
+00:02:38,612 --> 00:02:41,994
+la imagen del póster. Por último, el trailer
+
+49
+00:02:41,994 --> 00:02:44,910
+en YouTube. Bueno, tengo que confesar
+
+50
+00:02:44,910 --> 00:02:47,580
+algo. Y eso es, que hemos escrito mucho
+
+51
+00:02:47,580 --> 00:02:51,210
+código que parece nuevo y extraño. Bueno, lo que
+
+52
+00:02:51,210 --> 00:02:52,570
+puedo decir es que todos debemos
+
+53
+00:02:52,570 --> 00:02:55,020
+hacer una pausa y respirar profundamente.
+
+54
+00:02:57,590 --> 00:02:59,448
+[SONIDO] Por ahora, todo lo que quiero que hagan, es
+
+55
+00:02:59,448 --> 00:03:02,010
+hacer una pausa en el vídeo y anotar este código en su
+
+56
+00:03:02,010 --> 00:03:05,400
+computadora. Todo este código será coherente tan pronto
+
+57
+00:03:05,400 --> 00:03:08,840
+como ejecutemos este programa. Bueno, hay un punto clave
+
+58
+00:03:08,840 --> 00:03:11,470
+que me gustaría destacar, antes de que ejecute esta fracción
+
+59
+00:03:11,470 --> 00:03:14,090
+del código, lo cual es, que si voy a mi
+
+60
+00:03:14,090 --> 00:03:18,400
+otro archivo Python, que es entertainment_center.py. Y ejecuto esta fracción
+
+61
+00:03:18,400 --> 00:03:22,320
+del código, arrojará un error. El error va a suceder
+
+62
+00:03:22,320 --> 00:03:25,030
+porque cuando tratamos de crear la película Toy
+
+63
+00:03:25,030 --> 00:03:28,180
+Story, se llama a la función init, que ahora
+
+64
+00:03:28,180 --> 00:03:31,730
+está buscando varios valores o elementos de información, aunque
+
+65
+00:03:31,730 --> 00:03:35,210
+de ninguna manera estemos enviando ninguna información. Bueno,
+
+66
+00:03:35,210 --> 00:03:37,940
+déjenme cambiar eso. De acuerdo, sé que el primer
+
+67
+00:03:37,940 --> 00:03:41,080
+valor de la función init es self. Lo cual es
+
+68
+00:03:41,080 --> 00:03:43,410
+agregado por defecto en Python. Por lo tanto, me saltaré
+
+69
+00:03:43,410 --> 00:03:47,450
+esa parte. El siguiente es movie_title, que sé
+
+70
+00:03:47,450 --> 00:03:52,530
+es Toy Story, así que agregaré eso. Después de eso, sigue la trama
+
+71
+00:03:52,530 --> 00:03:57,540
+de la película, así que voy a escribir eso a continuación. La historia de
+
+72
+00:03:57,540 --> 00:04:02,350
+un niño y sus juguetes que cobran
+
+73
+00:04:02,350 --> 00:04:07,700
+vida. El siguiente es el poster_image, así que voy a añadir eso.
+
+74
+00:04:07,700 --> 00:04:12,970
+Previamente entré a Wikipedia y encontré un enlace al póster
+
+75
+00:04:12,970 --> 00:04:18,970
+de Toy Story y lo añadí. Por último, el avance de YouTube, el cual también añadiré.
+
+76
+00:04:21,050 --> 00:04:23,450
+Ahí está. Ahora, permítanme desplazarme hacia
+
+77
+00:04:23,450 --> 00:04:24,990
+atrás para que podamos ver el inicio del
+
+78
+00:04:24,990 --> 00:04:28,240
+código. Bien, admito que no se puede ver todo
+
+79
+00:04:28,240 --> 00:04:30,690
+el código, así que lo que he hecho es tomar una
+
+80
+00:04:30,690 --> 00:04:32,910
+imagen del código y ponerlo en las
+
+81
+00:04:32,910 --> 00:04:35,760
+notas del instructor para que lo vean. Perfecto,
+
+82
+00:04:35,760 --> 00:04:37,870
+lo último que voy a hacer es
+
+83
+00:04:37,870 --> 00:04:42,490
+imprimir la trama de Toy Story. Déjenme guardar este archivo
+
+84
+00:04:44,890 --> 00:04:50,740
+y regresar a mi archivo de la clase Movie y guardarlo también. Enseguida voy a
+
+85
+00:04:50,740 --> 00:04:55,850
+regresar a mi archivo entertainment_center.py. Bueno,
+
+86
+00:04:55,850 --> 00:04:58,430
+si todo va bien, mi programa debe
+
+87
+00:04:58,430 --> 00:05:03,220
+imprimir toy_story.storyline. Vamos a ejecutarlo. Y ahí
+
+88
+00:05:03,220 --> 00:05:06,300
+está, la trama de Toy Story se está imprimiendo.
+
+89
+00:05:06,300 --> 00:05:07,600
+Bien, en el siguiente video
+
+90
+00:05:07,600 --> 00:05:09,970
+vamos a ver lo que sucede detrás de escenas cuando
+
+91
+00:05:09,970 --> 00:05:11,020
+ejecutamos esta fracción de código.
+

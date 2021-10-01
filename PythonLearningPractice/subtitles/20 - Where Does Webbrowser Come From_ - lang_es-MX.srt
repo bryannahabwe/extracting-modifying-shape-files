@@ -1,0 +1,108 @@
+1
+00:00:00,460 --> 00:00:02,170
+Ahora, imagina que esta hoja de papel
+
+2
+00:00:02,170 --> 00:00:05,640
+amarilla es la biblioteca estándar de Python. Imagina que
+
+3
+00:00:05,640 --> 00:00:12,070
+esto es lo que obtuvimos cuando nos descargamos Python. Dentro de Python hay un archivo llamado
+
+4
+00:00:13,220 --> 00:00:17,150
+webbrowser. Y dentro de webbrowser hay una función
+
+5
+00:00:17,150 --> 00:00:20,470
+llamada open. Ahora bien, esta es la función que
+
+6
+00:00:20,470 --> 00:00:23,088
+nos permitió reproducir el vídeo de YouTube.
+
+7
+00:00:23,088 --> 00:00:25,780
+Al igual que webbrowser, hay otro archivo o
+
+8
+00:00:25,780 --> 00:00:28,920
+módulo dentro de la biblioteca estándar de Python. Se
+
+9
+00:00:28,920 --> 00:00:31,300
+llama time (tiempo), y time tiene varias funciones
+
+10
+00:00:31,300 --> 00:00:37,980
+definidas dentro de él. Dos de ellas son ctime, que te da la hora actual,
+
+11
+00:00:37,980 --> 00:00:42,490
+y sleep, que suspende la animación del programa por
+
+12
+00:00:42,490 --> 00:00:45,610
+un momento. Ahora, he aquí una reflexión, ¿cómo
+
+13
+00:00:45,610 --> 00:00:49,060
+la función sleep en realidad suspende o pausa
+
+14
+00:00:49,060 --> 00:00:51,750
+el programa por un número dado de segundos?
+
+15
+00:00:51,750 --> 00:00:53,360
+En realidad, no sabemos como hace esto tras
+
+16
+00:00:53,360 --> 00:00:56,180
+bambalinas. De igual modo, ¿cómo
+
+17
+00:00:56,180 --> 00:00:58,832
+la función open abre un navegador web para reproducir un
+
+18
+00:00:58,832 --> 00:01:02,080
+vídeo de YouTube para nosotros? Tampoco sabemos muy bien cómo
+
+19
+00:01:02,080 --> 00:01:06,040
+lo hace tras bambalinas. Ese detalle está
+
+20
+00:01:06,040 --> 00:01:09,540
+oculto para nosotros, y esta ocultación de detalles se llama abstracción
+
+21
+00:01:09,540 --> 00:01:13,020
+en el campo de la programación. Ahora, esta idea de la abstracción es
+
+22
+00:01:13,020 --> 00:01:17,020
+en verdad muy poderosa en la programación, ya que nos permite
+
+23
+00:01:17,020 --> 00:01:19,790
+centrarnos en el programa que en realidad queremos escribir que
+
+24
+00:01:19,790 --> 00:01:22,980
+es el programa Toma un Descanso, y nos faculta para usar
+
+25
+00:01:22,980 --> 00:01:25,260
+estas funciones con sólo leer su
+
+26
+00:01:25,260 --> 00:01:27,840
+documentación. Así que vamos a leer alguna documentación
+
+27
+00:01:27,840 --> 00:01:31,300
+ahora y ver si realmente existen estas funciones en la Biblioteca Estándar de Python.
+

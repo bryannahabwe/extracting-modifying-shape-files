@@ -1,0 +1,68 @@
+1
+00:00:00,270 --> 00:00:03,620
+Ok, estoy en la página de registro de twilio. Ah, por cierto,
+
+2
+00:00:03,620 --> 00:00:07,610
+este enlace también está disponible en las notas del instructor. Aquí me voy a registrar
+
+3
+00:00:07,610 --> 00:00:10,740
+gratis. Twilio también pide mi número de teléfono,
+
+4
+00:00:10,740 --> 00:00:13,160
+el cual voy a dar. Bueno, actualmente estoy
+
+5
+00:00:13,160 --> 00:00:15,260
+ubicado en los Estados Unidos. Cerciórense
+
+6
+00:00:15,260 --> 00:00:16,940
+de seleccionar el país donde se encuentren.
+
+7
+00:00:20,060 --> 00:00:23,230
+Entonces Twilio me envía un código de verificación al teléfono que
+
+8
+00:00:23,230 --> 00:00:26,170
+había registrado anteriormente, recibirán uno en su teléfono
+
+9
+00:00:26,170 --> 00:00:29,590
+también. Voy a escribir ese código aquí en este cuadro. Bueno,
+
+10
+00:00:29,590 --> 00:00:32,490
+me están dando un número de teléfono, no estoy muy seguro
+
+11
+00:00:32,490 --> 00:00:34,680
+de que ya entendí eso, pero voy a seguir adelante
+
+12
+00:00:34,680 --> 00:00:37,810
+y continuaré. Perfecto, parece que puedo hacer un montón de
+
+13
+00:00:37,810 --> 00:00:40,850
+cosas aquí con mi cuenta, pero lo que realmente estoy buscando es
+
+14
+00:00:40,850 --> 00:00:45,030
+mi identificador de autorización. ¿Dónde está eso? Mmmh Déjenme ir a mi
+
+15
+00:00:45,030 --> 00:00:50,350
+mi cuenta. ¡Ajá! Aquí están. Aquí está el SID de la cuenta y aquí está el
+
+16
+00:00:50,350 --> 00:00:52,750
+identificador de autorización. Bueno, voy a copiar
+
+17
+00:00:52,750 --> 00:00:55,030
+y pegar ambos en mi programa.
+

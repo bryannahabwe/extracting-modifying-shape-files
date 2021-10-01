@@ -1,0 +1,196 @@
+1
+00:00:00,330 --> 00:00:02,320
+De acuerdo, aquí tenemos nuestro diseño de las
+
+2
+00:00:02,320 --> 00:00:04,280
+clases que se van a construir en la parte superior
+
+3
+00:00:04,280 --> 00:00:07,040
+derecha y lo que he hecho hasta ahora es
+
+4
+00:00:07,040 --> 00:00:11,310
+crear un nuevo archivo Python al que llamé inheritance.py.
+
+5
+00:00:11,310 --> 00:00:13,530
+Bien, en base a nuestro diseño, voy a continuar
+
+6
+00:00:13,530 --> 00:00:18,320
+y crear una clase llamada Parent. Listo. Lo siguiente
+
+7
+00:00:18,320 --> 00:00:21,370
+que voy a hacer es iniciar las variables de la clase
+
+8
+00:00:21,370 --> 00:00:25,350
+Parent, variables como last_name and eye_color. Bien, para hacer eso,
+
+9
+00:00:25,350 --> 00:00:27,500
+Definiré esta clase como método init
+
+10
+00:00:27,500 --> 00:00:30,180
+o constructor. Sabemos que el primer argumento para esta función
+
+11
+00:00:30,180 --> 00:00:33,365
+es self. Y las dos variables
+
+12
+00:00:33,365 --> 00:00:38,040
+de instancia para la clase Parent, sabemos, son self.last_name y
+
+13
+00:00:38,040 --> 00:00:42,010
+self.eye_color. Bueno, sabemos que la función init recibirá
+
+14
+00:00:42,010 --> 00:00:45,150
+un par de valores como argumentos. Entonces, déjenme
+
+15
+00:00:45,150 --> 00:00:46,950
+añadirlas aquí y
+
+16
+00:00:46,950 --> 00:00:50,720
+utilizaremos estos dos argumentos para iniciar nuestras variables de instancia.
+
+17
+00:00:50,720 --> 00:00:56,160
+Déjenme hacer eso enseguida. Muy bien. Pueden notar que esta porción de código es bastante
+
+18
+00:00:56,160 --> 00:00:58,610
+similar al código para la clase Movie que
+
+19
+00:00:58,610 --> 00:01:01,300
+hemos escrito anteriormente. Por cierto, una cosa
+
+20
+00:01:01,300 --> 00:01:03,000
+nueva que haré aquí, es añadir un
+
+21
+00:01:03,000 --> 00:01:05,890
+sentencia de impresión rápida dentro del método init. Va a
+
+22
+00:01:05,890 --> 00:01:11,930
+imprimir, Parent Constructor Called. Bien, esta sentencia de
+
+23
+00:01:11,930 --> 00:01:15,895
+impresión nos dirá explícitamente, cada vez que se llame al
+
+24
+00:01:15,895 --> 00:01:19,090
+método init o al constructor de la clase Parent.
+
+25
+00:01:19,090 --> 00:01:21,140
+Muy bien, para asegurar que este código que
+
+26
+00:01:21,140 --> 00:01:23,760
+hemos escrito hasta ahora en realidad funciona, vamos a continuar
+
+27
+00:01:23,760 --> 00:01:27,000
+y utilizar esta clase. Definiré una instancia
+
+28
+00:01:27,000 --> 00:01:31,370
+de la clase Parent y la llamaré billy_cyrus y proporcionaré
+
+29
+00:01:31,370 --> 00:01:34,530
+los dos argumentos que son necesarios. El primero
+
+30
+00:01:34,530 --> 00:01:37,490
+de ellos es last_name y este es
+
+31
+00:01:37,490 --> 00:01:40,770
+Cyrus y el siguiente es eye_color que es,
+
+32
+00:01:40,770 --> 00:01:44,500
+digamos, azul. Bien, una rápida
+
+33
+00:01:44,500 --> 00:01:47,500
+advertencia. Por lo común, hubiera mantenido estas
+
+34
+00:01:47,500 --> 00:01:49,480
+dos cosas, la definición de la clase
+
+35
+00:01:49,480 --> 00:01:52,140
+Parent y la creación de sus instancias. Las hubiera
+
+36
+00:01:52,140 --> 00:01:56,050
+mantenido en archivos de Python separados. Pero las he mantenido a ambas en el
+
+37
+00:01:56,050 --> 00:02:02,009
+mismo archivo para facilitar la demostración. Muy bien, para demostrar
+
+38
+00:02:02,009 --> 00:02:06,479
+que la instancia realmente funciona,
+
+39
+00:02:06,479 --> 00:02:15,300
+Imprimiré su apellido. Déjenme guardar y después ejecutar este archivo. Y
+
+40
+00:02:15,300 --> 00:02:18,450
+ahí está mi resultado. Dice que se llamó al
+
+41
+00:02:18,450 --> 00:02:21,290
+constructor Parent. Que parece apropiado porque creamos
+
+42
+00:02:21,290 --> 00:02:23,820
+una instancia llamada billy_cyrus Y tan pronto como
+
+43
+00:02:23,820 --> 00:02:26,260
+lo hicimos, se llamó al método __init__ de Parent,
+
+44
+00:02:26,260 --> 00:02:28,650
+que tenía una sentencia de impresión dentro
+
+45
+00:02:28,650 --> 00:02:31,780
+de ella. Y luego, imprimimos el apellido de
+
+46
+00:02:31,780 --> 00:02:36,980
+Billy Cyrus, que se imprimió correctamente. Perfecto, hasta ahora, todo bien.
+
+47
+00:02:36,980 --> 00:02:40,640
+Bueno, se darán cuenta de que en realidad no hay nada nuevo que hayamos hecho aquí
+
+48
+00:02:40,640 --> 00:02:45,100
+hasta ahora. Lo nuevo que vamos a tratar se denomina herencia, que
+
+49
+00:02:45,100 --> 00:02:48,900
+sucederá cuando creemos la clase llamada Child. Hagamos eso a continuación.
+

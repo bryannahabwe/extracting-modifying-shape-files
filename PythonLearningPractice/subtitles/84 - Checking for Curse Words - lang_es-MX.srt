@@ -1,0 +1,92 @@
+1
+00:00:00,240 --> 00:00:02,360
+El siguiente paso en nuestro plan es revisar
+
+2
+00:00:02,360 --> 00:00:05,710
+el lenguaje obsceno en el texto que hemos leído hasta ahora. Bien,
+
+3
+00:00:05,710 --> 00:00:08,310
+para hacer esto, busqué en Internet y encontré
+
+4
+00:00:08,310 --> 00:00:14,010
+el sitio llamado wdyl.com o ¿qué amas? Este
+
+5
+00:00:14,010 --> 00:00:16,430
+sitio web fue desarrollado por Google y una de las
+
+6
+00:00:16,430 --> 00:00:18,870
+cosas que hace es que nos puede decir si
+
+7
+00:00:18,870 --> 00:00:22,060
+una palabra es una palabra vulgar o no. Entonces,
+
+8
+00:00:22,060 --> 00:00:25,500
+si voy al enlace de obscenidad del sitio web, que es
+
+9
+00:00:26,630 --> 00:00:30,030
+profanity?q, por cierto, este
+
+10
+00:00:30,030 --> 00:00:32,180
+enlace también está disponible en las notas del instructor,
+
+11
+00:00:32,180 --> 00:00:35,920
+y pruebo la palabra S-H-O-T y
+
+12
+00:00:35,920 --> 00:00:39,590
+veamos qué pasa. ¡Ajá! La respuesta de la página web es falsa
+
+13
+00:00:39,590 --> 00:00:44,750
+lo que significa que esta palabra, la palabra shot, no es una mala palabra. Pero si
+
+14
+00:00:44,750 --> 00:00:47,890
+cambio esta palabra por una sola letra y
+
+15
+00:00:47,890 --> 00:00:51,770
+presiono Enter. La respuesta es un poco diferente.
+
+16
+00:00:51,770 --> 00:00:56,170
+Incluso le puedo dar a esta página web una frase o un párrafo. Permítanme, en lugar de
+
+17
+00:00:56,170 --> 00:01:02,890
+decir una palabra, decir, puedo echarle un vistazo, y presiono
+
+18
+00:01:02,890 --> 00:01:08,200
+Enter, y la respuesta es falsa, lo que significa que esta frase está bien. Pero,
+
+19
+00:01:08,200 --> 00:01:13,300
+si cambio una palabra en esa frase, bueno diré, que puedo, bien, ustedes saben,
+
+20
+00:01:15,930 --> 00:01:18,910
+y luego presiono Enter. Ooh, la respuesta ahora es
+
+21
+00:01:18,910 --> 00:01:20,740
+verdadera, lo que significa que hay una palabra obscena
+
+22
+00:01:20,740 --> 00:01:22,380
+en esta frase. [SONIDO] Todo lo que tenemos que hacer
+
+23
+00:01:22,380 --> 00:01:25,690
+ahora es hacer lo que hemos estado haciendo, pero utilizando código.
+

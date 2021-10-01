@@ -1,0 +1,24 @@
+1
+00:00:00,400 --> 00:00:05,342
+Pienso que hay dos pasos principales para realizar este trabajo. En el primer paso,
+
+2
+00:00:05,342 --> 00:00:11,103
+tenemos que leer texto de un documento. Permítanme escribir eso. Leer
+
+3
+00:00:11,103 --> 00:00:16,270
+texto. Y en el segundo paso lo que tenemos que hacer es revisar
+
+4
+00:00:16,270 --> 00:00:21,270
+este texto en búsqueda de lenguaje obsceno. Permítanme escribir eso también. Revisar texto
+
+5
+00:00:24,010 --> 00:00:24,670
+en búsqueda de lenguaje obsceno.
+
+6
+00:00:27,990 --> 00:00:30,470
+Comencemos por la lectura del texto de un documento.
+

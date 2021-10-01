@@ -1,0 +1,72 @@
+1
+00:00:00,420 --> 00:00:02,620
+Quando removemos a palavra-chave self da frente
+
+2
+00:00:02,620 --> 00:00:04,650
+de storyline... Deixe-me fazer isso
+
+3
+00:00:04,650 --> 00:00:08,370
+mais uma vez. O que estamos fazendo realmente é transformar storyline
+
+4
+00:00:08,370 --> 00:00:11,740
+de uma variável de instância, acessível com instâncias como toy_story
+
+5
+00:00:11,740 --> 00:00:16,120
+avatar, para uma simples variável local na
+
+6
+00:00:16,120 --> 00:00:19,180
+função init. Ainda poderei
+
+7
+00:00:19,180 --> 00:00:22,890
+acessar esta variável storyline de qualquer ponto na função
+
+8
+00:00:22,890 --> 00:00:26,440
+init, mas não com uma instância como avatar. Como
+
+9
+00:00:26,440 --> 00:00:27,890
+estamos tentando fazer isso nesta
+
+10
+00:00:27,890 --> 00:00:31,100
+instrução print, minha hipótese é a de que o Python
+
+11
+00:00:31,100 --> 00:00:33,480
+retornará um erro e dirá que este objeto de filme
+
+12
+00:00:33,480 --> 00:00:37,210
+Avatar não tem storyline. Para verificar essa
+
+13
+00:00:37,210 --> 00:00:41,600
+hipótese, salvarei o arquivo de mídia,
+
+14
+00:00:41,600 --> 00:00:44,270
+voltarei ao arquivo entertainment_center e
+
+15
+00:00:44,270 --> 00:00:48,000
+o executarei. Aqui está o erro. Python diz
+
+16
+00:00:48,000 --> 00:00:51,530
+que a instância Movie, neste caso, Avatar, não tem um
+
+17
+00:00:51,530 --> 00:00:55,750
+atributo chamado storyline. Para corrigir isso, voltarei
+
+18
+00:00:55,750 --> 00:01:01,202
+ao código e adicionarei a palavra-chave self na frente de storyline.
+

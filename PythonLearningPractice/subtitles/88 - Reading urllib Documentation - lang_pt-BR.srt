@@ -1,0 +1,32 @@
+1
+00:00:00,220 --> 00:00:02,770
+Esta é a biblioteca padrão Python. Se rolar para baixo,
+
+2
+00:00:02,770 --> 00:00:05,830
+encontrarei um módulo chamado
+
+3
+00:00:05,830 --> 00:00:08,710
+urllib. Clico nele. Aqui diz que
+
+4
+00:00:08,710 --> 00:00:12,800
+esse módulo fornece uma interface de alto nível para busca de dados
+
+5
+00:00:12,800 --> 00:00:15,100
+na Web, o que é uma maneira elegante
+
+6
+00:00:15,100 --> 00:00:18,410
+de dizer que esse módulo nos ajuda a obter os dados
+
+7
+00:00:18,410 --> 00:00:21,400
+da Internet ou dos sites. Se eu rolar
+
+8
+00:00:21,400 --> 00:00:25,030
+esta página para baixo, encontrarei a função urlopen.
+

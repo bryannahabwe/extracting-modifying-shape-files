@@ -1,0 +1,20 @@
+1
+00:00:00,500 --> 00:00:05,460
+Así, al igual que webbrowser y time, Python tiene otro módulo en su interior llamado
+
+2
+00:00:05,460 --> 00:00:13,580
+os, que es la abreviatura para sistema operativo. Dentro de os hay varias funciones, dos de
+
+3
+00:00:13,580 --> 00:00:19,720
+ellos son listdir, que enlista todos los archivos en un directorio determinado, y
+
+4
+00:00:21,040 --> 00:00:25,530
+rename, que cambia el nombre de un archivo determinado. Pero no se fíen de lo que digo y mejor vamos a
+
+5
+00:00:25,530 --> 00:00:26,620
+buscarlas en la documentación.
+

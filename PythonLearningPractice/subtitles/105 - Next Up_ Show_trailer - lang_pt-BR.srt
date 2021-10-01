@@ -1,0 +1,79 @@
+1
+00:00:00,340 --> 00:00:03,820
+Estou no design
+original da classe Movie
+
+2
+00:00:03,820 --> 00:00:06,730
+pra descobrir o que temos que fazer
+a seguir com o código.
+
+3
+00:00:06,730 --> 00:00:09,860
+Até agora, definimos
+a classe Movie e
+
+4
+00:00:09,860 --> 00:00:13,160
+cuidamos de toda as variáveis de
+instância que desejamos lembrar.
+
+5
+00:00:13,160 --> 00:00:16,180
+Também criamos algumas
+instâncias da classe Movie,
+
+6
+00:00:16,180 --> 00:00:18,450
+como toy_story e avatar.
+
+7
+00:00:18,450 --> 00:00:23,540
+Mas ainda não
+definimos a função show_trailer().
+
+8
+00:00:23,540 --> 00:00:27,640
+Esta função, como o nome sugere,
+abrirá um navegador e
+
+9
+00:00:27,640 --> 00:00:29,680
+reproduzirá o trailer de um filme.
+
+10
+00:00:29,680 --> 00:00:30,720
+Essencialmente,
+
+11
+00:00:30,720 --> 00:00:35,540
+temos que executar uma linha de
+código como esta: avatar.show_trailer().
+
+12
+00:00:35,540 --> 00:00:39,840
+Quando executada,
+o trailer do filme Avatar será reproduzido.
+
+13
+00:00:39,840 --> 00:00:44,070
+Uma função que
+é definida em uma classe e
+
+14
+00:00:44,070 --> 00:00:48,230
+associada a uma instância
+é chamada de método de instância.
+
+15
+00:00:48,230 --> 00:00:51,200
+Esse é mais um termo novo para a lista.
+
+16
+00:00:51,200 --> 00:00:53,710
+Em breve, veremos mais sobre esses novos termos.
+
+17
+00:00:53,710 --> 00:00:56,120
+Primeiro, vamos definir show_trailer().
+

@@ -1,0 +1,52 @@
+1
+00:00:00,160 --> 00:00:02,140
+Bueno. Así que estamos de vuelta al código y todo
+
+2
+00:00:02,140 --> 00:00:06,210
+lo que he hecho es añadir la función translate a nuestro programa.
+
+3
+00:00:06,210 --> 00:00:08,560
+Así que lo que el código está haciendo ahora, es decir, por
+
+4
+00:00:08,560 --> 00:00:13,330
+cada archivo o cada foto dentro de nuestra carpeta, renombrarlo.
+
+5
+00:00:13,330 --> 00:00:15,870
+Aquí está el nombre de archivo anterior y aquí está el
+
+6
+00:00:15,870 --> 00:00:20,070
+nuevo nombre de archivo desprovisto de cualquier número. Ahora mi hipótesis es
+
+7
+00:00:20,070 --> 00:00:22,710
+que si yo guardo y ejecuto este programa, todos los
+
+8
+00:00:22,710 --> 00:00:26,260
+archivos de fotos serán renombrados y veremos el mensaje secreto.
+
+9
+00:00:26,260 --> 00:00:30,370
+Así que déjame continuar y guardar y ejecutar el programa.
+
+10
+00:00:32,390 --> 00:00:35,670
+Oh wow. Claramente, esto no funcionó. ¿Te importaría
+
+11
+00:00:35,670 --> 00:00:38,210
+leer este editor y decirnos lo que
+
+12
+00:00:38,210 --> 00:00:40,300
+crees que es el problema? Una vez que tengas una
+
+13
+00:00:40,300 --> 00:00:43,020
+hipótesis, no dudes en ingresarla en el cuadro correspondiente.
+

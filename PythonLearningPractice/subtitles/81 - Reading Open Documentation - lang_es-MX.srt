@@ -1,0 +1,40 @@
+1
+00:00:00,170 --> 00:00:03,500
+Bien, esta es la librería estándar Python. Ahora, si me desplazo
+
+2
+00:00:03,500 --> 00:00:05,810
+hacia abajo un poco, me encontraré con un conjunto de
+
+3
+00:00:05,810 --> 00:00:09,520
+funciones llamadas Funciones Integradas. Si hago clic en ellas,
+
+4
+00:00:09,520 --> 00:00:12,690
+Encontraré un montón de funciones que están siempre disponibles
+
+5
+00:00:12,690 --> 00:00:16,440
+en Python. Y una de esas funciones es open. Si
+
+6
+00:00:16,440 --> 00:00:20,020
+hago clic en open, la documentación dice que abre
+
+7
+00:00:20,020 --> 00:00:22,230
+un archivo. Que es exactamente lo que hicimos en nuestro
+
+8
+00:00:22,230 --> 00:00:25,330
+programa Y si sigo leyendo, sugiere
+
+9
+00:00:25,330 --> 00:00:31,730
+que open regresa un objeto del tipo de archivo. Bueno, esta palabra objeto es extremadamente
+
+10
+00:00:31,730 --> 00:00:36,560
+curiosa. ¿Dónde nos hemos encontrado con esta palabra objeto antes? Vamos a investigar.
+

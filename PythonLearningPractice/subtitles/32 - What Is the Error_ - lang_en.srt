@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:01,868
+Okay, so we're back to the code.
+
+2
+00:00:01,868 --> 00:00:06,200
+And all I've done is added the translate function to our program.
+
+3
+00:00:06,200 --> 00:00:08,130
+So what this code is doing now is saying,
+
+4
+00:00:08,130 --> 00:00:13,195
+for each file or for each photo inside our folder, rename it.
+
+5
+00:00:13,195 --> 00:00:15,187
+Here's the old file name,
+
+6
+00:00:15,187 --> 00:00:18,690
+and here's the new file name devoid of any numbers.
+
+7
+00:00:18,690 --> 00:00:22,080
+Now my hypothesis is that if I save and run this program,
+
+8
+00:00:22,080 --> 00:00:26,235
+all of the photo files will be renamed and we'll see the secret message.
+
+9
+00:00:26,235 --> 00:00:27,370
+So let me go ahead and save it,
+
+10
+00:00:27,370 --> 00:00:33,210
+and run the program. Oh, wow.
+
+11
+00:00:33,210 --> 00:00:35,395
+That clearly did not work.
+
+12
+00:00:35,395 --> 00:00:39,750
+Would you mind reading through this error and telling us what you think is the problem?
+
+13
+00:00:39,750 --> 00:00:41,145
+Once you have a hypothesis,
+
+14
+00:00:41,145 --> 00:00:43,080
+feel free to enter it in the box provided.
+

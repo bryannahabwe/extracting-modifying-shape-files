@@ -1,0 +1,48 @@
+1
+00:00:00,260 --> 00:00:01,490
+Ahora, lo primero que voy a hacer en
+
+2
+00:00:01,490 --> 00:00:05,600
+mi máquina Windows, es abrir Python y IDLE. Así es
+
+3
+00:00:05,600 --> 00:00:07,230
+cómo se hace. Puedo ir al
+
+4
+00:00:07,230 --> 00:00:12,060
+menú Inicio, pulsar en Todos los programas, encontrar Python 2.7, que es
+
+5
+00:00:12,060 --> 00:00:17,040
+lo que acabamos de instalar, e iniciar IDLE. En
+
+6
+00:00:17,040 --> 00:00:19,380
+una Mac, esto es lo que necesitas hacer.
+
+7
+00:00:19,380 --> 00:00:25,640
+Voy a ir a Spotlight y después voy a escribir IDLE. Puedes pensar en IDLE como un bloc de notas o
+
+8
+00:00:25,640 --> 00:00:30,450
+un lugar donde podemos escribir programas en Python. Puedo hacer clic en Archivo y luego en Nuevo
+
+9
+00:00:30,450 --> 00:00:36,010
+Archivo y listo, voy a conseguir un lugar nuevo y flamante donde puedo escribir mi código.
+
+10
+00:00:36,010 --> 00:00:38,000
+Por cierto, la otra ventana es donde
+
+11
+00:00:38,000 --> 00:00:40,330
+vamos a ver el resultado de nuestro programa. Bueno,
+
+12
+00:00:40,330 --> 00:00:43,820
+déjenme reorganizar estas dos ventanas para que podamos verlas al mismo tiempo.
+

@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:02,760
+Ahora que hemos aprendido muchas palabras nuevas
+
+2
+00:00:02,760 --> 00:00:05,796
+relacionadas con clases y objetos, vamos a proseguir
+
+3
+00:00:05,796 --> 00:00:09,072
+con la creación de un sitio web de películas. Y este es el resultado final
+
+4
+00:00:09,072 --> 00:00:11,808
+que estamos buscando. Todas nuestras películas favoritas, en una
+
+5
+00:00:11,808 --> 00:00:14,595
+página web. Y como lo han visto anteriormente, si dan
+
+6
+00:00:14,595 --> 00:00:17,640
+clic en cualquiera de estas películas, vemos su tráiler.
+
+7
+00:00:17,640 --> 00:00:21,030
+Vamos a construir este programa. Aquí estoy, de vuelta con mi
+
+8
+00:00:21,030 --> 00:00:24,970
+código. Bueno, hasta el momento, hemos hecho sólo dos objetos de película. Toy
+
+9
+00:00:24,970 --> 00:00:28,610
+Story y Avatar. Voy a hacer unos pocos más.
+
+10
+00:00:28,610 --> 00:00:31,600
+De hecho, cuatro objetos de películas más. Pero antes de hacer
+
+11
+00:00:31,600 --> 00:00:33,940
+eso, quiero hacer esta ventana un poco
+
+12
+00:00:33,940 --> 00:00:37,320
+más grande, para que podamos ver todo este código con mucha facilidad.
+
+13
+00:00:37,320 --> 00:00:39,620
+Perfecto. Aquí están las dos instancias que hemos creado
+
+14
+00:00:39,620 --> 00:00:43,740
+hasta ahora, toy_story y avatar. Ahora, antes de proceder,
+
+15
+00:00:43,740 --> 00:00:46,780
+comentaré las sentencias de resultado anteriores
+
+16
+00:00:46,780 --> 00:00:50,260
+que generé. Esta sentencia de impresión y el método show_trailer.
+
+17
+00:00:50,260 --> 00:00:52,087
+Permítanme añadir un comentario ahí
+
+18
+00:00:52,087 --> 00:00:56,070
+y ahí. Listo. Bueno, voy a añadir
+
+19
+00:00:56,070 --> 00:00:58,860
+un nuevo objeto movie, para una película llamada, Escuela
+
+20
+00:00:58,860 --> 00:01:02,400
+de Rock. Ahí tienen Notarán que
+
+21
+00:01:02,400 --> 00:01:04,239
+he cambiado los valores de nombre de la película,
+
+22
+00:01:04,239 --> 00:01:07,750
+su trama, la imagen de su póster y su tráiler de YouTube
+
+23
+00:01:07,750 --> 00:01:11,720
+adecuadamente. Enseguida, voy a agregar otro objeto movie.
+
+24
+00:01:11,720 --> 00:01:15,900
+Ahora, para una película animada llamada Ratatouille. Enseguida.
+
+25
+00:01:15,900 --> 00:01:18,420
+Voy a añadir un objeto movie llamado, Media noche en
+
+26
+00:01:18,420 --> 00:01:20,850
+Paris. Bueno, sucede que esta es una de mis
+
+27
+00:01:20,850 --> 00:01:24,100
+peliculas favoritas. Y el objeto movie final que
+
+28
+00:01:24,100 --> 00:01:26,560
+añadiré, es para una película llamada, los Juegos del Hambre.
+
+29
+00:01:27,750 --> 00:01:30,650
+Bien, así que hasta el momento, hemos creado seis objetos movie
+
+30
+00:01:30,650 --> 00:01:34,020
+diferentes. Hasta ahora, todo bien. Ahora, para convertir esto
+
+31
+00:01:34,020 --> 00:01:36,340
+en un sitio web de películas. Van a necesitar una porción
+
+32
+00:01:36,340 --> 00:01:39,590
+de código que descarta. Bueno, a este código lo llamamos
+
+33
+00:01:39,590 --> 00:01:42,970
+fresh_tomatoes.py. A propósito, este archivo esta disponible
+
+34
+00:01:42,970 --> 00:01:45,110
+para que lo descarguen en las notas del instructor. Bueno,
+
+35
+00:01:45,110 --> 00:01:46,950
+antes de utilizarlo, vamos a ver lo que este
+
+36
+00:01:46,950 --> 00:01:51,823
+archivo realmente hace. Este archivo, fresh_tomatoes.py, tiene una función
+
+37
+00:01:51,823 --> 00:01:55,600
+dentro de él llamada, open_movies_page. Veamos esta
+
+38
+00:01:55,600 --> 00:01:58,650
+función un poco más de cerca. Bueno, lo que esta función
+
+39
+00:01:58,650 --> 00:02:01,360
+hace, es recibir una lista de
+
+40
+00:02:01,360 --> 00:02:05,190
+películas como entrada y como salida crea y
+
+41
+00:02:05,190 --> 00:02:08,300
+abre una página HTML o un sitio web, que muestra
+
+42
+00:02:08,300 --> 00:02:11,030
+las películas que se le dieron en primer lugar.
+
+43
+00:02:11,030 --> 00:02:13,140
+Lo que haré a continuación es utilizar
+
+44
+00:02:13,140 --> 00:02:15,610
+este archivo, fresh_tomatoes.py y su
+
+45
+00:02:15,610 --> 00:02:18,390
+función, open_movies_page, dentro de nuestro código.
+

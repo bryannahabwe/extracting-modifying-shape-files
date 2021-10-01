@@ -1,0 +1,20 @@
+1
+00:00:00,340 --> 00:00:05,270
+De acuerdo, acabamos de ver como la herencia nos puede ayudar a reutilizar código. En nuestro
+
+2
+00:00:05,270 --> 00:00:09,690
+ejemplo, vimos que la clase Child puede reutilizar parte del código escrito en la clase
+
+3
+00:00:09,690 --> 00:00:14,210
+Parent. Ahora quiero usar la misma técnica de herencia, para ver si
+
+4
+00:00:14,210 --> 00:00:16,770
+puedo mejorar mi diseño para la clase Movie
+
+5
+00:00:16,770 --> 00:00:19,140
+que escribí anteriormente. Hagamos eso a continuación.
+

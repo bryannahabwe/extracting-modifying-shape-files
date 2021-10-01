@@ -1,0 +1,16 @@
+1
+00:00:00,250 --> 00:00:03,969
+Gracias por enviar sus respuestas al foro de debate. Ahora bien, hemos
+
+2
+00:00:03,969 --> 00:00:07,480
+escrito tres programas diferentes en el curso hasta ahora. Y en este
+
+3
+00:00:07,480 --> 00:00:10,900
+punto, quiero preguntarles de nuevo, ¿qué tan seguros se sienten
+
+4
+00:00:10,900 --> 00:00:14,430
+sobre su capacidad de escribir programas informáticos? Éstas son algunas opciones de respuesta.
+

@@ -1,0 +1,16 @@
+1
+00:00:00,370 --> 00:00:03,200
+Bien, tengo una pregunta para ustedes. ¿Pudieron descargar
+
+2
+00:00:03,200 --> 00:00:08,300
+Twilio de manera satisfactoria? Si no, no se preocupen. Estamos aquí para ayudar.
+
+3
+00:00:08,300 --> 00:00:11,780
+Cuéntenos su experiencia. Pueden incluso preguntarnos, o
+
+4
+00:00:11,780 --> 00:00:14,250
+a otros estudiantes en el curso, en el foro de discusión.
+

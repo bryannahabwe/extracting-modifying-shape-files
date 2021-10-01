@@ -1,0 +1,64 @@
+1
+00:00:00,560 --> 00:00:02,342
+Comenzamos la lección uno utilizando
+
+2
+00:00:02,342 --> 00:00:04,910
+muchas funciones diferentes, y construimos dos proyectos
+
+3
+00:00:04,910 --> 00:00:07,590
+principales. En el primero, ayudamos a nuestros
+
+4
+00:00:07,590 --> 00:00:10,260
+amigos a que tomaran un descanso y en el segundo
+
+5
+00:00:10,260 --> 00:00:12,140
+enviamos un mensaje secreto a nuestros
+
+6
+00:00:12,140 --> 00:00:15,640
+seres queridos. Después nos encontramos con un escenario, mientras
+
+7
+00:00:15,640 --> 00:00:19,470
+construíamos un sitio web de películas, en donde utilizar funciones no nos presentaba
+
+8
+00:00:19,470 --> 00:00:23,210
+una solución elegante. Esa solución requiere algo nuevo.
+
+9
+00:00:26,450 --> 00:00:29,720
+Y esa idea nueva, en programación, es llamada clases,
+
+10
+00:00:29,720 --> 00:00:31,920
+y aquí en esta segunda lección, pasaremos
+
+11
+00:00:31,920 --> 00:00:33,780
+mucho tiempo, y construiremos muchos ejemplos
+
+12
+00:00:33,780 --> 00:00:38,300
+diferentes, mostrando el poder del uso de las clases. Ahora bien, regresaremos
+
+13
+00:00:38,300 --> 00:00:41,310
+a nuestro ejemplo de base de datos para películas en la lección número tres.
+
+14
+00:00:41,310 --> 00:00:43,600
+Pero aquí, en la lección número dos, empezaremos con
+
+15
+00:00:43,600 --> 00:00:46,570
+ideas y ejemplos con los que me resulta más sencillo
+
+16
+00:00:46,570 --> 00:00:49,800
+explicarte el poder de las clases. Comencemos.
+

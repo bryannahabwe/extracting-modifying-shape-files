@@ -1,0 +1,72 @@
+1
+00:00:00,470 --> 00:00:02,420
+Agradecemos por compartilhar suas respostas. Fornecerei
+
+2
+00:00:02,420 --> 00:00:05,750
+feedback nos fóruns periodicamente.
+
+3
+00:00:05,750 --> 00:00:10,640
+Há várias maneiras de solucionar esse problema. Uma delas é
+
+4
+00:00:10,640 --> 00:00:13,090
+criarmos um programa que controle
+
+5
+00:00:13,090 --> 00:00:16,270
+o tempo, digamos duas horas, e
+
+6
+00:00:16,270 --> 00:00:21,010
+não faça nada nesse período. A primeira coisa que o programa deverá fazer é
+
+7
+00:00:23,830 --> 00:00:24,930
+aguardar duas horas.
+
+8
+00:00:27,810 --> 00:00:29,930
+Depois disso, o
+
+9
+00:00:29,930 --> 00:00:32,790
+programa deverá abrir um navegador da Web que
+
+10
+00:00:32,790 --> 00:00:35,330
+reproduza, por exemplo, um vídeo do YouTube com
+
+11
+00:00:35,330 --> 00:00:40,670
+as músicas favoritas dos seus amigos. A segunda ação será abrir um navegador.
+
+12
+00:00:40,670 --> 00:00:43,940
+[BLANK_AUDIO]
+
+13
+00:00:43,940 --> 00:00:47,870
+Como queremos que essas duas etapas sejam executadas várias vezes
+
+14
+00:00:47,870 --> 00:00:50,850
+durante o dia, com vários intervalos durante o
+
+15
+00:00:50,850 --> 00:00:54,430
+dia, essas duas etapas deverão ser inseridas em um tipo de
+
+16
+00:00:54,430 --> 00:01:00,310
+loop. Digamos que queremos repetir essas etapas três vezes.
+
+17
+00:01:00,310 --> 00:01:03,060
+[BLANK_AUDIO]
+
+18
+00:01:03,060 --> 00:01:05,300
+Vamos em frente. Sugiro que você me acompanhe.
+

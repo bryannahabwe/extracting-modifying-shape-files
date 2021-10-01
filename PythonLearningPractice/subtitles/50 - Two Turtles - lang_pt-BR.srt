@@ -1,0 +1,56 @@
+1
+00:00:00,430 --> 00:00:03,190
+Agora que sabemos onde está turtle no Python,
+
+2
+00:00:03,190 --> 00:00:05,810
+quero voltar ao código. Tive que
+
+3
+00:00:05,810 --> 00:00:07,750
+reduzir o tamanho da fonte do código um
+
+4
+00:00:07,750 --> 00:00:10,760
+pouco para que pudéssemos vê-lo por completo no mesmo enquadramento.
+
+5
+00:00:10,760 --> 00:00:13,160
+O que fizemos até agora foi criar uma instância
+
+6
+00:00:13,160 --> 00:00:17,100
+da classe Turtle chamada brad, que desenha um
+
+7
+00:00:17,100 --> 00:00:19,960
+quadrado. Se possível, podemos criar outro
+
+8
+00:00:19,960 --> 00:00:25,506
+exemplo ou instância da classe Turtle. E chamá-la de
+
+9
+00:00:25,506 --> 00:00:33,170
+angie. Aqui está. Quero que angie desenhe um círculo.
+
+10
+00:00:33,170 --> 00:00:38,960
+Um circulo com raio de 100. Também quero que angie tenha
+
+11
+00:00:38,960 --> 00:00:44,730
+a forma de uma seta e a cor azul. Aqui
+
+12
+00:00:44,730 --> 00:00:48,040
+está. Vou salvar e executar isso e ver como ficou.
+
+13
+00:00:50,200 --> 00:00:53,710
+Arrá, parece que temos brad fazendo um quadrado amarelo e
+
+14
+00:00:53,710 --> 00:00:56,770
+angie fazendo um círculo azul. Parece que estamos chegando a algum lugar.
+

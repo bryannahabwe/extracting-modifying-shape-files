@@ -1,0 +1,104 @@
+1
+00:00:00,330 --> 00:00:03,070
+A biblioteca padrão Python sugere que a
+
+2
+00:00:03,070 --> 00:00:06,670
+função "open" retorna um objeto do tipo
+
+3
+00:00:06,670 --> 00:00:10,400
+"file". Esse termo "objeto" é muito interessante
+
+4
+00:00:10,400 --> 00:00:12,930
+porque já o vimos antes. Você se lembra de quando
+
+5
+00:00:12,930 --> 00:00:14,980
+desenhamos quadrados usando a classe
+
+6
+00:00:14,980 --> 00:00:18,490
+Turtle? Escrevemos linhas de código como esta.
+
+7
+00:00:18,490 --> 00:00:21,630
+Isso queria dizer que brad era um objeto ou
+
+8
+00:00:21,630 --> 00:00:25,340
+instância da classe Turtle. Assim também, quando escrevemos
+
+9
+00:00:25,340 --> 00:00:28,900
+linhas como quotes igual a
+
+10
+00:00:28,900 --> 00:00:31,680
+open(file_location), e o arquivo, no caso,
+
+11
+00:00:31,680 --> 00:00:34,990
+era um arquivo Movie quotes, estamos dizendo que quotes
+
+12
+00:00:34,990 --> 00:00:38,560
+é um objeto ou instância do arquivo. Vamos
+
+13
+00:00:38,560 --> 00:00:41,150
+pensar por um instante no que acontece quando executamos
+
+14
+00:00:41,150 --> 00:00:43,590
+esta linha de código. Quando executamos essa
+
+15
+00:00:43,590 --> 00:00:47,050
+linha de código, uma função init é chamada
+
+16
+00:00:47,050 --> 00:00:50,590
+a partir da classe Turtle. Essa função
+
+17
+00:00:50,590 --> 00:00:57,280
+cria espaço na memória para o objeto brad. No caso de open,
+
+18
+00:00:57,280 --> 00:00:59,350
+mesmo que aparentemente
+
+19
+00:00:59,350 --> 00:01:02,000
+estejamos apenas chamando uma função
+
+20
+00:01:02,000 --> 00:01:08,480
+sem qualquer classe envolvida, se você procurar bem no código como open() foi
+
+21
+00:01:08,480 --> 00:01:11,910
+implementada no Python, descobriremos que open,
+
+22
+00:01:11,910 --> 00:01:16,370
+por sua vez, chama uma função parecida com
+
+23
+00:01:16,370 --> 00:01:20,410
+a init para criar um objeto do arquivo. Muito bem, chega de
+
+24
+00:01:20,410 --> 00:01:24,100
+jargões por enquanto. Falaremos de instâncias e objetos um
+
+25
+00:01:24,100 --> 00:01:27,410
+pouco mais tarde no curso. Agora, podemos aproveitar
+
+26
+00:01:27,410 --> 00:01:30,450
+o fato de que parte do verificador de palavrões está pronto.
+

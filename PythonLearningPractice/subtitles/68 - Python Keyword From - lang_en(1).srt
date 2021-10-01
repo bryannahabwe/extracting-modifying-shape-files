@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:01,665
+So now that our code has worked,
+
+2
+00:00:01,665 --> 00:00:05,010
+let's figure out what's actually going on with this program.
+
+3
+00:00:05,010 --> 00:00:09,090
+Now, the first thing that strikes me is this first line of code which
+
+4
+00:00:09,090 --> 00:00:14,785
+is from twilio.rest import TwilioRestClient.
+
+5
+00:00:14,785 --> 00:00:17,670
+Now thus far, what we've been doing is statements like
+
+6
+00:00:17,670 --> 00:00:21,351
+this where we say, import some filename.
+
+7
+00:00:21,351 --> 00:00:24,100
+Like in this case import turtle,
+
+8
+00:00:24,100 --> 00:00:29,353
+but here we have this new word called from.
+
+9
+00:00:29,353 --> 00:00:31,515
+So here's the task for you.
+
+10
+00:00:31,515 --> 00:00:35,841
+We want you to find out what this Python keyword from means?
+
+11
+00:00:35,841 --> 00:00:39,000
+You can enter your responses in this box.
+

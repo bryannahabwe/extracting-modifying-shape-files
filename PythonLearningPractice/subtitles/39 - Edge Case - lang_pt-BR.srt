@@ -1,0 +1,44 @@
+1
+00:00:00,480 --> 00:00:04,820
+Até agora, escrevemos muitas funções. Em geral,
+
+2
+00:00:04,820 --> 00:00:08,360
+começamos criando um arquivo Python vazio.
+
+3
+00:00:08,360 --> 00:00:11,760
+Vamos chamá-lo de some_module.py, neste caso. Em seguida,
+
+4
+00:00:11,760 --> 00:00:14,840
+adicionamos as funções. Funções
+
+5
+00:00:14,840 --> 00:00:18,678
+como do.this. E mais uma função, vamos chamá-la de
+
+6
+00:00:18,678 --> 00:00:22,220
+do.that, por exemplo. Essencialmente, estamos
+
+7
+00:00:22,220 --> 00:00:25,360
+criando códigos, uma linha por vez.
+
+8
+00:00:25,360 --> 00:00:28,790
+Quase como uma receita e, francamente, essa técnica
+
+9
+00:00:28,790 --> 00:00:30,940
+tem funcionado para nós. Vamos
+
+10
+00:00:30,940 --> 00:00:33,410
+continuar usando essa técnica enquanto resolvemos
+
+11
+00:00:33,410 --> 00:00:37,200
+o próximo desafio de programação, que é desenvolver um site de filmes.
+

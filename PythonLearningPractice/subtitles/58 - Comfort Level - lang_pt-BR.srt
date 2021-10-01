@@ -1,0 +1,16 @@
+1
+00:00:00,250 --> 00:00:03,969
+Agradecemos por enviar suas respostas no fórum de discussão. Até agora, criamos
+
+2
+00:00:03,969 --> 00:00:07,480
+três programas diferentes neste curso. Neste
+
+3
+00:00:07,480 --> 00:00:10,900
+momento, quero perguntar mais uma vez se você acha que é
+
+4
+00:00:10,900 --> 00:00:14,430
+capaz de criar programas de computador. Veja algumas opções de resposta.
+

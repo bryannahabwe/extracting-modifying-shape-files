@@ -1,0 +1,20 @@
+1
+00:00:00,250 --> 00:00:05,020
+Tenho em minhas mãos a função open que acabamos de usar no código.
+
+2
+00:00:05,020 --> 00:00:09,910
+Se você fosse dar um palpite, onde colocaria a função open no modelo da
+
+3
+00:00:09,910 --> 00:00:15,440
+biblioteca padrão Python? No OS, sozinha
+
+4
+00:00:15,440 --> 00:00:17,980
+ou ainda fora
+
+5
+00:00:17,980 --> 00:00:20,790
+da biblioteca padrão Python? Onde você colocaria a função open?
+

@@ -1,0 +1,28 @@
+1
+00:00:00,500 --> 00:00:02,580
+Agora que o código funcionou, quero que você
+
+2
+00:00:02,580 --> 00:00:05,700
+pense sobre os dois cenários a seguir. O que
+
+3
+00:00:05,700 --> 00:00:12,670
+aconteceria se tentássemos renomear um arquivo inexistente em nossa pasta? Ou se
+
+4
+00:00:12,670 --> 00:00:14,550
+tentássemos renomear um arquivo com um nome que
+
+5
+00:00:14,550 --> 00:00:17,410
+já existe em nossa pasta? Você pode enviar suas respostas ao
+
+6
+00:00:17,410 --> 00:00:20,620
+fórum de discussão. Depois disso, não
+
+7
+00:00:20,620 --> 00:00:22,790
+deixe de marcar esta caixa antes de continuar.
+

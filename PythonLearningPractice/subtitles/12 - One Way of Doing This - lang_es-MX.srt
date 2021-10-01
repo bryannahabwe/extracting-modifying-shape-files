@@ -1,0 +1,72 @@
+1
+00:00:00,470 --> 00:00:02,420
+Gracias por compartir tus respuestas. Estaré
+
+2
+00:00:02,420 --> 00:00:05,750
+proveyendo retroalimentación en los foros periódicamente.
+
+3
+00:00:05,750 --> 00:00:10,640
+Ahora, hay varias formas de resolver este problema. Una forma es que
+
+4
+00:00:10,640 --> 00:00:13,090
+escribamos un programa que de alguna manera lleve un registro
+
+5
+00:00:13,090 --> 00:00:16,270
+del tiempo, digamos dos horas, y que, en esencia,
+
+6
+00:00:16,270 --> 00:00:21,010
+no hace nada durante ese tiempo. Así que lo primero que queremos que el programa haga es
+
+7
+00:00:23,830 --> 00:00:24,930
+esperar dos horas.
+
+8
+00:00:27,810 --> 00:00:29,930
+Y después de que hemos esperado por ese tiempo,
+
+9
+00:00:29,930 --> 00:00:32,790
+queremos que el programa abra un navegador web, que
+
+10
+00:00:32,790 --> 00:00:35,330
+reproduzca digamos un vídeo de YouTube que es la canción
+
+11
+00:00:35,330 --> 00:00:40,670
+favorita de tu amigo. Así que la segunda cosa es abrir un navegador.
+
+12
+00:00:40,670 --> 00:00:43,940
+[ESPACIO_AUDIO]
+
+13
+00:00:43,940 --> 00:00:47,870
+Ahora bien, puesto que queremos que estos dos pasos sucedan varias veces
+
+14
+00:00:47,870 --> 00:00:50,850
+durante el día. Porque queremos tomar varios descansos durante el
+
+15
+00:00:50,850 --> 00:00:54,430
+día. Queremos poner a estos dos pasos dentro de una especie de
+
+16
+00:00:54,430 --> 00:01:00,310
+ciclo. Así que digamos que queremos repetir estos pasos tres veces.
+
+17
+00:01:00,310 --> 00:01:03,060
+[ESPACIO_AUDIO]
+
+18
+00:01:03,060 --> 00:01:05,300
+Vamos a construir este programa. Los animo a que me sigan.
+

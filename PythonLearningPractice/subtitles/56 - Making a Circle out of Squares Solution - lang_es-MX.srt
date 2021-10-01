@@ -1,0 +1,92 @@
+1
+00:00:00,635 --> 00:00:03,270
+Bien, una manera de hacer esto es dibujar un cuadrado
+
+2
+00:00:03,270 --> 00:00:05,330
+y luego girar un poco a la derecha y después
+
+3
+00:00:05,330 --> 00:00:07,610
+dibujar otro cuadrado. Y luego girar un poco a la
+
+4
+00:00:07,610 --> 00:00:11,820
+derecha de nuevo y dibujar otro cuadrado. Y seguir haciendo esto. Vamos
+
+5
+00:00:11,820 --> 00:00:14,520
+a construirlo. Entonces, aquí tenemos este fragmento de código que dibuja un
+
+6
+00:00:14,520 --> 00:00:17,760
+cuadrado. Y después de que lo hayamos hecho, lo que queremos que turtle
+
+7
+00:00:17,760 --> 00:00:20,980
+haga es girar un poco a la derecha. Así que déjenme
+
+8
+00:00:20,980 --> 00:00:25,880
+agregar un fragmento de código que diga brad.right, digamos
+
+9
+00:00:25,880 --> 00:00:30,390
+diez grados. Y ya que quiero que estas dos órdenes
+
+10
+00:00:30,390 --> 00:00:35,570
+sucedan una y otra vez, las pondré dentro de un ciclo. Así que déjenme hacerlo. Entonces,
+
+11
+00:00:35,570 --> 00:00:40,680
+voy a agregar un ciclo for escribiendo for i in range, digamos que
+
+12
+00:00:40,680 --> 00:00:45,670
+este ciclo corra cuatro veces. Agregaré dos puntos y luego pondré estos dos
+
+13
+00:00:45,670 --> 00:00:51,030
+elementos dentro del ciclo. Déjenme guardarlo y ejecutarlo, y ver
+
+14
+00:00:51,030 --> 00:00:56,600
+qué sucede. Ajá, aquí tenemos el resultado. Hemos dibujado dos cuadrados,
+
+15
+00:00:56,600 --> 00:01:02,020
+tres cuadrados y se detendrá, eso es, cuatro cuadrados. Así que todo lo que tengo
+
+16
+00:01:02,020 --> 00:01:08,180
+que hacer ahora es dejar que turtle siga yendo alrededor del círculo, el cual tiene 360 grados.
+
+17
+00:01:08,180 --> 00:01:12,770
+Así que este ciclo deberá ejecutarse no cuatro veces,
+
+18
+00:01:12,770 --> 00:01:17,720
+sino 36 veces. Déjenme guardarlo y
+
+19
+00:01:17,720 --> 00:01:23,773
+ejecutarlo. Muy bien. Ahí lo tienen, chicos. Un círculo hecho de cuadrados. Ahora
+
+20
+00:01:23,773 --> 00:01:26,356
+voy a poner algo de música de fondo en este
+
+21
+00:01:26,356 --> 00:01:28,702
+video y los dejaré disfrutar nuestra creación final.
+
+22
+00:01:28,702 --> 00:01:38,702
+[MÚSICA]
+
+23
+00:01:40,221 --> 00:01:50,221
+[MÚSICA]
+

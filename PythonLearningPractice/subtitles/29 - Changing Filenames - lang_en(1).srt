@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:01,985
+Okay, let's do Step 2 now,
+
+2
+00:00:01,985 --> 00:00:04,050
+which is to rename files.
+
+3
+00:00:04,050 --> 00:00:10,640
+Now, I provided the link to the documentation for the module OS in the instructor notes.
+
+4
+00:00:10,640 --> 00:00:13,200
+I want you to scan that documentation and
+
+5
+00:00:13,200 --> 00:00:16,870
+find out which function we can use to rename files.
+
+6
+00:00:16,870 --> 00:00:22,165
+By the way, this sort of a search is done quite commonly by software engineers.
+
+7
+00:00:22,165 --> 00:00:23,760
+Once you've found that function,
+
+8
+00:00:23,760 --> 00:00:26,400
+enter the name of that function in the box provided.
+

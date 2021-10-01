@@ -1,0 +1,48 @@
+1
+00:00:00,310 --> 00:00:02,330
+Antes de escrevermos a segunda parte desse
+
+2
+00:00:02,330 --> 00:00:06,330
+programa, quero que você faça um experimento com as funções internas.
+
+3
+00:00:06,330 --> 00:00:09,340
+Selecione qualquer das funções internas e leia integralmente sua
+
+4
+00:00:09,340 --> 00:00:12,560
+documentação. O link para esta página está
+
+5
+00:00:12,560 --> 00:00:16,160
+disponível nas Notas do instrutor. Use as funções internas
+
+6
+00:00:16,160 --> 00:00:18,940
+selecionadas em um novo programa e compartilhe suas
+
+7
+00:00:18,940 --> 00:00:22,400
+experiências no fórum. Você deve responder a perguntas como:
+
+8
+00:00:22,400 --> 00:00:26,210
+Qual função interna você decidiu usar?
+
+9
+00:00:26,210 --> 00:00:30,530
+O que seu programa faz? Que problemas você encontrou?
+
+10
+00:00:30,530 --> 00:00:35,820
+Ler a documentação e fazer experimentos com o Python é uma
+
+11
+00:00:35,820 --> 00:00:39,840
+parte importante de aprender a programar. Após enviar suas respostas ao
+
+12
+00:00:39,840 --> 00:00:43,500
+fórum, marque esta caixa antes de continuar.
+

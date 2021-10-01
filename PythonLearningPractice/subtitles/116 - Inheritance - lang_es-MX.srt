@@ -1,0 +1,96 @@
+1
+00:00:00,490 --> 00:00:02,190
+Bueno, ahora que sabemos un poco acerca de las
+
+2
+00:00:02,190 --> 00:00:05,360
+variables de clase, tanto las que hemos creado como
+
+3
+00:00:05,360 --> 00:00:09,360
+las que vienen por defecto o predefinidas en las clases de Python,
+
+4
+00:00:09,360 --> 00:00:11,340
+Quiero tomar un momento para hablar acerca de la
+
+5
+00:00:11,340 --> 00:00:15,290
+siguiente gran idea en la programación orientada a objetos que se llama
+
+6
+00:00:15,290 --> 00:00:18,660
+herencia. Buen, pensemos en el significado de esta palabra
+
+7
+00:00:18,660 --> 00:00:23,110
+herencia y como la utilizamos en el idioma.
+
+8
+00:00:23,110 --> 00:00:25,570
+Tal vez hayan escuchado a alguien decir que un niño puede
+
+9
+00:00:25,570 --> 00:00:29,460
+heredar algunos rasgos de sus padres. Cosas como el apellido,
+
+10
+00:00:29,460 --> 00:00:32,369
+el color de los ojos y un poco de dinero si el niño
+
+11
+00:00:32,369 --> 00:00:34,940
+tiene suerte. Bien, si tuviéramos que tomar este significado de
+
+12
+00:00:34,940 --> 00:00:38,110
+herencia, como lo utilizamos normalmente en el idioma
+
+13
+00:00:38,110 --> 00:00:40,330
+y convertirlo en código o modelarlo en términos
+
+14
+00:00:40,330 --> 00:00:43,890
+de programación, crearíamos una clase llamada Parent. Que
+
+15
+00:00:43,890 --> 00:00:47,530
+tendría algunos atributos como apellido y color_de_ojos.
+
+16
+00:00:47,530 --> 00:00:50,740
+Entonces haríamos una clase llamada Child que
+
+17
+00:00:50,740 --> 00:00:54,140
+heredaría estas dos cosas de la clase Parent.
+
+18
+00:00:54,140 --> 00:00:57,010
+Además, la clase Child podría tener otra variable
+
+19
+00:00:57,010 --> 00:01:00,570
+propia llamada número de juguetes. Bien, pueden
+
+20
+00:01:00,570 --> 00:01:03,670
+notar que si diseñamos un código como éste, ya estamos
+
+21
+00:01:03,670 --> 00:01:06,820
+empezando a reutilizar el código, que es una gran
+
+22
+00:01:06,820 --> 00:01:10,270
+ventaja de la programación orientada a objetos. De acuerdo, el siguiente paso
+
+23
+00:01:10,270 --> 00:01:12,340
+que vamos a realizar es tomar nuestro diseño
+
+24
+00:01:12,340 --> 00:01:15,190
+y convertirlo en un código real. Hagamos eso a continuación.
+

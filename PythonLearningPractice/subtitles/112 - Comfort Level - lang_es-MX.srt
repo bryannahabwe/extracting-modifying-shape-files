@@ -1,0 +1,20 @@
+1
+00:00:00,210 --> 00:00:03,510
+Gracias por compartir sus respuestas con nosotros. Espero repasar todas ellas
+
+2
+00:00:03,510 --> 00:00:07,370
+en el foro de discusión. Ahora que hemos terminado la construcción de nuestra sitio web
+
+3
+00:00:07,370 --> 00:00:12,130
+de películas, quiero hacerles esta pregunta una vez más. ¿Qué tan cómodos
+
+4
+00:00:12,130 --> 00:00:14,080
+se sintieron con su capacidad actual para
+
+5
+00:00:14,080 --> 00:00:17,270
+escribir programas de computadora? Estas son algunas de las opciones de respuesta.
+

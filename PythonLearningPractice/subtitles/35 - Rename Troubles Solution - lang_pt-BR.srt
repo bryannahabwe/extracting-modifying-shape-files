@@ -1,0 +1,32 @@
+1
+00:00:00,660 --> 00:00:03,190
+Agradecemos por compartilhar suas ideias. Se qualquer
+
+2
+00:00:03,190 --> 00:00:06,460
+desses cenários ocorrer, o programa que criamos
+
+3
+00:00:06,460 --> 00:00:09,960
+retornará um erro. Chamamos isso de erro e exceção.
+
+4
+00:00:09,960 --> 00:00:11,970
+Quero que você guarde essa ideia, pois
+
+5
+00:00:11,970 --> 00:00:14,200
+voltaremos a ela em outras aulas
+
+6
+00:00:14,200 --> 00:00:17,640
+deste curso. Certo, aqui estamos de volta ao código mais uma vez.
+
+7
+00:00:17,640 --> 00:00:20,560
+Estou curioso para ver a origem das diferentes funções de
+
+8
+00:00:20,560 --> 00:00:25,360
+OS, como listdir e rename. Vamos descobrir.
+

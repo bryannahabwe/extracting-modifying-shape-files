@@ -1,0 +1,64 @@
+1
+00:00:00,560 --> 00:00:02,342
+Iniciamos nossa primeira lição usando
+
+2
+00:00:02,342 --> 00:00:04,910
+várias funções diferentes e criamos dois
+
+3
+00:00:04,910 --> 00:00:07,590
+projetos principais. No primeiro, ajudamos nossos
+
+4
+00:00:07,590 --> 00:00:10,260
+amigos a fazer uma pausa, e, no segundo,
+
+5
+00:00:10,260 --> 00:00:12,140
+enviamos uma mensagem secreta para quem
+
+6
+00:00:12,140 --> 00:00:15,640
+amamos. Depois, analisamos um cenário durante a criação de um
+
+7
+00:00:15,640 --> 00:00:19,470
+site de filmes em que o uso das funções não apresentava
+
+8
+00:00:19,470 --> 00:00:23,210
+uma solução muito elegante. Essa solução exigia algo novo.
+
+9
+00:00:26,450 --> 00:00:29,720
+Essa nova ideia é chamada de classes em programação.
+
+10
+00:00:29,720 --> 00:00:31,920
+Na lição dois, dedicaremos muito tempo
+
+11
+00:00:31,920 --> 00:00:33,780
+à criação de vários exemplos diferentes
+
+12
+00:00:33,780 --> 00:00:38,300
+e demonstração do potencial de uso das classes. Voltaremos
+
+13
+00:00:38,300 --> 00:00:41,310
+ao exemplo do banco de dados de filmes na lição três.
+
+14
+00:00:41,310 --> 00:00:43,600
+Mas aqui, na lição dois, começaremos pelas
+
+15
+00:00:43,600 --> 00:00:46,570
+ideias e exemplos que facilitam a
+
+16
+00:00:46,570 --> 00:00:49,800
+explicação do potencial das classes. Vamos começar.
+

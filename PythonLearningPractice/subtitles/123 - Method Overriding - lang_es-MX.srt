@@ -1,0 +1,192 @@
+1
+00:00:00,200 --> 00:00:01,967
+Perfecto, voy a regresar al
+
+2
+00:00:01,967 --> 00:00:04,075
+código, y esta vez voy a hacer algo
+
+3
+00:00:04,075 --> 00:00:07,657
+nuevo. Bueno, debido a que la clase Child hereda de la
+
+4
+00:00:07,657 --> 00:00:12,213
+clase Parent, también se hereda este método show_info. Ahora
+
+5
+00:00:12,213 --> 00:00:15,524
+esto significa que las instancias de la clase Child,
+
+6
+00:00:15,524 --> 00:00:19,066
+instancias como miley_cyrus, también pueden llamar al método show_info
+
+7
+00:00:19,066 --> 00:00:22,377
+aunque este método no esté definido
+
+8
+00:00:22,377 --> 00:00:26,000
+explícitamente dentro de la clase Child. Permítanme hacer eso a continuación.
+
+9
+00:00:26,000 --> 00:00:27,900
+Entonces, lo primero que voy a hacer es quitar las barras de comentario
+
+10
+00:00:27,900 --> 00:00:29,900
+de esta línea de código donde estoy creando la instancia
+
+11
+00:00:29,900 --> 00:00:34,290
+llamada miley_cyrus y luego usaré esa instancia para llamar
+
+12
+00:00:34,290 --> 00:00:39,190
+el método show_info. Listo. Bueno, ya que quiero concentrarme en
+
+13
+00:00:39,190 --> 00:00:41,770
+el resultado de este método show_info, voy a
+
+14
+00:00:41,770 --> 00:00:43,930
+ignorar en el código el método show_info anterior por ahora.
+
+15
+00:00:45,310 --> 00:00:48,660
+Listo. Bien, antes de ejecutar este programa, quiero
+
+16
+00:00:48,660 --> 00:00:51,255
+destacar una vez más que estoy utilizando la instancia
+
+17
+00:00:51,255 --> 00:00:54,920
+miley_cyrus para llamar al método show_info. Bueno, este
+
+18
+00:00:54,920 --> 00:00:59,090
+método no existe explícitamente dentro de la clase Child. Pero
+
+19
+00:00:59,090 --> 00:01:02,210
+debido a que la clase Child hereda de la clase Parent este
+
+20
+00:01:02,210 --> 00:01:05,770
+método show_info está realmente disponible para las instancias de
+
+21
+00:01:05,770 --> 00:01:10,010
+la clase Child. Permítanme continuar y guardar y ejecutar este programa. Y este es mi
+
+22
+00:01:10,010 --> 00:01:13,250
+resultado. El programa no arrojó ningún error, y
+
+23
+00:01:13,250 --> 00:01:16,365
+se imprimieron el apellido y el color de los ojos
+
+24
+00:01:16,365 --> 00:01:21,850
+de la instancia miley_cyrus. Perfecto. Bien, lo siguiente que voy a hacer es
+
+25
+00:01:21,850 --> 00:01:25,920
+crear un método llamado show_info dentro de la clase Child
+
+26
+00:01:25,920 --> 00:01:28,350
+y ver lo que hace. Bien, voy a crear
+
+27
+00:01:28,350 --> 00:01:34,030
+un nuevo método llamado show_info dentro de la clase Child
+
+28
+00:01:34,030 --> 00:01:36,430
+Ahora bien, este método show_info va a imprimir
+
+29
+00:01:36,430 --> 00:01:38,790
+las tres cosas asociadas con Child.
+
+30
+00:01:38,790 --> 00:01:41,370
+Su last_name, eye_color y number_of_toys.
+
+31
+00:01:42,780 --> 00:01:44,870
+En esta ocasión estamos imprimiendo el last_name de
+
+32
+00:01:44,870 --> 00:01:48,640
+Child. Ahora estamos imprimiendo eye_color de Child,
+
+33
+00:01:50,310 --> 00:01:53,080
+y, por último, estamos imprimiendo los number_of_toys.
+
+34
+00:01:53,080 --> 00:01:55,520
+Para imprimir este número correctamente, tuvimos que
+
+35
+00:01:55,520 --> 00:01:58,020
+envolverla en la función de cadena. Ahora, si
+
+36
+00:01:58,020 --> 00:02:01,550
+guardo y ejecuto este programa, mi hipótesis es que cuando
+
+37
+00:02:01,550 --> 00:02:04,880
+llame al método show_info usando miley_cyrus, que por
+
+38
+00:02:04,880 --> 00:02:08,038
+cierto es una instancia de la clase Child. Este método show_info
+
+39
+00:02:08,038 --> 00:02:10,163
+se va a llamar y no el método
+
+40
+00:02:10,163 --> 00:02:13,240
+show_info en la clase Parent. Así que déjenme
+
+41
+00:02:13,240 --> 00:02:16,550
+guardar y ejecutar este programa. Aquí tienen el resultado.
+
+42
+00:02:16,550 --> 00:02:19,440
+Estamos imprimiendo el apellido, el color de ojos y el número
+
+43
+00:02:19,440 --> 00:02:22,600
+de juguetes de la instancia de la clase Child. Bueno,
+
+44
+00:02:22,600 --> 00:02:24,660
+realmente lo que hemos hecho aquí es definir
+
+45
+00:02:24,660 --> 00:02:29,070
+el método mediante el mismo nombre show_info dentro de la clase Child
+
+46
+00:02:29,070 --> 00:02:33,330
+y también dentro de la clase Parent. Esta capacidad de una sub-clase,
+
+47
+00:02:33,330 --> 00:02:36,910
+en este caso de la clase Child, para anular un método que
+
+48
+00:02:36,910 --> 00:02:41,650
+heredó de su clase Parent es llamado anulación de método en programación.
+

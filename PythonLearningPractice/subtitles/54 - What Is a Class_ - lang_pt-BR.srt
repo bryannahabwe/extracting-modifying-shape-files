@@ -1,0 +1,104 @@
+1
+00:00:00,570 --> 00:00:03,140
+Antes de continuar com este projeto, quero
+
+2
+00:00:03,140 --> 00:00:05,450
+destacar algumas palavras novas que usamos
+
+3
+00:00:05,450 --> 00:00:09,170
+no código até agora. Identificamos Turtle como
+
+4
+00:00:09,170 --> 00:00:13,540
+uma classe. E brad e angie como instâncias dessa
+
+5
+00:00:13,540 --> 00:00:16,210
+classe. Quero reservar um momento para
+
+6
+00:00:16,210 --> 00:00:19,040
+falar sobre essas novas palavras. Você pode pensar em uma classe
+
+7
+00:00:19,040 --> 00:00:22,210
+como a planta de um edifício. Uma
+
+8
+00:00:22,210 --> 00:00:25,590
+planta, como sabemos, contém determinadas informações sobre
+
+9
+00:00:25,590 --> 00:00:27,570
+o edifício. Por exemplo, a altura do
+
+10
+00:00:27,570 --> 00:00:30,640
+edifício e o número de quartos. Também
+
+11
+00:00:30,640 --> 00:00:33,430
+sabemos que a mesma planta pode ser usada
+
+12
+00:00:33,430 --> 00:00:37,390
+para construir vários edifícios diferentes. Por exemplo,
+
+13
+00:00:37,390 --> 00:00:40,180
+um prédio comercial com paredes amarelas e um complexo residencial com paredes
+
+14
+00:00:40,180 --> 00:00:44,570
+azuis. Uma classe é como a planta de um edifício. Vejamos
+
+15
+00:00:44,570 --> 00:00:46,620
+o exemplo da classe Turtle que
+
+16
+00:00:46,620 --> 00:00:50,190
+usamos até agora. Uma classe Turtle, como uma planta,
+
+17
+00:00:50,190 --> 00:00:53,140
+contém determinadas informações sobre o turtle.
+
+18
+00:00:53,140 --> 00:00:55,740
+O tamanho e a cor do turtle, o fato de que o
+
+19
+00:00:55,740 --> 00:00:58,710
+turtle pode se mover para frente e virar à direita. A partir dessa
+
+20
+00:00:58,710 --> 00:01:02,400
+classe ou planta, podemos criar várias
+
+21
+00:01:02,400 --> 00:01:05,560
+instâncias diferentes dessa classe. Por exemplo, Brad é
+
+22
+00:01:05,560 --> 00:01:08,300
+uma instância da classe Turtle que desenha quadrados
+
+23
+00:01:08,300 --> 00:01:11,130
+amarelos, e Angie também é uma instância da classe
+
+24
+00:01:11,130 --> 00:01:15,330
+Turtle que desenha um círculos azuis. Em resumo,
+
+25
+00:01:15,330 --> 00:01:18,340
+você pode pensar em uma classe como uma planta de edifício, e
+
+26
+00:01:18,340 --> 00:01:22,940
+em seus objetos como exemplos ou instâncias dessa planta.
+

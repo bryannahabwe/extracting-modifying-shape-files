@@ -1,0 +1,188 @@
+1
+00:00:00,290 --> 00:00:02,350
+Em uma lição anterior, criamos uma classe
+
+2
+00:00:02,350 --> 00:00:05,850
+chamada Movie. Essa classe tinha os seguintes atributos:
+
+3
+00:00:05,850 --> 00:00:08,875
+o título e a história do filme, um link para
+
+4
+00:00:08,875 --> 00:00:11,460
+a imagem do cartaz do filme e um link para o trailer no YouTube.
+
+5
+00:00:11,460 --> 00:00:14,670
+Além desses itens, a classe
+
+6
+00:00:14,670 --> 00:00:18,690
+Movie também tinha uma função chamada show_trailer. Após
+
+7
+00:00:18,690 --> 00:00:21,800
+definirmos essa classe, criamos várias instâncias
+
+8
+00:00:21,800 --> 00:00:25,830
+dela. Instâncias como toy_story e avatar.
+
+9
+00:00:25,830 --> 00:00:28,270
+Agora, imagine ainda que desejássemos criar
+
+10
+00:00:28,270 --> 00:00:32,390
+outra classe chamada TvShow. Acho que
+
+11
+00:00:32,390 --> 00:00:34,970
+essa classe teria detalhes como título
+
+12
+00:00:34,970 --> 00:00:38,620
+do programa, temporada e número do episódio, bem
+
+13
+00:00:38,620 --> 00:00:40,770
+como o canal de TV que exibe esse
+
+14
+00:00:40,770 --> 00:00:43,690
+programa. Essa classe também poderia ter
+
+15
+00:00:43,690 --> 00:00:47,280
+uma função chamada get_local_listings. Após criarmos uma
+
+16
+00:00:47,280 --> 00:00:51,020
+classe chamada TvShow, poderemos criar várias instâncias dessa
+
+17
+00:00:51,020 --> 00:00:54,440
+classe, como o primeiro episódio da primeira temporada
+
+18
+00:00:54,440 --> 00:00:58,820
+de Breaking Bad e o episódio final de Seinfeld.
+
+19
+00:00:58,820 --> 00:01:01,200
+Continuando com nosso experimento,
+
+20
+00:01:01,200 --> 00:01:03,660
+podemos imaginar ainda que possa haver
+
+21
+00:01:03,660 --> 00:01:06,280
+vários itens que essas duas classes
+
+22
+00:01:06,280 --> 00:01:10,260
+compartilhem. Itens como o título,
+
+23
+00:01:10,260 --> 00:01:12,720
+a duração do filme e a
+
+24
+00:01:12,720 --> 00:01:16,040
+duração do programa de TV em minutos. A melhor
+
+25
+00:01:16,040 --> 00:01:18,240
+forma de estruturar esse código seria
+
+26
+00:01:18,240 --> 00:01:21,120
+criar outra classe chamada Video, com
+
+27
+00:01:21,120 --> 00:01:23,968
+dois atributos: O título e a
+
+28
+00:01:23,968 --> 00:01:28,490
+duração do vídeo. A classe Movie poderia herdar itens dessa
+
+29
+00:01:28,490 --> 00:01:31,370
+classe Video. Para tanto, seria necessário
+
+30
+00:01:31,370 --> 00:01:34,740
+adicionar o nome de classe Video entre
+
+31
+00:01:34,740 --> 00:01:38,040
+esses parênteses. Isso significaria que a classe Movie
+
+32
+00:01:38,040 --> 00:01:42,720
+herdaria o título e a duração da classe Video. Além disso,
+
+33
+00:01:42,720 --> 00:01:46,030
+a classe TvShow também herdaria itens da classe
+
+34
+00:01:46,030 --> 00:01:48,610
+Video. Para tanto, também seria necessário
+
+35
+00:01:48,610 --> 00:01:51,248
+adicionar o nome de classe Video entre
+
+36
+00:01:51,248 --> 00:01:55,560
+parêntese. Isso significaria que a classe TvShow
+
+37
+00:01:55,560 --> 00:01:59,760
+herdaria o título e a duração da classe Video. Você
+
+38
+00:01:59,760 --> 00:02:01,540
+pode ver claramente como é possível escrever
+
+39
+00:02:01,540 --> 00:02:04,570
+um código, neste caso, a classe Video,
+
+40
+00:02:04,570 --> 00:02:08,430
+e reutilizá-lo em vários pontos diferentes.
+
+41
+00:02:08,430 --> 00:02:11,400
+Outra grande vantagem de escrever códigos dessa forma,
+
+42
+00:02:11,400 --> 00:02:14,330
+além de reutilizá-los, é que
+
+43
+00:02:14,330 --> 00:02:17,590
+isso nos permite seguir um modelo intuitivo
+
+44
+00:02:17,590 --> 00:02:20,970
+de organização do nosso cérebro. Assim, intuitivamente,
+
+45
+00:02:20,970 --> 00:02:27,260
+sabemos o que são vídeos, programas de TV e filmes. Portanto,
+
+46
+00:02:27,260 --> 00:02:30,110
+escrever códigos dessa maneira possibilita aos programadores
+
+47
+00:02:30,110 --> 00:02:33,320
+reproduzir nos códigos a organização em nossa cabeça.
+

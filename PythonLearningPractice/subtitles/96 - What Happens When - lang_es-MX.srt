@@ -1,0 +1,156 @@
+1
+00:00:00,320 --> 00:00:04,300
+Bien, volveré a mi código. Y aquí, voy a tratar de hacer
+
+2
+00:00:04,300 --> 00:00:09,000
+una instancia de la clase Movie, casi de la misma manera como lo hicimos para la clase Turtle. Voy
+
+3
+00:00:09,000 --> 00:00:14,340
+a empezar creando un nuevo archivo Python. Después guardaré este archivo en la
+
+4
+00:00:14,340 --> 00:00:17,890
+misma carpeta que mi archivo Python anterior. Y
+
+5
+00:00:17,890 --> 00:00:23,290
+llamaré a este nuevo archivo entertainment_center.py. Bien,
+
+6
+00:00:25,720 --> 00:00:27,890
+aquí están mis dos archivos Python que he creado
+
+7
+00:00:27,890 --> 00:00:30,370
+hasta ahora. Aquí está el primero, donde comencé a
+
+8
+00:00:30,370 --> 00:00:33,740
+definir la clase Movie. Se llamaba media.py. Y aquí
+
+9
+00:00:33,740 --> 00:00:37,810
+está el nuevo archivo llamado entertainment_center.py. Bien, aquí en
+
+10
+00:00:37,810 --> 00:00:42,280
+este nuevo archivo, diré: import media Ahora observen
+
+11
+00:00:42,280 --> 00:00:44,480
+que este es mi archivo de medios, que es donde
+
+12
+00:00:44,480 --> 00:00:47,350
+estaba empezando a definir mi clase Movie y, por lo tanto, con
+
+13
+00:00:47,350 --> 00:00:51,480
+esta línea de código, estoy diciéndole a mi programa, hey, aquí
+
+14
+00:00:51,480 --> 00:00:56,535
+quiero usar el contenido de mi archivo Python anterior. Entonces voy a
+
+15
+00:00:56,535 --> 00:01:02,680
+decir toy_story es igual a media.Movie. Entonces, aquí pueden
+
+16
+00:01:02,680 --> 00:01:05,590
+darse cuenta que media es el nombre de mi archivo
+
+17
+00:01:05,590 --> 00:01:08,220
+Python anterior y Movie es el nombre de
+
+18
+00:01:08,220 --> 00:01:10,730
+la clase que se define dentro de ese archivo. Una nota
+
+19
+00:01:10,730 --> 00:01:16,510
+al margen rápida aquí es que no tenía que crear un nuevo archivo. De hecho, podría
+
+20
+00:01:16,510 --> 00:01:18,680
+haber escrito toda esta porción de código aquí mismo
+
+21
+00:01:18,680 --> 00:01:21,850
+en mi archivo anterior. Pero es una buena práctica
+
+22
+00:01:21,850 --> 00:01:24,840
+mantener la definición de clase en un archivo y llamar a
+
+23
+00:01:24,840 --> 00:01:28,020
+su clase o usar su clase de otro archivo.
+
+24
+00:01:28,020 --> 00:01:30,760
+De acuerdo, vamos a continuar. Por lo tanto, hay algo que
+
+25
+00:01:30,760 --> 00:01:34,330
+quiero resaltar aquí. Lo cual es que esta línea de
+
+26
+00:01:34,330 --> 00:01:37,700
+código es bastante similar a cómo creamos turtle
+
+27
+00:01:37,700 --> 00:01:42,010
+brad. En ambos casos, estoy diciendo que algún módulo o
+
+28
+00:01:42,010 --> 00:01:45,490
+nombre del archivo punto un nombre de clase. Ahora, la siguiente
+
+29
+00:01:45,490 --> 00:01:48,270
+cosa que tenemos que hacer es averiguar exactamente lo
+
+30
+00:01:48,270 --> 00:01:51,330
+que sucede cuando ejecutamos esta línea de código. Una forma
+
+31
+00:01:51,330 --> 00:01:53,560
+de hacerlo es recordar lo que pasó tras
+
+32
+00:01:53,560 --> 00:01:57,290
+bastidores cuando creamos turtle brad. Bien, vamos a
+
+33
+00:01:57,290 --> 00:02:00,495
+investigar eso juntos. ¿Recuerdan lo que sucede cuando
+
+34
+00:02:00,495 --> 00:02:03,360
+ejecutamos la siguiente línea de código? Estas son algunas de las
+
+35
+00:02:03,360 --> 00:02:07,410
+opciones de respuesta. Se llama una función nombrada init, que inicia o
+
+36
+00:02:07,410 --> 00:02:11,020
+crea espacio en la memoria para un nuevo objeto brad. O bien, una
+
+37
+00:02:11,020 --> 00:02:15,720
+función nombrada d-e-l o del se llama, que borra el objeto brad.
+
+38
+00:02:15,720 --> 00:02:20,134
+Se llama una función nombrada cmp, o compare, compara la instancia
+
+39
+00:02:20,134 --> 00:02:23,910
+brad con angie. O no sé. Díganos que piensan.
+

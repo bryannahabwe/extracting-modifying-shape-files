@@ -1,0 +1,40 @@
+1
+00:00:00,530 --> 00:00:03,180
+Una manera de dibujar muchos cuadrados
+
+2
+00:00:03,180 --> 00:00:05,420
+es empezar por dibujar tan sólo un cuadrado. Así que
+
+3
+00:00:05,420 --> 00:00:07,250
+esto es lo que voy a hacer. Voy a permanecer lejos de
+
+4
+00:00:07,250 --> 00:00:10,600
+mi computadora un rato. Me pondré este sombrero
+
+5
+00:00:13,280 --> 00:00:17,510
+y dibujaré sobre esta alfombra roja, la cual será mi lienzo. Entonces, cuando
+
+6
+00:00:17,510 --> 00:00:21,970
+me muevo en ella, se darán cuenta de que puedo dibujar. Ahí lo tienen.
+
+7
+00:00:25,060 --> 00:00:28,240
+Y en este caso, dibujé un triángulo. Así que ésta será
+
+8
+00:00:28,240 --> 00:00:31,130
+su tarea. Si me pidieran dibujar
+
+9
+00:00:31,130 --> 00:00:34,630
+un cuadrado en esta alfombra roja, ¿qué instrucciones paso a paso
+
+10
+00:00:34,630 --> 00:00:37,380
+me darían? Escriban sus respuestas en la casilla correspondiente.
+

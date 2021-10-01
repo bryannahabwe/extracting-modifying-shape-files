@@ -1,0 +1,20 @@
+1
+00:00:00,250 --> 00:00:05,020
+Bien, tengo en mis manos, open, la función que recién utilizamos en nuestro código.
+
+2
+00:00:05,020 --> 00:00:09,910
+Ahora, si tuvieran que adivinar, ¿dónde pondrían open?, en nuestro modelo de
+
+3
+00:00:09,910 --> 00:00:15,440
+la librería estándar de Python, ¿sería dentro del sistema operativo, o estaría en un espacio
+
+4
+00:00:15,440 --> 00:00:17,980
+por sí misma, o estaría fuera
+
+5
+00:00:17,980 --> 00:00:20,790
+de la librería estándar de Python. ¿Dónde colocaría open?
+

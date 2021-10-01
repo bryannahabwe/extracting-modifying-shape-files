@@ -1,0 +1,64 @@
+1
+00:00:00,270 --> 00:00:02,190
+Até agora, definimos
+
+2
+00:00:02,190 --> 00:00:05,440
+a classe Movie e algumas
+
+3
+00:00:05,440 --> 00:00:09,220
+instâncias dessa classe, como toy_story e
+
+4
+00:00:09,220 --> 00:00:12,590
+avatar. A seguir, quero
+
+5
+00:00:12,590 --> 00:00:16,110
+executar um rápido experimento: o que você
+
+6
+00:00:16,110 --> 00:00:19,430
+acha que acontecerá se eu remover a palavra-chave self da
+
+7
+00:00:19,430 --> 00:00:21,860
+frente de uma das variáveis de instância? Vou continuar
+
+8
+00:00:21,860 --> 00:00:25,320
+e fazer isso agora. [SOUND] Pronto. Quero
+
+9
+00:00:25,320 --> 00:00:27,920
+que você pense sobre essa pergunta. Mais uma vez, aqui está o código para a
+
+10
+00:00:27,920 --> 00:00:30,660
+classe Movie, e a palavra-chave self,
+
+11
+00:00:30,660 --> 00:00:33,480
+que quero remover da frente de storyline. Quero
+
+12
+00:00:33,480 --> 00:00:36,060
+que você pense sobre essa pergunta, especialmente no contexto
+
+13
+00:00:36,060 --> 00:00:41,110
+da execução deste código, que é print(avatar.storyline). Quando você tiver uma
+
+14
+00:00:41,110 --> 00:00:44,970
+hipótese, quero que a insira nesta caixa. Após
+
+15
+00:00:44,970 --> 00:00:47,950
+enviar essa resposta, quero que você faça esta alteração
+
+16
+00:00:47,950 --> 00:00:51,490
+no seu computador e veja se sua hipótese corresponde ao resultado.
+

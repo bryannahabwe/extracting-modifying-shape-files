@@ -1,0 +1,12 @@
+1
+00:00:00,520 --> 00:00:03,400
+Vimos duas maneiras de usar as classes na
+
+2
+00:00:03,400 --> 00:00:06,210
+biblioteca padrão Python. Vejamos outro
+
+3
+00:00:06,210 --> 00:00:08,720
+exemplo de como as classes podem facilitar as coisas.
+

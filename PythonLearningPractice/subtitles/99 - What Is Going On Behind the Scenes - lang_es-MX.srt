@@ -1,0 +1,140 @@
+1
+00:00:00,150 --> 00:00:02,320
+De acuerdo, este es el código para la clase Movie
+
+2
+00:00:02,320 --> 00:00:05,180
+que hemos escrito hasta ahora. Bien, tengan en cuenta que
+
+3
+00:00:05,180 --> 00:00:07,450
+puede que tengan que activar el modo de pantalla completa para
+
+4
+00:00:07,450 --> 00:00:11,020
+para ver todos los detalles adecuadamente. Tengo mucha
+
+5
+00:00:11,020 --> 00:00:14,630
+curiosidad de descubrir lo que sucede detrás de escenas cuando
+
+6
+00:00:14,630 --> 00:00:17,420
+ejecuto esta línea de código. Lo que sucede cuando creo
+
+7
+00:00:17,420 --> 00:00:21,200
+una instancia llamada toy_story proporcionando estos cuatro elementos de
+
+8
+00:00:21,200 --> 00:00:25,170
+información o valores. Estos elementos de información son el nombre de
+
+9
+00:00:25,170 --> 00:00:28,960
+la película, su trama, el enlace a su póster
+
+10
+00:00:28,960 --> 00:00:31,920
+y el enlace a su URL de YouTube. Claramente, los
+
+11
+00:00:31,920 --> 00:00:35,100
+dos últimos de estos no son realmente enlaces o URLs
+
+12
+00:00:35,100 --> 00:00:39,020
+todavía. Son frases en inglés e hice eso porque
+
+13
+00:00:39,020 --> 00:00:41,900
+no había suficiente espacio en la pantalla para que
+
+14
+00:00:41,900 --> 00:00:44,490
+yo agregara los enlaces completos o las direcciones URL al póster y
+
+15
+00:00:44,490 --> 00:00:47,380
+el avance de Youtube. Entonces, lo primero que sucede cuando
+
+16
+00:00:47,380 --> 00:00:50,210
+ejecutamos esta línea de código es que se llama a
+
+17
+00:00:50,210 --> 00:00:52,250
+la función init. Y la función init,
+
+18
+00:00:52,250 --> 00:00:54,250
+como recordarán, es la función que definimos dentro
+
+19
+00:00:54,250 --> 00:00:58,360
+de la clase Movie. Self, en ese caso, es sí misma
+
+20
+00:00:58,360 --> 00:01:01,910
+o la instancia que se está creando, que es Toy Story
+
+21
+00:01:01,910 --> 00:01:04,420
+El siguiente argumento es movie_title cuyo valor
+
+22
+00:01:04,420 --> 00:01:08,870
+es Toy Story. Movie_storyline obtiene el valor
+
+23
+00:01:08,870 --> 00:01:11,920
+Toys La variable poster_image obtiene
+
+24
+00:01:11,920 --> 00:01:15,590
+el valor correcto. Y, por último, la variable trailer_youtube obtiene
+
+25
+00:01:15,590 --> 00:01:21,890
+el enlace correcto. Perfecto.Hasta ahora, todo bien. Bueno, una vez que se llama a init y
+
+26
+00:01:21,890 --> 00:01:23,980
+todos estos argumentos reciben sus valores
+
+27
+00:01:23,980 --> 00:01:27,130
+correctos, todas las variables que se asocian
+
+28
+00:01:27,130 --> 00:01:30,269
+con la instancia toy_story, se inician
+
+29
+00:01:30,269 --> 00:01:32,930
+de manera correcta y estas variables, pueden darse cuenta,
+
+30
+00:01:32,930 --> 00:01:38,880
+son título, trama, poster_image_url y trailer_youtube_url. En
+
+31
+00:01:38,880 --> 00:01:40,635
+este punto, si trato de imprimir
+
+32
+00:01:40,635 --> 00:01:45,910
+toy_story.storyline, se imprime el valor correcto. Perfecto,
+
+33
+00:01:45,910 --> 00:01:48,790
+ahora que sabemos exactamente lo que sucede cuando creamos
+
+34
+00:01:48,790 --> 00:01:51,700
+la instancia toy_story volvamos a nuestro
+
+35
+00:01:51,700 --> 00:01:54,270
+diseño y averigüemos lo que tenemos que hacer a continuación.
+

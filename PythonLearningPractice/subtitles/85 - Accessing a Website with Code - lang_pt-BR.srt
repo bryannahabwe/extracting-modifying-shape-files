@@ -1,0 +1,208 @@
+1
+00:00:00,530 --> 00:00:03,220
+Aqui estamos nós de volta ao código. A única
+
+2
+00:00:03,220 --> 00:00:04,970
+parte nova adicionada ao código
+
+3
+00:00:04,970 --> 00:00:08,470
+até agora é esta função chamada check_profanity, que por enquanto
+
+4
+00:00:08,470 --> 00:00:12,440
+está vazia. Essa função recebe um argumento
+
+5
+00:00:12,440 --> 00:00:15,380
+ou informação, que é o texto que
+
+6
+00:00:15,380 --> 00:00:17,950
+queremos verificar quanto a obscenidades. Sei que há
+
+7
+00:00:17,950 --> 00:00:21,800
+um módulo em Python chamado urllib, que nos ajuda
+
+8
+00:00:21,800 --> 00:00:26,080
+a obter as informações da internet. Ele tem uma função chamada
+
+9
+00:00:26,080 --> 00:00:29,880
+urlopen, que recebe um link para um site.
+
+10
+00:00:29,880 --> 00:00:32,509
+Vou fornecer um link completo
+
+11
+00:00:32,509 --> 00:00:35,428
+para o site What do you love. [SOUND] E
+
+12
+00:00:35,428 --> 00:00:37,868
+adicionar a ele o texto que queremos verificar quanto a
+
+13
+00:00:37,868 --> 00:00:41,935
+obscenidades. [SOUND] A função urlopen nos ajudará
+
+14
+00:00:41,935 --> 00:00:45,280
+a fazer uma conexão com o site. Chamarei
+
+15
+00:00:45,280 --> 00:00:48,920
+isso de [SOUND] connection. Sei que
+
+16
+00:00:48,920 --> 00:00:51,160
+talvez não seja possível ler toda a linha de código
+
+17
+00:00:51,160 --> 00:00:54,080
+que escrevemos, por isso, colocarei temporariamente
+
+18
+00:00:54,080 --> 00:00:56,270
+na linha de baixo. Assim, você pode ler
+
+19
+00:00:56,270 --> 00:00:58,890
+toda a linha de código. Em seguida, vou restaurar
+
+20
+00:00:58,890 --> 00:01:02,680
+o código. Ok. Vamos continuar. Quero que
+
+21
+00:01:02,680 --> 00:01:07,230
+observemos que essa função urlopen é muito similar à
+
+22
+00:01:07,230 --> 00:01:09,120
+outra função usada neste programa,
+
+23
+00:01:09,120 --> 00:01:12,800
+que é a open. Open nos ajuda a ler conteúdos de um
+
+24
+00:01:12,800 --> 00:01:16,300
+arquivo no computador. Por outro lado, urlopen
+
+25
+00:01:16,300 --> 00:01:20,150
+ajuda a estabelecer uma conexão com um site na internet. Então,
+
+26
+00:01:20,150 --> 00:01:24,460
+poderemos utilizar essa conexão para ler uma resposta do
+
+27
+00:01:24,460 --> 00:01:28,734
+site em questão. [SOUND] Vou chamar essa resposta de output e imprimir
+
+28
+00:01:28,734 --> 00:01:33,160
+a saída. Depois disso, [SOUND] encerrarei a conexão.
+
+29
+00:01:36,550 --> 00:01:38,260
+Agora é hora de chamarmos essa
+
+30
+00:01:38,260 --> 00:01:41,600
+função check_profanity, o que farei após
+
+31
+00:01:41,600 --> 00:01:43,850
+ler com sucesso o texto de um arquivo no meu
+
+32
+00:01:43,850 --> 00:01:47,280
+computador. [SOUND] Adicionarei o código para chamar a
+
+33
+00:01:47,280 --> 00:01:50,448
+função check_profanity. Para tanto, passarei os
+
+34
+00:01:50,448 --> 00:01:54,330
+conteúdos que lemos anteriormente no arquivo. Vou
+
+35
+00:01:54,330 --> 00:01:58,080
+salvar nosso programa. Se tudo
+
+36
+00:01:58,080 --> 00:02:01,640
+der certo, a função read_text lerá os conteúdos do
+
+37
+00:02:01,640 --> 00:02:05,070
+arquivo movie_quotes e a função check_profanity
+
+38
+00:02:05,070 --> 00:02:07,830
+verificará se há palavrões nesse texto. Executarei
+
+39
+00:02:07,830 --> 00:02:13,250
+o programa. Parece que esqueci de importar urllib. Vou
+
+40
+00:02:13,250 --> 00:02:18,750
+voltar ao código e adicioná-lo logo no início. [SOUND] Tudo pronto. Vou salvar
+
+41
+00:02:18,750 --> 00:02:23,960
+o programa e executá-lo novamente. Dessa vez,
+
+42
+00:02:23,960 --> 00:02:27,390
+o programa funcionou e a resposta do programa é false,
+
+43
+00:02:27,390 --> 00:02:29,830
+o que significa que o arquivo movie_quotes não têm
+
+44
+00:02:29,830 --> 00:02:32,350
+palavrões. Se voltar
+
+45
+00:02:32,350 --> 00:02:35,310
+ao arquivo movie_quotes, alterar apenas uma
+
+46
+00:02:35,310 --> 00:02:39,940
+palavra e salvar o arquivo... E executar o
+
+47
+00:02:39,940 --> 00:02:43,660
+código mais uma vez... A resposta mudará para
+
+48
+00:02:43,660 --> 00:02:46,530
+true, o que significa que havia um palavrão
+
+49
+00:02:46,530 --> 00:02:50,130
+no arquivo movie_quotes. Parece
+
+50
+00:02:50,130 --> 00:02:53,020
+que estamos muito perto de finalizar esse código.
+
+51
+00:02:53,020 --> 00:02:56,019
+Mas, antes disso, [SOUND] quero que todos reflitam. Como o
+
+52
+00:02:56,019 --> 00:03:00,690
+Python sabe sobre urllib e urlopen? Vamos descobrir.
+

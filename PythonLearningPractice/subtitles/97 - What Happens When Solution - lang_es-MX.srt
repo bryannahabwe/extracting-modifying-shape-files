@@ -1,0 +1,136 @@
+1
+00:00:00,260 --> 00:00:02,360
+Bien, para descubrir que sucede cuando corremos esta
+
+2
+00:00:02,360 --> 00:00:04,910
+línea de código, vamos a retroceder en el tiempo y
+
+3
+00:00:04,910 --> 00:00:07,180
+ver un vídeo de una lección anterior cuando
+
+4
+00:00:07,180 --> 00:00:10,570
+estuvimos dibujando formas. Por ahora pueden pensar en una clase
+
+5
+00:00:10,570 --> 00:00:13,940
+como una caja perfectamente empacada que acomoda las cosas
+
+6
+00:00:13,940 --> 00:00:17,602
+realmente bien. Y que nos permite escribir código como turtle.Turtle
+
+7
+00:00:17,602 --> 00:00:21,860
+con estos corchetes de aspecto extraño como si estuviéramos llamando a una
+
+8
+00:00:21,860 --> 00:00:25,870
+función. De hecho, cuando ejecutamos esta porción de código
+
+9
+00:00:25,870 --> 00:00:28,210
+estamos, de hecho, llamando a una función, una función
+
+10
+00:00:28,210 --> 00:00:32,590
+llamada init que está definida dentro de la clase Turtle. Init
+
+11
+00:00:32,590 --> 00:00:35,530
+significa iniciar. Y lo que hace es
+
+12
+00:00:35,530 --> 00:00:38,480
+crear espacio en la memoria para una nueva instancia o un
+
+13
+00:00:38,480 --> 00:00:41,470
+nuevo objeto de la clase Turtle. A esta instancia la
+
+14
+00:00:41,470 --> 00:00:44,010
+llamamos, brad. Perfecto, estamos de vuelta en el
+
+15
+00:00:44,010 --> 00:00:47,310
+tiempo presente. Entonces, empezamos definiendo un archivo
+
+16
+00:00:47,310 --> 00:00:49,800
+llamado media.py. Permítanme colocarlo en el tablero.
+
+17
+00:00:51,360 --> 00:00:54,540
+Observen que coloco este archivo fuera de la librería estándar
+
+18
+00:00:54,540 --> 00:00:58,920
+de Python Dentro de ese archivo, definimos después una clase llamada Movie.
+
+19
+00:01:01,520 --> 00:01:03,360
+Luego, escribimos una línea de código
+
+20
+00:01:03,360 --> 00:01:07,610
+que decía media.Movie. Y lo que hizo, fue que
+
+21
+00:01:07,610 --> 00:01:10,380
+llamó a la función init definida dentro de la clase
+
+22
+00:01:10,380 --> 00:01:14,590
+Movie. Y eso creó una nueva instancia. Llamamos a esa instancia
+
+23
+00:01:14,590 --> 00:01:17,820
+Toy Story. Así que para resumir, esta
+
+24
+00:01:17,820 --> 00:01:21,530
+función init inicia o crea espacio y memoria
+
+25
+00:01:21,530 --> 00:01:24,150
+para la nueva instancia Toy Story A propósito,
+
+26
+00:01:24,150 --> 00:01:27,330
+esta función init, también se llama constructora
+
+27
+00:01:27,330 --> 00:01:29,810
+porque construye espacio y memoria para la nueva
+
+28
+00:01:29,810 --> 00:01:32,630
+instancia, que en este caso es Toy Story.
+
+29
+00:01:32,630 --> 00:01:35,510
+Así que hasta el momento, nos hemos encontrado dos nuevas palabras que
+
+30
+00:01:35,510 --> 00:01:38,710
+podemos añadir a nuestra lista de palabras nuevas. La primera
+
+31
+00:01:38,710 --> 00:01:41,470
+es instancia, que en este caso, es
+
+32
+00:01:41,470 --> 00:01:44,650
+Toy Story. Y el segundo es constructor, que en
+
+33
+00:01:44,650 --> 00:01:47,560
+este caso es la función init. Bien, vamos a
+
+34
+00:01:47,560 --> 00:01:51,215
+revisar estas palabras pronto. Pero por ahora, vamos a definir init.
+

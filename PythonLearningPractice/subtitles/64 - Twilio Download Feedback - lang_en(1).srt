@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:01,815
+Now here's a question for you.
+
+2
+00:00:01,815 --> 00:00:04,790
+Were you able to download Twilio successfully?
+
+3
+00:00:04,790 --> 00:00:06,730
+If not, don't worry.
+
+4
+00:00:06,730 --> 00:00:09,840
+We are here to help. Tell us about your experience.
+
+5
+00:00:09,840 --> 00:00:11,430
+You can even ask us,
+
+6
+00:00:11,430 --> 00:00:14,290
+or other students in the course a question on the discussion forum.
+

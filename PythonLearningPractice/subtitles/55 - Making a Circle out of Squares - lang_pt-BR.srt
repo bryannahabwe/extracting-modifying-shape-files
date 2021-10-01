@@ -1,0 +1,60 @@
+1
+00:00:00,260 --> 00:00:02,920
+Certo, aqui estamos de volta ao código. Por enquanto,
+
+2
+00:00:02,920 --> 00:00:06,689
+continuarei desenhando o quadrado, mas comentarei
+
+3
+00:00:06,689 --> 00:00:08,880
+o restante do código. Vou continuar e fazer
+
+4
+00:00:08,880 --> 00:00:14,570
+isso. Vou salvar e executar este programa rapidamente para ter certeza de que tudo está funcionando bem.
+
+5
+00:00:16,950 --> 00:00:18,710
+O programa parece que ainda está desenhando um
+
+6
+00:00:18,710 --> 00:00:22,390
+quadrado, o que é bom. Lembre-se que o desafio original era
+
+7
+00:00:22,390 --> 00:00:25,720
+desenhar um círculo a partir dos quadrados. Até agora,
+
+8
+00:00:25,720 --> 00:00:29,170
+tudo o que você fez foi desenhar um quadrado.
+
+9
+00:00:29,170 --> 00:00:32,310
+Com isso, tenho uma pergunta para você. Como você
+
+10
+00:00:32,310 --> 00:00:35,020
+desenvolveria o código que criamos para desenhar
+
+11
+00:00:35,020 --> 00:00:38,800
+essa imagem? Não se preocupe com a escrita de códigos no momento. Só
+
+12
+00:00:38,800 --> 00:00:42,140
+quero que você identifique em poucas palavras
+
+13
+00:00:42,140 --> 00:00:45,710
+as etapas que executaria para resolver esse problema. Você pode enviar suas respostas ao
+
+14
+00:00:45,710 --> 00:00:48,160
+fórum de discussão. Depois disso, não
+
+15
+00:00:48,160 --> 00:00:49,860
+deixe de marcar esta caixa antes de continuar.
+

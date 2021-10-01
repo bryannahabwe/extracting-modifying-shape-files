@@ -1,0 +1,32 @@
+1
+00:00:00,220 --> 00:00:02,770
+Bien, aquí tenemos la libraría estándar Python y si
+
+2
+00:00:02,770 --> 00:00:05,830
+me desplazo hasta aquí abajo, puedo encontrar un módulo llamado
+
+3
+00:00:05,830 --> 00:00:08,710
+urllib. Voy a hacer clic en él y dice
+
+4
+00:00:08,710 --> 00:00:12,800
+que este módulo proporciona una interfaz de alto nivel para conseguir información
+
+5
+00:00:12,800 --> 00:00:15,100
+a través de la World Wide Web, que es sólo una
+
+6
+00:00:15,100 --> 00:00:18,410
+forma elegante de decir, este módulo nos ayuda a obtener información
+
+7
+00:00:18,410 --> 00:00:21,400
+de Internet o de sitios web. Ahora, si me desplazo
+
+8
+00:00:21,400 --> 00:00:25,030
+abajo en esta página. Puedo encontrar la función urlopen.
+

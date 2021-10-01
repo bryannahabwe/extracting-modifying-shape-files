@@ -1,0 +1,36 @@
+1
+00:00:00,370 --> 00:00:02,210
+Estive pensando sobre como apresentar este
+
+2
+00:00:02,210 --> 00:00:05,790
+tópico chamado Classes. Enquanto isso, me lembrei
+
+3
+00:00:05,790 --> 00:00:08,690
+de como esse conceito foi explicado para mim na faculdade. Percebi que
+
+4
+00:00:08,690 --> 00:00:12,170
+essas ideias usavam muitos jargões e eram
+
+5
+00:00:12,170 --> 00:00:15,700
+confusas. Em seguida, encontrei este conceito no Python
+
+6
+00:00:15,700 --> 00:00:19,850
+que pode nos ajudar a desenhar formas. Formas como quadrados, círculos
+
+7
+00:00:19,850 --> 00:00:22,700
+e fractais. No final das contas, desenhar essas formas
+
+8
+00:00:22,700 --> 00:00:25,390
+é uma das maneiras mais fáceis de aprender sobre as classes.
+
+9
+00:00:25,390 --> 00:00:27,280
+Vamos começar desenhando algumas formas.
+

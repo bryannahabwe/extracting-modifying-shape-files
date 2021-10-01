@@ -1,0 +1,16 @@
+1
+00:00:00,570 --> 00:00:05,040
+Tenho em minhas mãos as funções urllib e urlopen. Se
+
+2
+00:00:05,040 --> 00:00:07,850
+você fosse dar um palpite e inserir essas duas funções no
+
+3
+00:00:07,850 --> 00:00:10,770
+nosso modelo da biblioteca padrão Python, onde você
+
+4
+00:00:10,770 --> 00:00:13,450
+as colocaria? Dê sua resposta na caixa fornecida.
+

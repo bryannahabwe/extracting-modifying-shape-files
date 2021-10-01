@@ -1,0 +1,112 @@
+1
+00:00:00,320 --> 00:00:03,110
+Muy bien, así que aquí está nuestro diseño del programa. Voy
+
+2
+00:00:03,110 --> 00:00:05,720
+a empezar por abrir un navegador y reproducir una
+
+3
+00:00:05,720 --> 00:00:09,430
+canción. Así que antes, busqué en Google para averiguar cómo
+
+4
+00:00:09,430 --> 00:00:11,890
+uno podría abrir un navegador web en Python. Y
+
+5
+00:00:11,890 --> 00:00:17,680
+descubrí que existe esta función llamada webbrowser.open. Esta
+
+6
+00:00:17,680 --> 00:00:20,340
+función toma el enlace que quiero abrir.
+
+7
+00:00:20,340 --> 00:00:22,810
+Acabo de pegar una dirección de Youtube aquí. En efecto,
+
+8
+00:00:22,810 --> 00:00:25,950
+este podría haber sido cualquier enlace que desees. Muy bien.
+
+9
+00:00:25,950 --> 00:00:28,380
+Guardemos el programa y ejecutémoslo. Voy
+
+10
+00:00:28,380 --> 00:00:31,470
+a llamarlo break_time.py Py significa
+
+11
+00:00:31,470 --> 00:00:35,200
+Python. Para ejecutarlo, voy a hacer clic en ejecutar,
+
+12
+00:00:35,200 --> 00:00:38,700
+y luego clic en Ejecutar Módulo. Ahora mi hipótesis es
+
+13
+00:00:38,700 --> 00:00:40,840
+que cuando ejecutemos este programa abrirá
+
+14
+00:00:40,840 --> 00:00:44,330
+el enlace de Youtube. Vamos a ver. Oh. Parece que
+
+15
+00:00:44,330 --> 00:00:47,170
+tenemos un error. Bueno, dice que hay un
+
+16
+00:00:47,170 --> 00:00:51,450
+error en tu programa, EOL, sea lo que sea que signifique, mientras exploraba
+
+17
+00:00:51,450 --> 00:00:55,210
+la cadena literal. ¿De acuerdo? Oh mira, Python está
+
+18
+00:00:55,210 --> 00:00:58,840
+señalando el error. Parece que olvidé
+
+19
+00:00:58,840 --> 00:01:02,330
+la comilla de cierre, así que voy a añadirla.
+
+20
+00:01:02,330 --> 00:01:04,260
+Permítanme guardar el programa una vez más y
+
+21
+00:01:04,260 --> 00:01:05,978
+ejecutarlo. Ahora creo que funcionará.
+
+22
+00:01:05,978 --> 00:01:11,140
+Um, otro error. ¿Sabes? Cuando aprendí por primera vez
+
+23
+00:01:11,140 --> 00:01:14,210
+cómo programar, me sentía tan intimidado por estos
+
+24
+00:01:14,210 --> 00:01:16,940
+errores. Míralos. Están en rojo y frente
+
+25
+00:01:16,940 --> 00:01:20,080
+a tu cara, pero para que funcione el programa, tenemos
+
+26
+00:01:20,080 --> 00:01:23,390
+que resolverlos de alguna manera. Así que, ¿te importaría leer
+
+27
+00:01:23,390 --> 00:01:25,550
+el error y decirnos cuál crees que es el
+
+28
+00:01:25,550 --> 00:01:28,770
+problema con este código? Puede escribir tus respuestas en este cuadro.
+

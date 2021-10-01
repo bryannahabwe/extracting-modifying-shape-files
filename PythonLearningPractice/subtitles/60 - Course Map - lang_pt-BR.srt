@@ -1,0 +1,12 @@
+1
+00:00:00,340 --> 00:00:03,560
+Vimos um exemplo de como usamos as classes para desenhar
+
+2
+00:00:03,560 --> 00:00:06,710
+formas geométricas. Vejamos outro exemplo
+
+3
+00:00:06,710 --> 00:00:08,490
+de como as classes podem facilitar as coisas.
+

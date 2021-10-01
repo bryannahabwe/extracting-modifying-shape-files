@@ -1,0 +1,24 @@
+1
+00:00:00,250 --> 00:00:03,217
+Falamos de várias ideias avançadas de
+
+2
+00:00:03,217 --> 00:00:06,253
+programação orientada a objeto até agora,
+
+3
+00:00:06,253 --> 00:00:10,010
+como herança e substituição de método. Quero
+
+4
+00:00:10,010 --> 00:00:11,460
+agradecer a você por sua paciência
+
+5
+00:00:11,460 --> 00:00:15,100
+e também pelo empenho no trabalho. Acho que
+
+6
+00:00:15,100 --> 00:00:19,840
+estamos prontos para o projeto final. Vejamos o projeto final a seguir.
+

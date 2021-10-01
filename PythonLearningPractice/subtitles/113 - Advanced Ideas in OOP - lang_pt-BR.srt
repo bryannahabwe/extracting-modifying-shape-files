@@ -1,0 +1,16 @@
+1
+00:00:00,130 --> 00:00:04,090
+Percorremos um logo caminho neste curso, desde o desenho de formas
+
+2
+00:00:04,090 --> 00:00:08,010
+até o design de um site de filmes. Nesta lição,
+
+3
+00:00:08,010 --> 00:00:13,520
+vamos falar sobre algumas ideias avançadas na programação orientada a objeto.
+
+4
+00:00:13,520 --> 00:00:17,760
+A primeira delas se chama variáveis de classe. Vamos falar disso a seguir.
+

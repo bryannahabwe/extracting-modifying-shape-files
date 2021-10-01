@@ -1,0 +1,192 @@
+1
+00:00:00,200 --> 00:00:01,967
+Voltarei ao
+
+2
+00:00:01,967 --> 00:00:04,075
+código e dessa vez farei algo
+
+3
+00:00:04,075 --> 00:00:07,657
+diferente. Como essa classe Child é herdeira da
+
+4
+00:00:07,657 --> 00:00:12,213
+classe Parent, o método show_info também é herdado. Isso significa que
+
+5
+00:00:12,213 --> 00:00:15,524
+instâncias da classe Child, como miley_cyrus,
+
+6
+00:00:15,524 --> 00:00:19,066
+também podem chamar o método show_info,
+
+7
+00:00:19,066 --> 00:00:22,377
+mesmo esse método não estando
+
+8
+00:00:22,377 --> 00:00:26,000
+explicitamente definido na classe Child. Farei isso em seguida.
+
+9
+00:00:26,000 --> 00:00:27,900
+A primeira providência é remover marcas de comentário
+
+10
+00:00:27,900 --> 00:00:29,900
+da linha de código na qual estou criando
+
+11
+00:00:29,900 --> 00:00:34,290
+a instância chamada miley_cyrus e usar essa instância
+
+12
+00:00:34,290 --> 00:00:39,190
+para chamar o método show_info. Pronto. Como quero me concentrar
+
+13
+00:00:39,190 --> 00:00:41,770
+na saída desse método show_info, vou
+
+14
+00:00:41,770 --> 00:00:43,930
+comentar o método show_info anterior.
+
+15
+00:00:45,310 --> 00:00:48,660
+Pronto. Antes de executar esse programa, quero
+
+16
+00:00:48,660 --> 00:00:51,255
+destacar mais uma vez que estou usando a instância
+
+17
+00:00:51,255 --> 00:00:54,920
+miley_cyrus para chamar o método show_info. Esse método
+
+18
+00:00:54,920 --> 00:00:59,090
+não existe explicitamente na classe Child. Mas,
+
+19
+00:00:59,090 --> 00:01:02,210
+como a classe Child é herdeira da classe Parent, esse
+
+20
+00:01:02,210 --> 00:01:05,770
+método show_info está disponível para as instâncias da
+
+21
+00:01:05,770 --> 00:01:10,010
+classe Child. Vou salvar e executar esse programa. E
+
+22
+00:01:10,010 --> 00:01:13,250
+temos a saída. O programa não apresentou qualquer erro, e
+
+23
+00:01:13,250 --> 00:01:16,365
+o sobrenome e cor dos olhos da instância
+
+24
+00:01:16,365 --> 00:01:21,850
+miley_cyrus foram impressos. Certo. O próximo passo é
+
+25
+00:01:21,850 --> 00:01:25,920
+criar um método chamado show_info na classe Child,
+
+26
+00:01:25,920 --> 00:01:28,350
+e veremos o que acontece. Vou criar
+
+27
+00:01:28,350 --> 00:01:34,030
+um novo método chamado show_info na classe Child.
+
+28
+00:01:34,030 --> 00:01:36,430
+Esse método show_info imprimirá
+
+29
+00:01:36,430 --> 00:01:38,790
+os três elementos associados a um filho.
+
+30
+00:01:38,790 --> 00:01:41,370
+O sobrenome, a cor dos olhos e o número de brinquedos.
+
+31
+00:01:42,780 --> 00:01:44,870
+Estamos imprimindo o sobrenome
+
+32
+00:01:44,870 --> 00:01:48,640
+do filho. Agora, estamos imprimindo a cor dos olhos,
+
+33
+00:01:50,310 --> 00:01:53,080
+e finalmente o número de brinquedos do filho.
+
+34
+00:01:53,080 --> 00:01:55,520
+Para imprimir esse número corretamente, precisamos
+
+35
+00:01:55,520 --> 00:01:58,020
+envolvê-lo com a função string. Se
+
+36
+00:01:58,020 --> 00:02:01,550
+esse programa for salvo e executado, minha hipótese é que, ao
+
+37
+00:02:01,550 --> 00:02:04,880
+chamar o método show_info usando miley_cyrus, que é
+
+38
+00:02:04,880 --> 00:02:08,038
+uma instância da classe Child, esse método show_info
+
+39
+00:02:08,038 --> 00:02:10,163
+será chamado, e não o método
+
+40
+00:02:10,163 --> 00:02:13,240
+show_info da classe Parent. Vou
+
+41
+00:02:13,240 --> 00:02:16,550
+salvar e executar esse programa. E temos a saída.
+
+42
+00:02:16,550 --> 00:02:19,440
+Estamos imprimindo o sobrenome, a cor dos olhos e o número
+
+43
+00:02:19,440 --> 00:02:22,600
+de brinquedos da instância da classe Child. O
+
+44
+00:02:22,600 --> 00:02:24,660
+que fizemos aqui foi definir o
+
+45
+00:02:24,660 --> 00:02:29,070
+método com o mesmo nome, show_info, na classe Child
+
+46
+00:02:29,070 --> 00:02:33,330
+e também na classe Parent. Essa capacidade de uma subclasse,
+
+47
+00:02:33,330 --> 00:02:36,910
+no caso, a classe Child, de substituir um método
+
+48
+00:02:36,910 --> 00:02:41,650
+herdado da classe Parent, em programação, é chamada de substituição de método.
+

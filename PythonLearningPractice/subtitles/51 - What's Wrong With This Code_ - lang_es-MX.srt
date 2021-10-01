@@ -1,0 +1,16 @@
+1
+00:00:00,330 --> 00:00:03,144
+Ahora, honestamente, si le enseño este código a mi profesora
+
+2
+00:00:03,144 --> 00:00:07,730
+de ciencias de la computación de la universidad, ella estaría muy molesta. ¿Pueden
+
+3
+00:00:07,730 --> 00:00:09,880
+adivinar por qué se molestaría con el código
+
+4
+00:00:09,880 --> 00:00:12,800
+que escribimos hasta ahora? Presenten sus respuestas en este cuadro.
+

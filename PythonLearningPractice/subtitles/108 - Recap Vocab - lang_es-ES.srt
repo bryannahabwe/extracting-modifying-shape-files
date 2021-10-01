@@ -1,0 +1,136 @@
+1
+00:00:00,260 --> 00:00:03,220
+Gracias por compartir sus respuestas en el foro. Bien,
+
+2
+00:00:03,220 --> 00:00:05,970
+al escribir todo este código, hemos visto una gran cantidad de
+
+3
+00:00:05,970 --> 00:00:09,380
+nuevas palabras. Vamos a revisarlas todas. Bien, aquí
+
+4
+00:00:09,380 --> 00:00:11,860
+tengo mis dos archivos de programación en la pantalla
+
+5
+00:00:11,860 --> 00:00:15,060
+al mismo tiempo. Este es mi primer archivo de programación donde estoy haciendo
+
+6
+00:00:15,060 --> 00:00:18,660
+la clase Movie. Y la segunda, donde estoy definiendo instancias
+
+7
+00:00:18,660 --> 00:00:23,130
+de esa clase, instancias como toy_story y avatar. Bueno, tal vez
+
+8
+00:00:23,130 --> 00:00:25,450
+tengan que activar el modo de pantalla completa para poder
+
+9
+00:00:25,450 --> 00:00:28,080
+leer todos los detalles en la pantalla.
+
+10
+00:00:28,080 --> 00:00:30,950
+De acuerdo, vamos a empezar a revisar todas las nuevas palabras.
+
+11
+00:00:30,950 --> 00:00:33,980
+Comenzamos con la definición de la palabra class. La
+
+12
+00:00:33,980 --> 00:00:37,560
+palabra clave class nos permite hacer clases. Pueden pensar en una
+
+13
+00:00:37,560 --> 00:00:40,160
+clase como un plano. Y una clase
+
+14
+00:00:40,160 --> 00:00:44,420
+puede tener tanto datos como métodos. Entonces, podemos
+
+15
+00:00:44,420 --> 00:00:47,630
+crear múltiples instancias de una clase. En este caso
+
+16
+00:00:47,630 --> 00:00:50,920
+creamos instancias como toy_story y avatar. Pudimos
+
+17
+00:00:50,920 --> 00:00:53,830
+haber creado muchas más. Bien, cuando creamos
+
+18
+00:00:53,830 --> 00:00:56,159
+una instancia de una clase, instancia como toy_story,
+
+19
+00:00:56,159 --> 00:01:00,030
+se llama al constructor de la clase. Este es
+
+20
+00:01:00,030 --> 00:01:02,960
+básicamente el método init dentro de la clase. Es
+
+21
+00:01:02,960 --> 00:01:05,300
+aquí que iniciamos todos los datos
+
+22
+00:01:05,300 --> 00:01:09,500
+asociados con la instancia. El constructor utiliza la palabra clave
+
+23
+00:01:09,500 --> 00:01:12,430
+self. Entonces, pueden pensar de self como
+
+24
+00:01:12,430 --> 00:01:16,144
+sí misma o como la instancia en cuestión. Entonces, cuando
+
+25
+00:01:16,144 --> 00:01:19,904
+se crea la instancia toy_story, self es
+
+26
+00:01:19,904 --> 00:01:23,460
+toy_story. Todas las variables asociadas con una instancia
+
+27
+00:01:23,460 --> 00:01:27,420
+específica se denominan variables de instancia. Ahora, estas son
+
+28
+00:01:27,420 --> 00:01:29,860
+únicas a un objeto y se puede acceder a ellas utilizando
+
+29
+00:01:29,860 --> 00:01:32,430
+la palabra clave self dentro de la clase y el
+
+30
+00:01:32,430 --> 00:01:36,100
+nombre de la instancia fuera de la clase. Por último, todas
+
+31
+00:01:36,100 --> 00:01:38,760
+las funciones dentro de la clase que se asocian
+
+32
+00:01:38,760 --> 00:01:41,200
+con una instancia y tengan el primer valor como
+
+33
+00:01:41,200 --> 00:01:45,810
+self se llaman métodos de instancia. Así que ahí están. Todas las
+
+34
+00:01:45,810 --> 00:01:48,860
+nuevas palabras que hemos aprendido hasta ahora, justo ahí, en una pantalla.
+

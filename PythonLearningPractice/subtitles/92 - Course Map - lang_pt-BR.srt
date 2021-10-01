@@ -1,0 +1,56 @@
+1
+00:00:00,290 --> 00:00:03,340
+Começamos este curso usando as funções. Na
+
+2
+00:00:03,340 --> 00:00:07,590
+primeira lição, desenvolvemos alguns projetos diferentes. Depois, analisamos um cenário
+
+3
+00:00:07,590 --> 00:00:10,810
+em que o uso das funções
+
+4
+00:00:10,810 --> 00:00:13,360
+não funcionou muito bem. Isso ocorreu quando estávamos tentando
+
+5
+00:00:13,360 --> 00:00:15,744
+desenvolver um site de filmes. O que nos levou à
+
+6
+00:00:15,744 --> 00:00:18,752
+lição três, em que apresentamos duas classes e
+
+7
+00:00:18,752 --> 00:00:22,708
+criamos vários projetos diferentes usando as classes. Na
+
+8
+00:00:22,708 --> 00:00:25,480
+lição três, escreveremos nossa primeira classe e
+
+9
+00:00:25,480 --> 00:00:30,345
+retornaremos ao exemplo do site de filmes. Vamos começar. A saída
+
+10
+00:00:30,345 --> 00:00:32,897
+do programa que estamos prestes a criar terá esta
+
+11
+00:00:32,897 --> 00:00:38,035
+aparência: Um site de filmes com todos os seus filmes favoritos.
+
+12
+00:00:38,035 --> 00:00:42,070
+Se você clicar em um filme, o respectivo trailer será reproduzido.
+
+13
+00:00:42,070 --> 00:00:49,583
+[MUSIC]
+
+14
+00:00:49,583 --> 00:00:51,020
+Vamos em frente.
+

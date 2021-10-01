@@ -1,0 +1,24 @@
+1
+00:00:00,280 --> 00:00:04,740
+Nossa próxima tarefa é colocar essas duas etapas em um loop para que
+
+2
+00:00:04,740 --> 00:00:06,750
+o programa avise ao usuário para fazer um
+
+3
+00:00:06,750 --> 00:00:09,980
+intervalo várias vezes durante o dia. Seu desafio
+
+4
+00:00:09,980 --> 00:00:14,950
+é adicionar um loop ao código para que ele avise ao usuário para fazer 3 intervalos. Se
+
+5
+00:00:14,950 --> 00:00:16,900
+você achar essa tarefa confusa, há alguns
+
+6
+00:00:16,900 --> 00:00:19,880
+links úteis sobre loops nas Notas do instrutor.
+

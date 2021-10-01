@@ -1,0 +1,100 @@
+1
+00:00:00,420 --> 00:00:04,070
+Bien, este es mi código para la clase Movie y detrás de él se esconde
+
+2
+00:00:04,070 --> 00:00:05,870
+el otro archivo de programación, en el que hemos
+
+3
+00:00:05,870 --> 00:00:08,920
+definimos instancias múltiples de la clase Movie, a saber
+
+4
+00:00:08,920 --> 00:00:12,710
+toy_story y avatar. Bien, lo que voy a hacer es volver a mi
+
+5
+00:00:12,710 --> 00:00:14,850
+código para la clase Movie y definir
+
+6
+00:00:14,850 --> 00:00:18,543
+ahí una nueva función o método llamado show_trailer.
+
+7
+00:00:21,530 --> 00:00:24,530
+Bueno, cada método de instancia, ya sea init
+
+8
+00:00:24,530 --> 00:00:28,740
+o show_trailer toma el primer argumento como self. Bueno,
+
+9
+00:00:28,740 --> 00:00:32,140
+añadiré eso. Todo lo que show_trailer tiene que hacer,
+
+10
+00:00:32,140 --> 00:00:35,480
+es abrir el navegador web con el URL correcto.
+
+11
+00:00:35,480 --> 00:00:37,940
+Y el vínculo o la URL se almacenan en
+
+12
+00:00:37,940 --> 00:00:41,540
+la variable de instancia trailer_youtube_url. La forma de
+
+13
+00:00:41,540 --> 00:00:45,060
+acceder a esta variable de instancia, es a través de la palabra clave self.
+
+14
+00:00:45,060 --> 00:00:46,760
+Una última cosa que necesito para hacer que este código
+
+15
+00:00:46,760 --> 00:00:52,860
+funcione, es importar webbrowser.
+
+16
+00:00:52,860 --> 00:00:57,050
+Listo, voy a continuar y guardar este archivo. Ahora que hemos definido
+
+17
+00:00:57,050 --> 00:01:01,510
+el método show_trailer, lo siguiente que tenemos que hacer, es llamar a este método
+
+18
+00:01:01,510 --> 00:01:06,130
+utilizando nuestro otro archivo de programación. Bien, iré hacia allá y aquí está, ya
+
+19
+00:01:06,130 --> 00:01:08,375
+tengo la instancia u objeto llamado avatar.
+
+20
+00:01:08,375 --> 00:01:11,680
+[SONIDO] Así que usaré avatar,
+
+21
+00:01:11,680 --> 00:01:15,011
+para llamar al método show_trailer. Voy
+
+22
+00:01:15,011 --> 00:01:16,240
+a continuar y guardar este archivo.
+
+23
+00:01:22,360 --> 00:01:23,240
+Después voy a ejecutarlo.
+
+24
+00:01:23,240 --> 00:01:26,211
+[MÚSICA]
+
+25
+00:01:26,211 --> 00:01:33,135
+Wow, eso fue espectacular.
+

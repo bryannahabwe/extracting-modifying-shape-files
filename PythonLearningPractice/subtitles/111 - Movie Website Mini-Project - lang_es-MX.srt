@@ -1,0 +1,144 @@
+1
+00:00:00,460 --> 00:00:02,630
+Permítanme comenzar este vídeo diciendo que
+
+2
+00:00:02,630 --> 00:00:05,350
+en caso de que esté código no les haya funcionado,
+
+3
+00:00:05,350 --> 00:00:07,730
+nos pregunten en el foro de discusión. Estamos
+
+4
+00:00:07,730 --> 00:00:10,740
+aquí para ayudar. Bueno, tal vez tengan curiosidad por
+
+5
+00:00:10,740 --> 00:00:14,040
+este archivo llamado fresh_tomatoes, así que vamos a hablar de ello
+
+6
+00:00:14,040 --> 00:00:17,740
+enseguida. Bien, quiero que recuerden que este
+
+7
+00:00:17,740 --> 00:00:23,360
+archivo, fresh_tomatoes.py, tenía una función dentro de él llamada, open_movies_page.
+
+8
+00:00:23,360 --> 00:00:26,560
+Bueno, esta función recibe una lista de películas, y
+
+9
+00:00:26,560 --> 00:00:29,630
+a continuación, crea y abre un archivo HTML o una
+
+10
+00:00:29,630 --> 00:00:33,470
+página web que presenta esas películas. Por cierto, almacena
+
+11
+00:00:33,470 --> 00:00:36,580
+este archivo HTML, exactamente en la misma carpeta que
+
+12
+00:00:36,580 --> 00:00:39,250
+todos sus otros archivos de programa movie. Así que déjenme
+
+13
+00:00:39,250 --> 00:00:41,570
+ir a esa carpeta ahora. Y aquí está mi
+
+14
+00:00:41,570 --> 00:00:44,950
+carpeta movies, con todos mis archivos movie de Python justo
+
+15
+00:00:44,950 --> 00:00:48,790
+aquí. Tengan en cuenta que este es el archivo HTML que
+
+16
+00:00:48,790 --> 00:00:51,730
+recién creamos mediante la ejecución de nuestro programa. Este es el archivo
+
+17
+00:00:51,730 --> 00:00:53,970
+que en realidad nos mostró todas nuestras películas y
+
+18
+00:00:53,970 --> 00:00:58,370
+reprodujo el tráiler. Y aquí está el archivo Python fresh_tomatoes
+
+19
+00:00:58,370 --> 00:01:01,270
+que descargaron de nuestro sitio web. Permítanme
+
+20
+00:01:01,270 --> 00:01:05,250
+abrirlo. Muy bien. Este es el código para nuestro
+
+21
+00:01:05,250 --> 00:01:09,880
+archivo Python, fresh_tomatoes.py. Bueno, si bien no pasaré por
+
+22
+00:01:09,880 --> 00:01:12,560
+todo este código en detalle, los aliento a
+
+23
+00:01:12,560 --> 00:01:15,360
+que lean todo este programa. Quiero que entiendan
+
+24
+00:01:15,360 --> 00:01:17,490
+como recibe una lista de películas y
+
+25
+00:01:17,490 --> 00:01:21,230
+crea una página web para mostrar esas películas. De acuerdo, hemos añadido
+
+26
+00:01:21,230 --> 00:01:25,100
+comentarios a este archivo que hará el código legible. Muy bien.
+
+27
+00:01:25,100 --> 00:01:27,160
+la siguiente cosa que queremos es que
+
+28
+00:01:27,160 --> 00:01:30,901
+compartan la página web de películas que han creado hasta el momento. Así que ésta será
+
+29
+00:01:30,901 --> 00:01:33,523
+su tarea, queremos que ustedes creen su propia
+
+30
+00:01:33,523 --> 00:01:37,332
+página web de películas con sus películas favoritas. Una vez que lo hayan hecho
+
+31
+00:01:37,332 --> 00:01:40,041
+queremos que compartan una de las siguientes dos cosas
+
+32
+00:01:40,041 --> 00:01:42,880
+con nosotros en el foro. Pueden tomar una captura de pantalla o
+
+33
+00:01:42,880 --> 00:01:46,384
+una imagen de su sitio web de la película y compartirla con nosotros en el
+
+34
+00:01:46,384 --> 00:01:50,326
+foro, o si tienen acceso a un teléfono inteligente queremos que graben
+
+35
+00:01:50,326 --> 00:01:55,460
+y compartan un vídeo de YouTube de ustedes mostrando su sitio web de películas a un amigo.
+
+36
+00:01:55,460 --> 00:01:58,920
+Ya que hayan presentado sus respuestas en el foro, no olviden marcar esta casilla.
+

@@ -1,0 +1,64 @@
+1
+00:00:00,250 --> 00:00:03,370
+Pues bien, ahora que hemos reproducido el tráiler de la película Avatar, aquí tienen
+
+2
+00:00:03,370 --> 00:00:06,190
+un reto. Quiero que comenten esta línea, la
+
+3
+00:00:06,190 --> 00:00:09,470
+que muestra el tráiler de Avatar. Luego, quiero
+
+4
+00:00:09,470 --> 00:00:12,490
+que generen un objeto nuevo, pero esta vez de su
+
+5
+00:00:12,490 --> 00:00:15,170
+película favorita, y quiero que reproduzcan ese tráiler
+
+6
+00:00:15,170 --> 00:00:19,510
+en su lugar. Estas son las instrucciones una vez más. Al igual que Toy
+
+7
+00:00:19,510 --> 00:00:22,120
+Story y Avatar, queremos crear una nueva
+
+8
+00:00:22,120 --> 00:00:25,610
+instancia u objeto de la clase Movie. Después de que lo hayan hecho,
+
+9
+00:00:25,610 --> 00:00:27,110
+queremos que reproduzcan un tráiler de esa
+
+10
+00:00:27,110 --> 00:00:30,610
+película utilizando la nueva instancia u objeto. Por último,
+
+11
+00:00:30,610 --> 00:00:32,610
+que comparta una captura de pantalla del
+
+12
+00:00:32,610 --> 00:00:36,390
+resultado de su programa en el foro de discusión. Bueno, en caso de que
+
+13
+00:00:36,390 --> 00:00:39,250
+tengan la manera de grabar vídeo en la pantalla de su computadora,
+
+14
+00:00:39,250 --> 00:00:42,490
+tal vez con un teléfono inteligente, también pueden compartir con nosotros
+
+15
+00:00:42,490 --> 00:00:45,000
+un vídeo de YouTube de su resultado. No olviden
+
+16
+00:00:45,000 --> 00:00:47,590
+marcar esta casilla después de presentar sus respuestas en el foro.
+

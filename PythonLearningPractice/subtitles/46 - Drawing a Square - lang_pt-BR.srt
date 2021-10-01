@@ -1,0 +1,148 @@
+1
+00:00:00,650 --> 00:00:03,380
+Certo. É hora de desenhar o quadrado. Mas, dessa vez,
+
+2
+00:00:03,380 --> 00:00:06,520
+usando o computador. Criei um novo arquivo Python
+
+3
+00:00:06,520 --> 00:00:10,560
+chamado mindstorms.py. Você pode nomeá-lo
+
+4
+00:00:10,560 --> 00:00:13,110
+como quiser. Nele, criei
+
+5
+00:00:13,110 --> 00:00:17,170
+uma função chamada draw_square, que está vazia por enquanto. Sei que
+
+6
+00:00:17,170 --> 00:00:20,090
+há um módulo no Python chamado
+
+7
+00:00:20,090 --> 00:00:23,600
+turtle. É o que
+
+8
+00:00:23,600 --> 00:00:26,020
+desenha coisas no computador. Sugiro
+
+9
+00:00:26,020 --> 00:00:27,900
+que você descubra por que esse módulo se
+
+10
+00:00:27,900 --> 00:00:30,450
+chama turtle e não qualquer outro nome.
+
+11
+00:00:31,560 --> 00:00:35,230
+Uma maneira de começar a desenhar é escrevendo turtle.Turtle.
+
+12
+00:00:35,230 --> 00:00:39,070
+Essa sintaxe é um pouco estranha e
+
+13
+00:00:39,070 --> 00:00:41,510
+vamos compreendê-la ao final deste vídeo, mas
+
+14
+00:00:41,510 --> 00:00:44,400
+basta dizer que é como
+
+15
+00:00:44,400 --> 00:00:47,870
+usamos o turtle. Chamarei de brad. A primeira coisa a fazer
+
+16
+00:00:47,870 --> 00:00:51,110
+é aplicar mover brad para frente. Para isso, podemos
+
+17
+00:00:51,110 --> 00:00:54,040
+usar a função forward. Essa função usa um
+
+18
+00:00:54,040 --> 00:00:57,220
+número, que é a distância que queremos avançar.
+
+19
+00:00:57,220 --> 00:00:59,420
+Agora, vou executar este código e ver
+
+20
+00:00:59,420 --> 00:01:03,150
+se ele funciona. Esquecemos
+
+21
+00:01:03,150 --> 00:01:05,510
+que ainda não temos uma tela na qual
+
+22
+00:01:05,510 --> 00:01:09,430
+turtle, vulgo brad, se movimentará. Em outras palavras,
+
+23
+00:01:09,430 --> 00:01:12,770
+precisamos do equivalente ao tapete vermelho em nosso programa. Sei que
+
+24
+00:01:12,770 --> 00:01:16,300
+isso é feito pela adição de uma janela,
+
+25
+00:01:16,300 --> 00:01:19,200
+que terá um segundo plano vermelho, e quero fechar
+
+26
+00:01:19,200 --> 00:01:23,230
+essa janela sempre que clicar nela. Vou salvar e executar esse programa.
+
+27
+00:01:23,230 --> 00:01:28,270
+[BLANK_AUDIO]
+
+28
+00:01:28,270 --> 00:01:32,510
+Muito bem. Parece que temos uma janela com segundo plano vermelho e um turtle
+
+29
+00:01:32,510 --> 00:01:36,980
+chamado brad, que avançou 100 passos. De volta ao código,
+
+30
+00:01:36,980 --> 00:01:41,770
+vou terminar de desenhar o quadrado. Depois que brad avançar 100
+
+31
+00:01:41,770 --> 00:01:46,890
+passos, quero que ele vire 90 graus para a direita. Assim,
+
+32
+00:01:46,890 --> 00:01:53,300
+escrevo brad.right 90. Como quero
+
+33
+00:01:53,300 --> 00:01:58,180
+repetir essas duas etapas quatro vezes para desenhar um quadrado,
+
+34
+00:01:58,180 --> 00:02:01,940
+copio e colo algumas vezes. Vou
+
+35
+00:02:04,360 --> 00:02:06,422
+copiar e colar essas duas linhas. Duas vezes,
+
+36
+00:02:06,422 --> 00:02:11,630
+três vezes, quatro vezes. Vou salvar e executar.
+
+37
+00:02:15,880 --> 00:02:18,150
+Parece que criamos nosso primeiro quadrado.
+

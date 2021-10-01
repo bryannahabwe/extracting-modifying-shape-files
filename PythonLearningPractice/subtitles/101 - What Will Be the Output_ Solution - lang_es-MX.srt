@@ -1,0 +1,20 @@
+1
+00:00:00,170 --> 00:00:03,400
+Perfecto. Déjenme continuar y guardar este código y luego ejecutarlo.
+
+2
+00:00:05,640 --> 00:00:08,680
+Muy bien. Ahí tienen. El programa está imprimiendo la
+
+3
+00:00:08,680 --> 00:00:12,310
+trama correcta, que es de la película Avatar. Ahora a continuación,
+
+4
+00:00:12,310 --> 00:00:14,810
+lo que quiero hacer es averiguar que está pasando
+
+5
+00:00:14,810 --> 00:00:17,670
+exactamente detrás de escenas cuando creo la instancia Avatar.
+

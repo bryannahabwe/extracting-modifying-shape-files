@@ -1,0 +1,112 @@
+1
+00:00:00,410 --> 00:00:03,590
+Esta é uma forma de fazer isso. Digamos que eu queira fazer três
+
+2
+00:00:03,590 --> 00:00:06,970
+intervalos ao longo do dia. Usarei a variável break_count
+
+3
+00:00:06,970 --> 00:00:10,170
+para fazer a contagem do número de intervalos realizados. Depois,
+
+4
+00:00:10,170 --> 00:00:12,910
+adiciono um loop while para garantir
+
+5
+00:00:12,910 --> 00:00:15,810
+que este código seja executado três vezes. Se você quiser ver mais informações sobre
+
+6
+00:00:15,810 --> 00:00:18,710
+como os loops while funcionam, há um link útil nas Notas do
+
+7
+00:00:18,710 --> 00:00:22,080
+instrutor. Se eu salvar e executar este programa, ele aguardará
+
+8
+00:00:22,080 --> 00:00:27,280
+por dez segundos e reproduzirá a música três vezes.
+
+9
+00:00:27,280 --> 00:00:30,350
+Outra adição útil ao programa é uma instrução print
+
+10
+00:00:30,350 --> 00:00:34,400
+que nos informa quando o programa começou. Mas como
+
+11
+00:00:34,400 --> 00:00:36,370
+encontro a hora atual? Quando
+
+12
+00:00:36,370 --> 00:00:38,900
+é preciso fazer testes como este, começo usando esta
+
+13
+00:00:38,900 --> 00:00:42,650
+janela de saída para importar a hora aqui. Como você pode imaginar,
+
+14
+00:00:42,650 --> 00:00:45,830
+isso é uma forma de acessar a hora. E eu sei
+
+15
+00:00:45,830 --> 00:00:48,470
+que há uma função chamada ctime, ou hora
+
+16
+00:00:48,470 --> 00:00:53,230
+atual. Isto parece ser a hora atual no computador. Ótimo.
+
+17
+00:00:53,230 --> 00:00:58,260
+De volta ao programa principal, adicionarei isto. Vou salvar e executar esse programa.
+
+18
+00:01:00,300 --> 00:01:04,720
+Assim que o programa for executado, receberei um aviso com o momento em que iniciei o
+
+19
+00:01:04,720 --> 00:01:10,488
+programa. Dez segundos depois, um vídeo
+
+20
+00:01:10,488 --> 00:01:15,882
+será reproduzido solicitando que eu faça um
+
+21
+00:01:15,882 --> 00:01:17,120
+[MUSIC]intervalo.
+
+22
+00:01:17,120 --> 00:01:19,970
+Até aí, tudo bem. Mais dez segundos,
+
+23
+00:01:19,970 --> 00:01:26,190
+e outra sugestão para que eu faça um intervalo.
+
+24
+00:01:28,240 --> 00:01:28,610
+[MUSIC]
+
+25
+00:01:28,610 --> 00:01:30,150
+Se eu quiser interromper o programa
+
+26
+00:01:30,150 --> 00:01:34,280
+no meio do caminho, poderei reiniciar o IDLE ou usar Ctrl+C
+
+27
+00:01:34,280 --> 00:01:36,710
+na janela do shell, o que interromperá a execução
+
+28
+00:01:36,710 --> 00:01:38,400
+do programa ao voltar do modo de suspensão.
+

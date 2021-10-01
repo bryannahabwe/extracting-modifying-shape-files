@@ -1,0 +1,16 @@
+1
+00:00:00,570 --> 00:00:05,040
+Bien, tengo en mis manos urllib y urlopen Bueno, si
+
+2
+00:00:05,040 --> 00:00:07,850
+tuvieran que adivinar y colocar estos dos en
+
+3
+00:00:07,850 --> 00:00:10,770
+nuestro modelo de la librería estándar Python ¿Dónde lo
+
+4
+00:00:10,770 --> 00:00:13,450
+colocarían? No duden en dar su respuesta en la casilla correspondiente.
+

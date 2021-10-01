@@ -1,0 +1,140 @@
+1
+00:00:00,440 --> 00:00:04,640
+Así que, sé que quiero renombrar todos mis archivos. Y recuerdo que había cerca de
+
+2
+00:00:04,640 --> 00:00:08,010
+50 fotos dentro de esa carpeta que tú descargaste. Bien,
+
+3
+00:00:08,010 --> 00:00:10,490
+para renombrar las 50 fotos, creo que voy a tener que
+
+4
+00:00:10,490 --> 00:00:13,115
+utilizar algún tipo de ciclo. Por lo tanto,
+
+5
+00:00:13,115 --> 00:00:18,615
+escribiré uno ahora diciendo, para file_name
+
+6
+00:00:18,615 --> 00:00:22,640
+en file_list. Ahora, ten en cuenta, file_list es algo
+
+7
+00:00:22,640 --> 00:00:25,290
+que hemos visto antes. De hecho, lo imprimimos.
+
+8
+00:00:25,290 --> 00:00:27,300
+Esta fue una lista de todas las fotos en el interior
+
+9
+00:00:27,300 --> 00:00:29,680
+de la carpeta. Y lo que este ciclo for nos
+
+10
+00:00:29,680 --> 00:00:33,170
+permitirá hacer, es trabajar con cada archivo de foto
+
+11
+00:00:33,170 --> 00:00:36,740
+uno a la vez. Así, para cada foto, quiero cambiar
+
+12
+00:00:36,740 --> 00:00:41,510
+su nombre. Y el nombre anterior está en file_name. Y
+
+13
+00:00:41,510 --> 00:00:44,380
+el nuevo nombre, bueno, sé que el nuevo nombre está desprovisto
+
+14
+00:00:44,380 --> 00:00:47,740
+de números. Pero, ¿cómo hacer eso? Aún
+
+15
+00:00:47,740 --> 00:00:51,710
+no lo sé. Y esto significa que tendré que hacer algunos experimentos.
+
+16
+00:00:51,710 --> 00:00:54,090
+Y para ejecutar esos experimentos en general utilizo la
+
+17
+00:00:54,090 --> 00:00:57,340
+ventana de Python Shell, donde puedo empezar a escribir
+
+18
+00:00:57,340 --> 00:01:00,350
+y ver el resultado realmente rápido. Permítanme hacer
+
+19
+00:01:00,350 --> 00:01:01,940
+más espacio para esta ventana para que la puedan ver
+
+20
+00:01:01,940 --> 00:01:05,425
+apropiadamente. Por lo tanto, digamos que mi nombre era la
+
+21
+00:01:05,425 --> 00:01:10,950
+siguiente cadena: 48athens.jpg. Permítanme que imprima esto, de acuerdo,
+
+22
+00:01:10,950 --> 00:01:14,134
+bueno. Ahora, antes busqué en Google y encontré que
+
+23
+00:01:14,134 --> 00:01:16,848
+hay una función de cadena llamada translate que acepta
+
+24
+00:01:16,848 --> 00:01:19,551
+hasta dos argumentos. El primer argumento es una
+
+25
+00:01:19,551 --> 00:01:23,132
+tabla. Esta traduce un conjunto de caracteres a otro conjunto
+
+26
+00:01:23,132 --> 00:01:26,072
+de caracteres y puesto que no tenemos eso, puedo
+
+27
+00:01:26,072 --> 00:01:28,834
+utilizar la palabra clave None. Y el segundo es una lista
+
+28
+00:01:28,834 --> 00:01:31,461
+de todos los caracteres que queremos eliminar de
+
+29
+00:01:31,461 --> 00:01:34,077
+la cadena. Y esos, sé que son números, por lo que
+
+30
+00:01:34,077 --> 00:01:37,204
+serán cero, uno, dos, tres, cuatro, cinco, seis, siete,
+
+31
+00:01:37,204 --> 00:01:40,910
+ocho, nueve. Todos esos números. Permítanme intentarlo.
+
+32
+00:01:41,910 --> 00:01:44,320
+Oh hey, mira, el nombre de archivo ya no
+
+33
+00:01:44,320 --> 00:01:47,000
+tiene números en él. Por lo tanto, puesto que el experimento
+
+34
+00:01:47,000 --> 00:01:49,050
+funcionó, voy a volver al código
+
+35
+00:01:49,050 --> 00:01:52,240
+y agregar esta función file_name.translate en mi código.
+

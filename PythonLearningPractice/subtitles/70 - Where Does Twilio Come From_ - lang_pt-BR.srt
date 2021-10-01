@@ -1,0 +1,56 @@
+1
+00:00:00,550 --> 00:00:04,250
+Aqui está um instantâneo do nosso código. Sabemos que, ao
+
+2
+00:00:04,250 --> 00:00:07,420
+baixar o Twilio,
+
+3
+00:00:07,420 --> 00:00:10,720
+criamos, entre outras coisas, uma pasta chamada twilio. Dentro dessa pasta
+
+4
+00:00:10,720 --> 00:00:16,129
+há outra pasta chamada rest. Na pasta rest, há um arquivo Python com uma
+
+5
+00:00:16,129 --> 00:00:20,645
+classe chamada TwilioRestClient. Quando dizemos
+
+6
+00:00:20,645 --> 00:00:26,030
+rest.TwilioRestClient(), com esses parênteses depois do nome da classe,
+
+7
+00:00:26,030 --> 00:00:28,330
+estamos chamando a
+
+8
+00:00:28,330 --> 00:00:31,860
+função init definida na classe. Essa função cria
+
+9
+00:00:31,860 --> 00:00:35,090
+uma instância. Chamamos essa instância de client e
+
+10
+00:00:35,090 --> 00:00:36,480
+fazemos várias coisas com
+
+11
+00:00:36,480 --> 00:00:39,875
+ela, como enviar SMS. Sabemos que
+
+12
+00:00:39,875 --> 00:00:43,390
+TwilioRestClient é uma classe. Vimos outra classe
+
+13
+00:00:43,390 --> 00:00:47,200
+antes chamada Turtle. Vamos descobrir
+
+14
+00:00:47,200 --> 00:00:49,660
+se há alguma similaridade entre essas duas classes.
+

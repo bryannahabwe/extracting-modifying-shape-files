@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:04,035
+So now that we've played Avatar's movie trailer, here's your challenge.
+
+2
+00:00:04,035 --> 00:00:06,065
+I want you to comment out this line.
+
+3
+00:00:06,065 --> 00:00:08,335
+The line that shows the trailer for Avatar.
+
+4
+00:00:08,335 --> 00:00:11,293
+Then, I want you to create a new object.
+
+5
+00:00:11,293 --> 00:00:13,465
+But this time of your favorite movie.
+
+6
+00:00:13,465 --> 00:00:16,530
+And I want you to play each trailer instead.
+
+7
+00:00:16,530 --> 00:00:18,525
+Here are the instructions one more time.
+
+8
+00:00:18,525 --> 00:00:20,825
+Much like Toy Story in Avatar,
+
+9
+00:00:20,825 --> 00:00:24,480
+we want you to create a new instance or object of the class movie.
+
+10
+00:00:24,480 --> 00:00:27,570
+Once you've done that, we want you to play a trailer of that movie,
+
+11
+00:00:27,570 --> 00:00:29,605
+using the new instance or object.
+
+12
+00:00:29,605 --> 00:00:31,575
+And finally, we want you to share
+
+13
+00:00:31,575 --> 00:00:35,285
+a screenshot of your program's output on the discussion forum.
+
+14
+00:00:35,285 --> 00:00:39,060
+Now, in case you have a way to video record your computer screen?
+
+15
+00:00:39,060 --> 00:00:40,770
+Perhaps using a smartphone,
+
+16
+00:00:40,770 --> 00:00:44,540
+you can also share a YouTube video of your output with us.
+
+17
+00:00:44,540 --> 00:00:48,000
+Make sure to check this box after submitting your response on the photo.
+

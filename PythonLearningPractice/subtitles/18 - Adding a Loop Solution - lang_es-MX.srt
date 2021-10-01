@@ -1,0 +1,112 @@
+1
+00:00:00,410 --> 00:00:03,590
+He aquí una manera de hacerlo. Digamos que quiero tomar tres
+
+2
+00:00:03,590 --> 00:00:06,970
+descansos a lo largo del día. Voy a utilizar la variable de recuento de descanso para
+
+3
+00:00:06,970 --> 00:00:10,170
+llevar la cuenta del número de descansos que he tomado. Y luego voy a
+
+4
+00:00:10,170 --> 00:00:12,910
+añadir un bucle while, para asegurarme de que este código se ejecuta tres
+
+5
+00:00:12,910 --> 00:00:15,810
+veces. Por cierto, si quieres ver algo de información sobre
+
+6
+00:00:15,810 --> 00:00:18,710
+cómo funcionan los bucles while, existe un vínculo útil en las notas
+
+7
+00:00:18,710 --> 00:00:22,080
+del instructor. Ahora, si ejecuto este programa. El programa esperará
+
+8
+00:00:22,080 --> 00:00:27,280
+durante diez segundos y reproducirá la canción y lo hará en tres ocasiones.
+
+9
+00:00:27,280 --> 00:00:30,350
+Otra adición útil a nuestro programa puede ser una sentencia de
+
+10
+00:00:30,350 --> 00:00:34,400
+impresión que nos dice cuando comenzó nuestro programa. Ahora, ¿cómo
+
+11
+00:00:34,400 --> 00:00:36,370
+puedo encontrar la hora actual? Cuando tengo que
+
+12
+00:00:36,370 --> 00:00:38,900
+hacer algunas pruebas como esta, empiezo a utilizar esta
+
+13
+00:00:38,900 --> 00:00:42,650
+ventana de salida para poder importar la hora aquí. Lo cual, como
+
+14
+00:00:42,650 --> 00:00:45,830
+puedes suponer, es una forma de acceder a la hora. Y
+
+15
+00:00:45,830 --> 00:00:48,470
+sé que hay una función llamada ctime, u hora
+
+16
+00:00:48,470 --> 00:00:53,230
+actual. Eso parece como la hora actual en mi equipo. Fantástico.
+
+17
+00:00:53,230 --> 00:00:58,260
+Regreso al programa principal donde voy a añadir esto. Déjenme guardar y ejecutar este programa.
+
+18
+00:01:00,300 --> 00:01:04,720
+Ahora, tan pronto como ejecuto el programa, me sale un mensaje sugiriendo cuando empezé el
+
+19
+00:01:04,720 --> 00:01:10,488
+programa. Diez segundos después de eso, se reproduce
+
+20
+00:01:10,488 --> 00:01:15,882
+un video que me pide que tome un descanso
+
+21
+00:01:15,882 --> 00:01:17,120
+[MÚSICA]
+
+22
+00:01:17,120 --> 00:01:19,970
+Hasta ahora, todo bien. Transcurren otros diez segundos
+
+23
+00:01:19,970 --> 00:01:26,190
+y aparece otra sugerencia para tomar un descanso.
+
+24
+00:01:28,240 --> 00:01:28,610
+[MÚSICA]
+
+25
+00:01:28,610 --> 00:01:30,150
+Ahora, si quiero detener este programa
+
+26
+00:01:30,150 --> 00:01:34,280
+a mitad de camino, puedo reiniciar IDLE o usar Ctrl + C
+
+27
+00:01:34,280 --> 00:01:36,710
+en la ventana shell, que detendrá la ejecución
+
+28
+00:01:36,710 --> 00:01:38,400
+del programa cuando regrese de la suspensión.
+

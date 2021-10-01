@@ -1,0 +1,76 @@
+1
+00:00:00,565 --> 00:00:02,570
+Posso pensar em dois motivos pelos quais meu
+
+2
+00:00:02,570 --> 00:00:06,000
+professor de informática pode estar insatisfeito com a qualidade
+
+3
+00:00:06,000 --> 00:00:08,810
+deste código. Primeiro, porque estou criando instruções
+
+4
+00:00:08,810 --> 00:00:13,090
+repetitivas no código, como avançar, virar à direita, avançar,
+
+5
+00:00:13,090 --> 00:00:15,860
+virar à direita. Faço isso quatro vezes, mas
+
+6
+00:00:15,860 --> 00:00:19,310
+não uso qualquer tipo de loop. Outro motivo é que
+
+7
+00:00:19,310 --> 00:00:23,570
+o nome da função é draw_square. E um quadrado é desenhado.
+
+8
+00:00:23,570 --> 00:00:25,650
+Mas, em seguida, também desenho um círculo nessa
+
+9
+00:00:25,650 --> 00:00:28,190
+função. Isso não me parece muito lógico.
+
+10
+00:00:29,490 --> 00:00:32,310
+Com base nessas duas ideias, que alterações
+
+11
+00:00:32,310 --> 00:00:34,450
+você faria no código que criamos
+
+12
+00:00:34,450 --> 00:00:37,300
+para torná-lo mais utilizável? Quero que você faça
+
+13
+00:00:37,300 --> 00:00:40,420
+essas alterações e carregue uma captura de tela do
+
+14
+00:00:40,420 --> 00:00:44,700
+código no fórum de discussão. Aqui está outra tarefa para crédito extra,
+
+15
+00:00:44,700 --> 00:00:47,510
+que é criar um terceiro turtle, que
+
+16
+00:00:47,510 --> 00:00:50,640
+desenhará um triângulo. Após terminar,
+
+17
+00:00:50,640 --> 00:00:53,650
+quero que você carregue uma captura de tela da nova saída no
+
+18
+00:00:53,650 --> 00:00:55,940
+fórum de discussão. Não deixe de marcar esta caixa
+
+19
+00:00:55,940 --> 00:00:57,920
+após enviar suas respostas ao fórum.
+

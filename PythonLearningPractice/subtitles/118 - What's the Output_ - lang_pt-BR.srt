@@ -1,0 +1,148 @@
+1
+00:00:00,520 --> 00:00:03,180
+Aqui está o código da classe Parent,
+
+2
+00:00:03,180 --> 00:00:05,980
+e agora vou começar a definir a classe Child.
+
+3
+00:00:08,440 --> 00:00:11,110
+A classe Child é herdeira da
+
+4
+00:00:11,110 --> 00:00:13,550
+classe Parent. A maneira de indicar isso no
+
+5
+00:00:13,550 --> 00:00:18,350
+Python é dizer isso: essa sintaxe aqui, que
+
+6
+00:00:18,350 --> 00:00:22,180
+significa que a classe Child herda ou reutiliza
+
+7
+00:00:22,180 --> 00:00:25,230
+tudo que está disponível publicamente na classe Parent.
+
+8
+00:00:25,230 --> 00:00:28,050
+A situação ficará muito interessantes quando começarmos a
+
+9
+00:00:28,050 --> 00:00:30,360
+definir o método init ou o construtor
+
+10
+00:00:30,360 --> 00:00:34,020
+dessa classe. Sabemos que a classe Child
+
+11
+00:00:34,020 --> 00:00:36,740
+tem três variáveis: last_name e eye_color,
+
+12
+00:00:36,740 --> 00:00:38,960
+que são herdados da classe Parent, e essa
+
+13
+00:00:38,960 --> 00:00:42,000
+outra variável chamada number_of_toys. Além da própria
+
+14
+00:00:42,000 --> 00:00:44,820
+palavra-chave self, receberei estes valores
+
+15
+00:00:44,820 --> 00:00:47,890
+como argumentos na função init.
+
+16
+00:00:47,890 --> 00:00:51,530
+Pronto. Para inicializar as variáveis
+
+17
+00:00:51,530 --> 00:00:55,097
+herdadas da classe Parent, variáveis como last_name e
+
+18
+00:00:55,097 --> 00:00:59,600
+eye_color, reutilizarei o método init da classe Parent.
+
+19
+00:00:59,600 --> 00:01:00,380
+É assim que fazemos isso.
+
+20
+00:01:14,430 --> 00:01:20,420
+A última variável de instância, number_of_toys, será inicializada em seguida. Ok,
+
+21
+00:01:20,420 --> 00:01:24,730
+finalmente, adicionarei uma instrução print ao início do método init.
+
+22
+00:01:33,290 --> 00:01:37,770
+Agora que já definimos nossa classe Child, o próximo passo é
+
+23
+00:01:37,770 --> 00:01:40,780
+criar uma instância dessa classe Child.
+
+24
+00:01:40,780 --> 00:01:45,590
+Chamarei essa instância apropriadamente de miley_cyrus. E aqui, fornecerei
+
+25
+00:01:45,590 --> 00:01:48,620
+os três argumentos necessários.
+
+26
+00:01:48,620 --> 00:01:51,860
+E, em seguida, imprimirei duas instâncias:
+
+27
+00:01:51,860 --> 00:01:55,850
+o sobrenome e o número de brinquedos.
+
+28
+00:01:55,850 --> 00:01:58,690
+Também comentarei a instância anterior
+
+29
+00:01:58,690 --> 00:02:01,590
+para que possa me concentrar nessas instruções print
+
+30
+00:02:01,590 --> 00:02:07,560
+na saída. Pronto. Vou salvar esse arquivo. Antes de
+
+31
+00:02:07,560 --> 00:02:09,780
+executar o programa, quero refletir sobre
+
+32
+00:02:09,780 --> 00:02:12,520
+qual será a saída deste programa. Aqui
+
+33
+00:02:12,520 --> 00:02:15,550
+está o código mais uma vez. Esta é a classe Parent
+
+34
+00:02:15,550 --> 00:02:18,390
+e esta é a classe Child. Agora, estamos criando
+
+35
+00:02:18,390 --> 00:02:21,580
+uma instância da classe Child que vamos chamar de miley_cyrus.
+
+36
+00:02:21,580 --> 00:02:23,720
+O que você acha que será impresso quando eu executar
+
+37
+00:02:23,720 --> 00:02:27,050
+este código? Insira suas respostas nesta caixa.
+

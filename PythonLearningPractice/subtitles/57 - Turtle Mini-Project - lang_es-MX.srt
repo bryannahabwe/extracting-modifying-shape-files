@@ -1,0 +1,32 @@
+1
+00:00:00,400 --> 00:00:02,890
+Felicidades por llegar hasta aquí. Ahora que saben
+
+2
+00:00:02,890 --> 00:00:05,300
+cómo dibujar cosas utilizando el código, les tengo
+
+3
+00:00:05,300 --> 00:00:07,640
+un mini proyecto. Queremos escribir
+
+4
+00:00:07,640 --> 00:00:11,830
+un código para dibujar una flor o algunos fractales, o
+
+5
+00:00:11,830 --> 00:00:15,200
+escribir sus iniciales. Una vez que lo hayan hecho, publiquen un
+
+6
+00:00:15,200 --> 00:00:17,650
+video o una impresión de pantalla del resultado de
+
+7
+00:00:17,650 --> 00:00:20,350
+su código en el foro de debate. Marquen esta
+
+8
+00:00:20,350 --> 00:00:22,490
+casilla después de que hayan presentado sus respuestas en el foro.
+

@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:02,940
+So, now that we know a little bit about class variables,
+
+2
+00:00:02,940 --> 00:00:05,805
+let's move on to another idea in object-oriented programming,
+
+3
+00:00:05,805 --> 00:00:07,640
+which is that in Python,
+
+4
+00:00:07,640 --> 00:00:11,115
+all classes come with some pre-existing class variables.
+
+5
+00:00:11,115 --> 00:00:13,680
+One of them is called "doc."
+
+6
+00:00:13,680 --> 00:00:17,495
+Now, this variable has got underscores on both sides of its name.
+
+7
+00:00:17,495 --> 00:00:19,310
+Let's see this variable in action.
+
+8
+00:00:19,310 --> 00:00:23,235
+So, here I am at the Python Shell window with the Python prompt,
+
+9
+00:00:23,235 --> 00:00:25,990
+and I can type a program in here like 2 plus 2,
+
+10
+00:00:25,990 --> 00:00:27,725
+and it gives me the correct answer.
+
+11
+00:00:27,725 --> 00:00:30,685
+Now, I want us to recall this class called
+
+12
+00:00:30,685 --> 00:00:34,120
+Turtle that we had used some time back while drawing shapes,
+
+13
+00:00:34,120 --> 00:00:36,845
+so I can just import that class Turtle here.
+
+14
+00:00:36,845 --> 00:00:42,870
+There. Then, let me see what happens when I use the class name turtle.Turtle.
+
+15
+00:00:42,870 --> 00:00:46,850
+Remember, this was the name of the module or the file,
+
+16
+00:00:46,850 --> 00:00:48,470
+and this was the class name.
+
+17
+00:00:48,470 --> 00:00:54,090
+So if I use the class name with the pre-packaged variable called doc,
+
+18
+00:00:54,090 --> 00:00:55,755
+let me see what it prints out.
+
+19
+00:00:55,755 --> 00:00:59,985
+Aha! I get some documentation on the class Turtle.
+
+20
+00:00:59,985 --> 00:01:04,685
+Now, I wonder if I can use this variable doc with my class Movie.
+
+21
+00:01:04,685 --> 00:01:07,340
+So I'm back to the code for the class Movie,
+
+22
+00:01:07,340 --> 00:01:09,860
+and behind this file is my other Python file
+
+23
+00:01:09,860 --> 00:01:12,870
+where I'm defining a whole bunch of instances of class Movie.
+
+24
+00:01:12,870 --> 00:01:15,970
+Let me go back to the code for class Movie here for a second.
+
+25
+00:01:15,970 --> 00:01:21,220
+Now here, I'm going to add some documentation at the beginning of the class Movie.
+
+26
+00:01:21,220 --> 00:01:25,440
+You may have noticed that I used triple quotes to define my documentation.
+
+27
+00:01:25,440 --> 00:01:29,865
+Now, what I can do with triple quotes is I can create documentation in multiple lines.
+
+28
+00:01:29,865 --> 00:01:31,590
+For now, I just have the one line.
+
+29
+00:01:31,590 --> 00:01:36,980
+So I'm going to save this file and then go to my other Python file.
+
+30
+00:01:36,980 --> 00:01:44,555
+Here, I'm going to scroll all the way to the bottom and comment out any print statements.
+
+31
+00:01:44,555 --> 00:01:48,855
+There. Now, I will try to print out my class Movie,
+
+32
+00:01:48,855 --> 00:01:52,320
+which is accessed by saying media.Movie.
+
+33
+00:01:52,320 --> 00:01:55,260
+I will try to print out its documentation.
+
+34
+00:01:55,260 --> 00:01:59,430
+There.
+
+35
+00:01:59,430 --> 00:02:02,170
+Let me save and run this file.
+
+36
+00:02:02,340 --> 00:02:06,260
+There it is, the documentation for my class Movie.
+
+37
+00:02:06,260 --> 00:02:07,860
+Notice how I accessed it, though.
+
+38
+00:02:07,860 --> 00:02:09,965
+I accessed it using my class name,
+
+39
+00:02:09,965 --> 00:02:13,795
+which is Movie, and a predefined class variable called doc.
+
+40
+00:02:13,795 --> 00:02:17,630
+So, now that we have successfully use this variable called doc,
+
+41
+00:02:17,630 --> 00:02:19,375
+I have a question for you.
+
+42
+00:02:19,375 --> 00:02:21,745
+Much like the variable doc,
+
+43
+00:02:21,745 --> 00:02:24,805
+Python has a few more predefined variables.
+
+44
+00:02:24,805 --> 00:02:28,055
+These include the variable name and module.
+
+45
+00:02:28,055 --> 00:02:30,425
+By the way, more information about these
+
+46
+00:02:30,425 --> 00:02:32,970
+is also available through links in the instructor notes.
+
+47
+00:02:32,970 --> 00:02:37,070
+What I want you to do is read through the documentation in the instructor notes,
+
+48
+00:02:37,070 --> 00:02:41,565
+and then I want you to use these variables name and module in a new program.
+
+49
+00:02:41,565 --> 00:02:45,640
+Once you've done that, please come back to the screen and check this box.
+

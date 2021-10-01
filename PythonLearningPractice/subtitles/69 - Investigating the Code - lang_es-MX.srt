@@ -1,0 +1,192 @@
+1
+00:00:00,400 --> 00:00:05,540
+Bien, la mejor manera para averiguar acerca de cualquier cosa es buscándolo en Google. Así que he escrito
+
+2
+00:00:05,540 --> 00:00:09,310
+palabra clave from de Python. He escaneado todos los resultados
+
+3
+00:00:09,310 --> 00:00:12,440
+disponibles y luego a partir de ahí llegué
+
+4
+00:00:12,440 --> 00:00:17,070
+a esta página web. Por cierto, el enlace a este sitio web también está disponible en las
+
+5
+00:00:17,070 --> 00:00:21,130
+notas del instructor. Ahora bien, esta página web dice que la declaración from de Python
+
+6
+00:00:21,130 --> 00:00:25,770
+les permite importar atributos específicos de un módulo. Entonces
+
+7
+00:00:25,770 --> 00:00:31,560
+supongo que les permite decir importar algo desde el módulo o nombre de archivo. Entonces supongo
+
+8
+00:00:31,560 --> 00:00:33,790
+que nuestro código que quiere decir, que a partir de
+
+9
+00:00:33,790 --> 00:00:39,180
+algo llamado twilio.rest, queremos importar TwilioRestClient.
+
+10
+00:00:39,180 --> 00:00:41,340
+Bien, me dio curiosidad acerca de lo que eran
+
+11
+00:00:41,340 --> 00:00:45,980
+estas cosas llamadas twilio.rest y TwilioRestClient Entonces
+
+12
+00:00:45,980 --> 00:00:48,030
+volví a Google y traté
+
+13
+00:00:48,030 --> 00:00:51,260
+de averiguar cómo se ejecuta realmente Twilio,
+
+14
+00:00:51,260 --> 00:00:55,610
+por lo que escribí: twilio código python. Entonces
+
+15
+00:00:55,610 --> 00:00:57,820
+observé estos resultados y fui a
+
+16
+00:00:57,820 --> 00:01:02,300
+este sitio web llamado GitHub. Aquí pude leer
+
+17
+00:01:02,300 --> 00:01:05,530
+todo el código que realmente hace que Twilio funcione
+
+18
+00:01:05,530 --> 00:01:08,260
+detrás de escenas, por cierto, este enlace
+
+19
+00:01:08,260 --> 00:01:11,000
+también está disponible en las notas del instructor. Ahora en
+
+20
+00:01:11,000 --> 00:01:13,480
+el código para twilio me doy cuenta que había
+
+21
+00:01:13,480 --> 00:01:16,640
+una carpeta llamada twilio por lo que le di clic,
+
+22
+00:01:16,640 --> 00:01:21,970
+dentro de esa carpeta está otra carpeta llamada rest. Y dentro de
+
+23
+00:01:21,970 --> 00:01:27,520
+rest hay un archivo Python que, si observamos, encontraremos que hay
+
+24
+00:01:27,520 --> 00:01:32,600
+una clase en su interior llamada TwilioRestClient. Así que cuando escribimos esta línea
+
+25
+00:01:32,600 --> 00:01:38,200
+de código from twilio.rest import TwilioRestClient
+
+26
+00:01:38,200 --> 00:01:42,640
+lo que le estamos diciendo a la computadora es, hey, dentro twilio, hay
+
+27
+00:01:42,640 --> 00:01:46,360
+una carpeta llamada rest y dentro de esa carpeta
+
+28
+00:01:46,360 --> 00:01:49,810
+hay una clase llamada TwilioRestClient y
+
+29
+00:01:49,810 --> 00:01:53,010
+vamos a utilizar esa clase dentro de nuestro código. Y
+
+30
+00:01:53,010 --> 00:01:55,260
+si volvemos y miramos en nuestro código aquí
+
+31
+00:01:55,260 --> 00:01:57,510
+es cómo estamos utilizando esa clase TwilioRest
+
+32
+00:01:57,510 --> 00:02:00,870
+Client. Bueno, sabes, si estuviéramos escribiendo este código
+
+33
+00:02:00,870 --> 00:02:03,760
+desde cero probablemente no hubiéramos escrito esta línea
+
+34
+00:02:03,760 --> 00:02:07,796
+de código. La hubiéramos modificado para que dijera from
+
+35
+00:02:07,796 --> 00:02:15,020
+twilio import rest Ahora, con esta línea de código, lo que le estamos diciendo a la computadora
+
+36
+00:02:15,020 --> 00:02:18,280
+es, oye dentro de la carpeta Twilio
+
+37
+00:02:18,280 --> 00:02:21,390
+hay otra carpeta llamada rest, Impórtala porque
+
+38
+00:02:21,390 --> 00:02:24,850
+la vamos a usar en nuestro programa y ​​sabemos que dentro de la carpeta
+
+39
+00:02:24,850 --> 00:02:29,090
+rest está la clase TwilioRestClient. Entonces, ahora
+
+40
+00:02:29,090 --> 00:02:34,180
+accesaría a esa clase diciendo rest.TwilioRestClient.
+
+41
+00:02:34,180 --> 00:02:37,450
+Permítanme guardar y ejecutar este programa una
+
+42
+00:02:37,450 --> 00:02:40,470
+vez más para ver si todavía funciona. ¿De acuerdo?
+
+43
+00:02:40,470 --> 00:02:42,530
+Aquí está mi teléfono y vamos a ver si recibo
+
+44
+00:02:42,530 --> 00:02:45,830
+un mensaje de texto en breve.[SONIDO] !Ajá¡ Aquí está
+
+45
+00:02:45,830 --> 00:02:47,920
+el mensaje de texto, parece que nuestro programa sigue
+
+46
+00:02:47,920 --> 00:02:50,500
+funcionando. Bien, en el siguiente video lo que quiero
+
+47
+00:02:50,500 --> 00:02:54,890
+repasar la idea de como twilio, rest
+
+48
+00:02:54,890 --> 00:02:57,660
+y TwilioRestClient se relacionan el uno con el otro.
+

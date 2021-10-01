@@ -1,0 +1,92 @@
+1
+00:00:00,240 --> 00:00:02,360
+A próxima etapa em nosso plano é verificar se há palavrões
+
+2
+00:00:02,360 --> 00:00:05,710
+no texto. Para tanto,
+
+3
+00:00:05,710 --> 00:00:08,310
+pesquisei na Internet e descobri
+
+4
+00:00:08,310 --> 00:00:14,010
+este site chamado wdyl.com, ou "what do you love". Este
+
+5
+00:00:14,010 --> 00:00:16,430
+site foi desenvolvido pelo Google e
+
+6
+00:00:16,430 --> 00:00:18,870
+nos diz se
+
+7
+00:00:18,870 --> 00:00:22,060
+uma palavra é ou não um palavrão. Se
+
+8
+00:00:22,060 --> 00:00:25,500
+acessar o link de palavrões do site, que é
+
+9
+00:00:26,630 --> 00:00:30,030
+profanity?q e está
+
+10
+00:00:30,030 --> 00:00:32,180
+disponível nas Notas do instrutor,
+
+11
+00:00:32,180 --> 00:00:35,920
+e tentar a palavra shot,
+
+12
+00:00:35,920 --> 00:00:39,590
+vejamos o que acontece: a resposta do site é false,
+
+13
+00:00:39,590 --> 00:00:44,750
+o que significa que essa palavra não é um palavrão. Mas, se
+
+14
+00:00:44,750 --> 00:00:47,890
+alterar uma letra dessa palavra e
+
+15
+00:00:47,890 --> 00:00:51,770
+pressionar Enter, a resposta será um pouco diferente.
+
+16
+00:00:51,770 --> 00:00:56,170
+É possível inserir até mesmo um frase ou parágrafo. Assim, em vez de
+
+17
+00:00:56,170 --> 00:01:02,890
+uma palavra, insiro I can take a shot at it e pressiono
+
+18
+00:01:02,890 --> 00:01:08,200
+Enter. A resposta é false, o que significa que não há problema com essa frase. Mas, se eu
+
+19
+00:01:08,200 --> 00:01:13,300
+alterar uma palavra nessa frase, digamos I can...
+
+20
+00:01:15,930 --> 00:01:18,910
+e pressionar Enter, a resposta será
+
+21
+00:01:18,910 --> 00:01:20,740
+true, o que significa que há um palavrão
+
+22
+00:01:20,740 --> 00:01:22,380
+na frase. [SOUND] Agora, só precisamos continuar
+
+23
+00:01:22,380 --> 00:01:25,690
+fazendo isso, mas usando códigos.
+

@@ -1,0 +1,104 @@
+1
+00:00:00,350 --> 00:00:05,260
+Bien, he vuelto a mi código y he pegado tanto el account_sid y el
+
+2
+00:00:05,260 --> 00:00:09,730
+identificador de autorización en mi programa. Lo siguiente que quiero cambiar es
+
+3
+00:00:09,730 --> 00:00:14,000
+el cuerpo del mensaje de texto. Lo voy a cambiar a algo que realmente quiero
+
+4
+00:00:14,000 --> 00:00:19,070
+enviar que es ¿Mi nombre es Ron Burgandy?
+
+5
+00:00:20,470 --> 00:00:25,530
+Con signos de interrogación. Bueno, para este número 'para' los comentarios en el código
+
+6
+00:00:25,530 --> 00:00:28,350
+sugieren que tengo que reemplazarlo con mi
+
+7
+00:00:28,350 --> 00:00:32,159
+número de teléfono. Por lo tanto, voy a seleccionar y cambiar
+
+8
+00:00:32,159 --> 00:00:35,590
+esto con mi número de teléfono con mi código de país.
+
+9
+00:00:35,590 --> 00:00:37,500
+Por cierto, este es también el número que
+
+10
+00:00:37,500 --> 00:00:41,930
+registré previamente con Twilio. Después dicen que tengo que remplazar el
+
+11
+00:00:41,930 --> 00:00:44,460
+número desde con mí número de
+
+12
+00:00:44,460 --> 00:00:47,950
+Twilio. Bueno, recuerdo que Twilio realmente me dio
+
+13
+00:00:47,950 --> 00:00:50,790
+un número de teléfono, pero no lo guardé del todo bien.
+
+14
+00:00:50,790 --> 00:00:53,310
+Bien, si vuelvo a la página de mis cuentas, y hago clic
+
+15
+00:00:53,310 --> 00:00:59,210
+en Números. puedo obtener mi número de teléfono de Twilio. De acuerdo,
+
+16
+00:00:59,210 --> 00:01:02,720
+de vuelta al código y ahora puedo cambiar ese número junto
+
+17
+00:01:02,720 --> 00:01:07,140
+con el código de país. Enseguida, voy a guardar y ejecutar mi programa
+
+18
+00:01:09,660 --> 00:01:11,480
+y este es el teléfono donde voy a recibir
+
+19
+00:01:11,480 --> 00:01:13,940
+el mensaje de texto. Así que sólo le voy a dar mi programa
+
+20
+00:01:13,940 --> 00:01:16,660
+unos segundos, oh, ahí está, ahí está mi
+
+21
+00:01:16,660 --> 00:01:19,870
+mensaje de texto. Permítanme leerlo. Es probable que no lo puedan leer, pero
+
+22
+00:01:19,870 --> 00:01:24,540
+dice ¿Mi nombre es Ron Burgandy? Está bien,
+
+23
+00:01:24,540 --> 00:01:27,930
+realmente me sorprende que unas pocas líneas de código como estas
+
+24
+00:01:27,930 --> 00:01:31,260
+puedan ayudarnos a enviar un mensaje de texto. Muy bien, ahora que
+
+25
+00:01:31,260 --> 00:01:34,710
+que este código ha funcionado, vamos a descifrar lo que realmente está pasando
+
+26
+00:01:34,710 --> 00:01:35,420
+con este código.
+

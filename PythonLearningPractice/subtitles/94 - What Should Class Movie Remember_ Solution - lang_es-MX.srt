@@ -1,0 +1,60 @@
+1
+00:00:00,460 --> 00:00:03,020
+Bien. lo cierto es que la clase Movie
+
+2
+00:00:03,020 --> 00:00:05,574
+puede contener lo que queramos que contenga Y
+
+3
+00:00:05,574 --> 00:00:08,390
+en este caso, voy a elegir el título
+
+4
+00:00:08,390 --> 00:00:13,494
+de la película, su youtube_trailer, sus opiniones, la trama y su
+
+5
+00:00:13,494 --> 00:00:16,880
+poster_image. Bueno, esa decisión querrá decir que si
+
+6
+00:00:16,880 --> 00:00:20,920
+dije algo como toy_story.storyline. El programa imprimirá
+
+7
+00:00:20,920 --> 00:00:25,475
+esto. La historia de un niño y sus juguetes que cobran vida, y si dijera,
+
+8
+00:00:25,475 --> 00:00:29,170
+avatar.show_trailer, el programa reproduciría el avance
+
+9
+00:00:29,170 --> 00:00:32,980
+de Avatar de YouTube Así pues, en resumen, al diseñar la clase
+
+10
+00:00:32,980 --> 00:00:36,390
+Movie, probablemente queremos recordar información como
+
+11
+00:00:36,390 --> 00:00:40,110
+el título de la película, su trama, su póster
+
+12
+00:00:40,110 --> 00:00:44,410
+y el enlace a su avance de YouTube. Y algo que quizás queramos hacer
+
+13
+00:00:44,410 --> 00:00:46,740
+con estos datos, es tener una función
+
+14
+00:00:46,740 --> 00:00:50,840
+show_trailer() que abra el avance de YouTube de la película.
+
+15
+00:00:50,840 --> 00:00:53,170
+Perfecto, vamos a convertir este diseño en código.
+

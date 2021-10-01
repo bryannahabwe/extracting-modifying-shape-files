@@ -1,0 +1,32 @@
+1
+00:00:00,240 --> 00:00:03,810
+Gracias por compartir sus historias. Bien, este es un documento con cierto
+
+2
+00:00:03,810 --> 00:00:08,170
+texto para el que quiero revisar su uso de mal lenguaje. Bien, el programa que he escrito,
+
+3
+00:00:08,170 --> 00:00:13,260
+lee el texto de este documento y luego revisa si contiene lenguaje obsceno. Y
+
+4
+00:00:13,260 --> 00:00:16,710
+cuando ejecuto mi programa, que por cierto se esconde detrás de este gráfico,
+
+5
+00:00:19,470 --> 00:00:23,220
+dice que el documento no tiene lenguaje obsceno. Pero si
+
+6
+00:00:23,220 --> 00:00:25,960
+vuelvo a mi documento y agrego una mala palabra.
+
+7
+00:00:27,990 --> 00:00:32,700
+Ahí tienen Déjenme guardar este documento. Y ahora si
+
+8
+00:00:32,700 --> 00:00:37,820
+ejecuto mi programa de nuevo, detecta la mala palabra. Vamos a diseñar este programa.
+

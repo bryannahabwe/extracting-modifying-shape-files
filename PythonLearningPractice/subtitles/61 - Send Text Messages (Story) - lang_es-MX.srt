@@ -1,0 +1,48 @@
+1
+00:00:00,170 --> 00:00:04,990
+Bien, todos hemos utilizado nuestros teléfonos para enviar mensajes de texto Pero a veces existe la
+
+2
+00:00:04,990 --> 00:00:08,280
+necesidad de código para enviar textos. Consideren lo
+
+3
+00:00:08,280 --> 00:00:11,360
+siguiente. Las compañías de taxis envían mensajes de texto a sus
+
+4
+00:00:11,360 --> 00:00:13,730
+pasajeros informándoles de la ubicación
+
+5
+00:00:13,730 --> 00:00:18,200
+del conductor. Los sitios de citas ayudan a las parejas potenciales a comunicarse
+
+6
+00:00:18,200 --> 00:00:21,130
+entre si utilizando mensajes de texto, pero sin compartir
+
+7
+00:00:21,130 --> 00:00:25,520
+sus números de teléfono. Para hacer que la autenticación sea más segura, Gmail envía
+
+8
+00:00:25,520 --> 00:00:29,590
+a sus usuarios un código de seguridad a través de un mensaje de texto. El usuario de Gmail puede
+
+9
+00:00:29,590 --> 00:00:30,710
+entonces utilizar este código además de su
+
+10
+00:00:30,710 --> 00:00:34,840
+contraseña. Las organizaciones de venta al menudeo comunican sus ofertas del día a
+
+11
+00:00:34,840 --> 00:00:39,010
+sus clientes, mediante el uso de mensajes de texto. Este caso de uso parece importante para muchas
+
+12
+00:00:39,010 --> 00:00:42,630
+empresas diferentes, pero ¿qué tiene que ver con clases y objetos?
+

@@ -1,0 +1,16 @@
+1
+00:00:00,380 --> 00:00:05,750
+Escribí un programa que ahora está oculto detrás de este gráfico. Si lo ejecuto,
+
+2
+00:00:06,840 --> 00:00:12,479
+empieza a dibujar cuadrados. Y de estos cuadrados surge un círculo.
+
+3
+00:00:12,479 --> 00:00:22,479
+[MÚSICA]
+
+4
+00:00:27,918 --> 00:00:31,057
+Dibujemos una figura y aprendamos sobre clases al mismo tiempo.
+

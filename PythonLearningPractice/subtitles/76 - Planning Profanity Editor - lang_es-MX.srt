@@ -1,0 +1,32 @@
+1
+00:00:00,230 --> 00:00:02,565
+Bien, antes de escribir este programa, déjenme
+
+2
+00:00:02,565 --> 00:00:05,880
+preguntarles. Si estuvieran escribiendo el programa de revisión de lenguaje obsceno,
+
+3
+00:00:05,880 --> 00:00:07,400
+¿Qué pasos tomarían para obtener
+
+4
+00:00:07,400 --> 00:00:10,850
+el resultado? Bueno, no se preocupen por escribir ahora el código.
+
+5
+00:00:10,850 --> 00:00:13,520
+En lenguaje sencillo, simplemente describan los pasos que
+
+6
+00:00:13,520 --> 00:00:16,250
+necesitan para lograr el resultado. Una vez
+
+7
+00:00:16,250 --> 00:00:18,490
+que hayan presentado sus respuestas en el foro,
+
+8
+00:00:18,490 --> 00:00:20,210
+no olviden marcar esta casilla antes de continuar.
+

@@ -1,0 +1,136 @@
+1
+00:00:00,260 --> 00:00:03,220
+Agradecemos por compartilhar suas respostas no fórum. Na
+
+2
+00:00:03,220 --> 00:00:05,970
+criação de todos esses códigos, vimos muitos
+
+3
+00:00:05,970 --> 00:00:09,380
+termos novos. Vamos revisá-los! Tenho aqui
+
+4
+00:00:09,380 --> 00:00:11,860
+meus dois arquivos de programação na tela
+
+5
+00:00:11,860 --> 00:00:15,060
+ao mesmo tempo. Este é o primeiro arquivo de programação, no qual
+
+6
+00:00:15,060 --> 00:00:18,660
+estou criando a classe Movie. E o segundo, em que defino as instâncias
+
+7
+00:00:18,660 --> 00:00:23,130
+dessa classe, como toy_story e avatar. Talvez você
+
+8
+00:00:23,130 --> 00:00:25,450
+precise passar ao modo de tela inteira
+
+9
+00:00:25,450 --> 00:00:28,080
+para ler todos os detalhes na tela.
+
+10
+00:00:28,080 --> 00:00:30,950
+Ok, vamos começar revisando todos os novos termos.
+
+11
+00:00:30,950 --> 00:00:33,980
+Inicialmente, definimos uma classe. A
+
+12
+00:00:33,980 --> 00:00:37,560
+palavra-chave class nos permite criar classes. Você pode pensar em uma classe
+
+13
+00:00:37,560 --> 00:00:40,160
+como uma planta de edifício. Uma classe
+
+14
+00:00:40,160 --> 00:00:44,420
+pode ter dados e métodos. É possível
+
+15
+00:00:44,420 --> 00:00:47,630
+criar várias instâncias de uma classe. No caso,
+
+16
+00:00:47,630 --> 00:00:50,920
+criamos instâncias como toy_story e avatar. Poderíamos
+
+17
+00:00:50,920 --> 00:00:53,830
+ter criado muitas outras. Quando criamos
+
+18
+00:00:53,830 --> 00:00:56,159
+a instância de uma classe, como
+
+19
+00:00:56,159 --> 00:01:00,030
+toy_story, o construtor de classes é chamado. Ele é
+
+20
+00:01:00,030 --> 00:01:02,960
+essencialmente o método init na classe. É
+
+21
+00:01:02,960 --> 00:01:05,300
+aqui que inicializamos todos os dados
+
+22
+00:01:05,300 --> 00:01:09,500
+associados à instância. O construtor usa a palavra-chave
+
+23
+00:01:09,500 --> 00:01:12,430
+self. Você pode pensar em self como sendo
+
+24
+00:01:12,430 --> 00:01:16,144
+a instância em questão. Quando a
+
+25
+00:01:16,144 --> 00:01:19,904
+instância toy_story está sendo criada, self é
+
+26
+00:01:19,904 --> 00:01:23,460
+toy_story. Todas as variáveis associadas a uma
+
+27
+00:01:23,460 --> 00:01:27,420
+instância específica são chamadas de variáveis de instância. Elas são
+
+28
+00:01:27,420 --> 00:01:29,860
+exclusivas de um objeto e podem ser acessadas usando
+
+29
+00:01:29,860 --> 00:01:32,430
+a palavra-chave self na classe e o
+
+30
+00:01:32,430 --> 00:01:36,100
+nome da instância fora da classe. Finalmente, todas as
+
+31
+00:01:36,100 --> 00:01:38,760
+funções na classe que estão associadas a uma
+
+32
+00:01:38,760 --> 00:01:41,200
+instância e têm self como primeiro argumento
+
+33
+00:01:41,200 --> 00:01:45,810
+são chamadas de métodos de instância. Então é isso. Todos os novos termos
+
+34
+00:01:45,810 --> 00:01:48,860
+que aprendemos até agora em uma tela.
+

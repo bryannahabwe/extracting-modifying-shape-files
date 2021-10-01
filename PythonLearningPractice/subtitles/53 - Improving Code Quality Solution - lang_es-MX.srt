@@ -1,0 +1,72 @@
+1
+00:00:00,530 --> 00:00:02,600
+Le hice algunos cambios al código, veamos
+
+2
+00:00:02,600 --> 00:00:05,860
+si están de acuerdo con ellos. En la función draw_square,
+
+3
+00:00:05,860 --> 00:00:08,370
+ahora uso un ciclo, y este ciclo hace
+
+4
+00:00:08,370 --> 00:00:12,430
+mis tareas repetitivas, tareas como mover a la tortuga hacia adelante y girarla
+
+5
+00:00:12,430 --> 00:00:16,650
+a la derecha, y este ciclo se ejecuta cuatro veces. Luego, creé
+
+6
+00:00:16,650 --> 00:00:19,840
+una nueva función llamada draw_art. En esta función
+
+7
+00:00:19,840 --> 00:00:22,060
+creé una pantalla de ventana. Ésta es la pantalla que tiene
+
+8
+00:00:22,060 --> 00:00:25,620
+el color del fondo como rojo, y luego cree mi primer
+
+9
+00:00:25,620 --> 00:00:29,350
+turtle, al cual nombre brad. Puedo cambiar la forma,
+
+10
+00:00:29,350 --> 00:00:32,299
+el color y la velocidad de brad, y luego llamo la función
+
+11
+00:00:32,299 --> 00:00:34,990
+draw_square, de manera que pueda realmente dibujar mi primer
+
+12
+00:00:34,990 --> 00:00:39,196
+cuadrado. Después de eso, creo mi segundo turtle, angie. Y
+
+13
+00:00:39,196 --> 00:00:41,800
+aquí está la forma y el color de angie. Y luego angie
+
+14
+00:00:41,800 --> 00:00:44,560
+dibuja un círculo. Luego, hacia el final, llamo
+
+15
+00:00:44,560 --> 00:00:47,540
+la función draw_art que está justo aquí. Bien, permítanme
+
+16
+00:00:47,540 --> 00:00:50,630
+continuar y guardar, y ejecutar este programa para
+
+17
+00:00:50,630 --> 00:00:53,672
+asegurarme de que todo se ejecute bien. Y aquí tenemos a nuestros dos
+
+18
+00:00:53,672 --> 00:00:56,550
+turtles. Uno dibuja un cuadrado y el otro dibuja un círculo.
+

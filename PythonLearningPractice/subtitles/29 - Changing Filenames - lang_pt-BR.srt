@@ -1,0 +1,36 @@
+1
+00:00:00,240 --> 00:00:02,860
+Vamos à segunda etapa agora, que é
+
+2
+00:00:02,860 --> 00:00:06,010
+renomear os arquivos. Forneci o link para a
+
+3
+00:00:06,010 --> 00:00:10,750
+documentação do módulo OS nas Notas do instrutor.
+
+4
+00:00:10,750 --> 00:00:13,500
+Quero que você verifique essa documentação e descubra
+
+5
+00:00:13,500 --> 00:00:16,960
+qual função podemos usar para renomear arquivos.
+
+6
+00:00:16,960 --> 00:00:19,130
+É muito comum que esse tipo de pesquisa
+
+7
+00:00:19,130 --> 00:00:22,860
+seja feito por engenheiros de software. Após encontrar
+
+8
+00:00:22,860 --> 00:00:25,560
+a função, insira o nome dela na
+
+9
+00:00:25,560 --> 00:00:26,320
+caixa fornecida.
+

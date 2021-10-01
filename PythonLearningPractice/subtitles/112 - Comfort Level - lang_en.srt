@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,310
+Thank you for sharing your responses with us.
+
+2
+00:00:02,310 --> 00:00:05,710
+I look forward to going through all of them on the discussion forum.
+
+3
+00:00:05,710 --> 00:00:08,025
+Now that we've finished building our movie website,
+
+4
+00:00:08,025 --> 00:00:10,860
+I want to ask you this question one more time.
+
+5
+00:00:10,860 --> 00:00:16,080
+How comfortable do you feel in your current ability to write computer programs?
+
+6
+00:00:16,080 --> 00:00:17,430
+Here are some answer choices.
+

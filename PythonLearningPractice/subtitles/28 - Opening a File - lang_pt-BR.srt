@@ -1,0 +1,156 @@
+1
+00:00:00,210 --> 00:00:02,090
+Você pode fazer isso com os arquivos existentes no seu
+
+2
+00:00:02,090 --> 00:00:05,230
+computador, mas, se quiser seguir este exemplo,
+
+3
+00:00:05,230 --> 00:00:07,540
+fique à vontade para baixar o arquivo zip nas Notas do
+
+4
+00:00:07,540 --> 00:00:11,460
+instrutor. Ao descompactar o arquivo, você verá uma pasta
+
+5
+00:00:11,460 --> 00:00:15,670
+muito parecida com esta, com cerca de 50 fotos. Até agora, o que
+
+6
+00:00:15,670 --> 00:00:17,820
+eu fiz foi criar um novo
+
+7
+00:00:17,820 --> 00:00:23,180
+arquivo no Idle, que chamei de rename_files.py. Nele,
+
+8
+00:00:23,180 --> 00:00:25,460
+criei uma função vazia com o mesmo nome.
+
+9
+00:00:26,570 --> 00:00:31,090
+Depois, adicionei comentários sobre as duas tarefas principais do programa. Observe que
+
+10
+00:00:31,090 --> 00:00:33,330
+a função, no momento, está
+
+11
+00:00:33,330 --> 00:00:36,220
+vazia. Se eu salvasse e executasse o programa, ela
+
+12
+00:00:36,220 --> 00:00:39,780
+essencialmente não faria nada. A primeira coisa a fazer é
+
+13
+00:00:39,780 --> 00:00:41,990
+obter os nomes de arquivo de uma determinada
+
+14
+00:00:41,990 --> 00:00:45,400
+pasta. O Google pode ajudar com isso. Basta
+
+15
+00:00:45,400 --> 00:00:51,340
+digitar "Localizar nomes de arquivo em uma pasta no
+
+16
+00:00:51,340 --> 00:00:54,460
+Python". Leio os resultados e
+
+17
+00:00:54,460 --> 00:00:58,100
+vejo essa página stackoverflow.com. Nela,
+
+18
+00:00:58,100 --> 00:01:02,270
+vejo que há algo chamado os.listdir,
+
+19
+00:01:02,270 --> 00:01:04,300
+que obterá tudo o que há em determinado
+
+20
+00:01:04,300 --> 00:01:06,780
+diretório. Há um
+
+21
+00:01:06,780 --> 00:01:10,970
+módulo no Python chamado "os", abreviação de sistema operacional,
+
+22
+00:01:10,970 --> 00:01:13,500
+com uma função chamada listdir.
+
+23
+00:01:13,500 --> 00:01:16,360
+Essa função, como o nome sugere, lista tudo que estiver em um
+
+24
+00:01:16,360 --> 00:01:18,890
+determinado diretório. Vamos adicionar isso ao
+
+25
+00:01:18,890 --> 00:01:22,350
+código e ver o que acontece. Essa função
+
+26
+00:01:22,350 --> 00:01:24,890
+utiliza o caminho da pasta que contém as
+
+27
+00:01:24,890 --> 00:01:29,323
+fotos. Assim, volto à pasta. Copio e
+
+28
+00:01:29,323 --> 00:01:32,760
+colo o endereço dela. Para quem estiver usando
+
+29
+00:01:32,760 --> 00:01:35,270
+Mac, é possível usar um documento nas
+
+30
+00:01:35,270 --> 00:01:37,580
+notas do instrutor que ajudará a obter o caminho
+
+31
+00:01:37,580 --> 00:01:41,595
+da pasta. No Windows logo no
+
+32
+00:01:41,595 --> 00:01:44,090
+início do caminho, adicionarei
+
+33
+00:01:44,090 --> 00:01:48,210
+a letra r, que significa rawpack, e
+
+34
+00:01:48,210 --> 00:01:50,560
+diz ao Python para usar essa string como
+
+35
+00:01:50,560 --> 00:01:53,980
+estiver e não interpretá-la de nenhum outra forma. Salvo
+
+36
+00:01:53,980 --> 00:01:59,510
+isso em uma variável e imprimo. Salvo
+
+37
+00:02:01,260 --> 00:02:06,690
+e executo e temos uma lista de todos os nomes de arquivo naquela pasta.
+
+38
+00:02:06,690 --> 00:02:08,574
+É uma lista horrorosa, mas é
+
+39
+00:02:08,574 --> 00:02:12,470
+uma lista. Muito bem, a primeira etapa do programa está concluída.
+

@@ -1,0 +1,32 @@
+1
+00:00:00,240 --> 00:00:03,810
+Agradecemos por compartilhar suas histórias. Aqui está um documento
+
+2
+00:00:03,810 --> 00:00:08,170
+que quero verificar quanto a palavrões no texto. O programa que criei
+
+3
+00:00:08,170 --> 00:00:13,260
+lê o texto deste documento e verifica se há palavrões. Quando
+
+4
+00:00:13,260 --> 00:00:16,710
+executo o programa, que está oculto atrás deste gráfico,
+
+5
+00:00:19,470 --> 00:00:23,220
+ele diz que não há palavrões no documento. Mas se voltar
+
+6
+00:00:23,220 --> 00:00:25,960
+ao documento e adicionar um palavrão,
+
+7
+00:00:27,990 --> 00:00:32,700
+pronto. Vou salvar o documento. Se
+
+8
+00:00:32,700 --> 00:00:37,820
+executar o programa novamente, ele detectará o palavrão. Vamos desenvolver esse programa.
+

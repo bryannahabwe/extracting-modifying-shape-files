@@ -1,0 +1,140 @@
+1
+00:00:00,440 --> 00:00:04,640
+Quero renomear todos os meus arquivos. Lembro-me de que há cerca de
+
+2
+00:00:04,640 --> 00:00:08,010
+50 fotos na pasta que você baixou. Para
+
+3
+00:00:08,010 --> 00:00:10,490
+renomear 50 fotos, acho que terei que
+
+4
+00:00:10,490 --> 00:00:13,115
+usar algum tipo de loop. Vou
+
+5
+00:00:13,115 --> 00:00:18,615
+escrever um agora dizendo for file_name
+
+6
+00:00:18,615 --> 00:00:22,640
+in file_list. Lembre-se de que file_list é algo
+
+7
+00:00:22,640 --> 00:00:25,290
+que já vimos antes. Na verdade, até imprimimos.
+
+8
+00:00:25,290 --> 00:00:27,300
+Era uma lista de todas as fotos na
+
+9
+00:00:27,300 --> 00:00:29,680
+pasta. Este loop for nos
+
+10
+00:00:29,680 --> 00:00:33,170
+permitirá trabalhar com cada arquivo de foto,
+
+11
+00:00:33,170 --> 00:00:36,740
+um por vez. Quero alterar o nome
+
+12
+00:00:36,740 --> 00:00:41,510
+de cada foto. O nome anterior está em file_name. O
+
+13
+00:00:41,510 --> 00:00:44,380
+novo nome não deve apresentar
+
+14
+00:00:44,380 --> 00:00:47,740
+qualquer número. Mas ainda não sei
+
+15
+00:00:47,740 --> 00:00:51,710
+como fazer isso, o que significa que precisarei fazer alguns experimentos.
+
+16
+00:00:51,710 --> 00:00:54,090
+Para executar esses experimentos, em geral, uso
+
+17
+00:00:54,090 --> 00:00:57,340
+a janela do shell Python, onde basta digitar
+
+18
+00:00:57,340 --> 00:01:00,350
+e ver o resultado muito rapidamente. Vou ampliar
+
+19
+00:01:00,350 --> 00:01:01,940
+essa janela para que você possa vê-la
+
+20
+00:01:01,940 --> 00:01:05,425
+melhor. Digamos que o nome do arquivo fosse a
+
+21
+00:01:05,425 --> 00:01:10,950
+seguinte string: 48athens.jpg. Deixe-me imprimir isso,
+
+22
+00:01:10,950 --> 00:01:14,134
+muito bom. Pesquisei no Google anteriormente e descobri que
+
+23
+00:01:14,134 --> 00:01:16,848
+há uma função chamada translate, que usa
+
+24
+00:01:16,848 --> 00:01:19,551
+dois argumentos. O primeiro argumento é uma
+
+25
+00:01:19,551 --> 00:01:23,132
+tabela que converte um conjunto de caracteres em outro conjunto
+
+26
+00:01:23,132 --> 00:01:26,072
+de caracteres. Como não temos isso, posso
+
+27
+00:01:26,072 --> 00:01:28,834
+usar a palavra-chave none. O segundo é uma lista
+
+28
+00:01:28,834 --> 00:01:31,461
+de todos os caracteres que queremos remover
+
+29
+00:01:31,461 --> 00:01:34,077
+da string. Esses caracteres são números, portanto,
+
+30
+00:01:34,077 --> 00:01:37,204
+zero, um, dois, três, quatro, cinco, seis, sete,
+
+31
+00:01:37,204 --> 00:01:40,910
+oito, nove. Todos esses números. Vamos tentar isso.
+
+32
+00:01:41,910 --> 00:01:44,320
+O nome do arquivo agora não
+
+33
+00:01:44,320 --> 00:01:47,000
+apresenta qualquer número. Como esse experimento
+
+34
+00:01:47,000 --> 00:01:49,050
+funcionou, vou voltar ao código
+
+35
+00:01:49,050 --> 00:01:52,240
+e adicionar a função file_name.translate a ele.
+

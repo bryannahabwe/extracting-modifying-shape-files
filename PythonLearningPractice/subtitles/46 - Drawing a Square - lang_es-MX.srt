@@ -1,0 +1,148 @@
+1
+00:00:00,650 --> 00:00:03,380
+Okay Es hora de dibujar el cuadrado. Pero esta vez
+
+2
+00:00:03,380 --> 00:00:06,520
+utilizando la computadora. Así que cree un nuevo archivo de
+
+3
+00:00:06,520 --> 00:00:10,560
+Python y lo llamé mindstorms.py. Ustedes pueden haberlo
+
+4
+00:00:10,560 --> 00:00:13,110
+llamado de otro modo. Y luego, dentro de él, creé una
+
+5
+00:00:13,110 --> 00:00:17,170
+función llamada draw_square, la cual por ahora está vacía. Ahora,
+
+6
+00:00:17,170 --> 00:00:20,090
+sé que existe este módulo en Python llamado
+
+7
+00:00:20,090 --> 00:00:23,600
+turtle. Ésta es la cosa real que se mueve
+
+8
+00:00:23,600 --> 00:00:26,020
+y dibuja las cosas en la computadora. Por cierto,
+
+9
+00:00:26,020 --> 00:00:27,900
+los invito a averiguar por qué se le
+
+10
+00:00:27,900 --> 00:00:30,450
+llama turtle (tortuga) y no perro o gato.
+
+11
+00:00:31,560 --> 00:00:35,230
+Una forma de empezar a dibujar es poniendo turtle. Turtle.
+
+12
+00:00:35,230 --> 00:00:39,070
+Ahora bien, esta sintaxis es un poco rara y vamos
+
+13
+00:00:39,070 --> 00:00:41,510
+a entenderla al final de este video, pero
+
+14
+00:00:41,510 --> 00:00:44,400
+basta decir que así es como
+
+15
+00:00:44,400 --> 00:00:47,870
+captaremos turtle. La llamaré brad. Ahora, lo primero
+
+16
+00:00:47,870 --> 00:00:51,110
+que queremos hacer es mover a brad hacia adelante. Y para ello
+
+17
+00:00:51,110 --> 00:00:54,040
+podemos usar la función de avance. Esta función admite
+
+18
+00:00:54,040 --> 00:00:57,220
+un número, el cual es la distancia que queremos avanzar.
+
+19
+00:00:57,220 --> 00:00:59,420
+Ahora, sólo quiero ejecutar este código y ver
+
+20
+00:00:59,420 --> 00:01:03,150
+si funciona. Pero, ¿saben qué? Lo que olvidamos
+
+21
+00:01:03,150 --> 00:01:05,510
+es que aún no tenemos una pantalla en la que esta
+
+22
+00:01:05,510 --> 00:01:09,430
+turtle, es decir brad, va a moverse. En otras palabras,
+
+23
+00:01:09,430 --> 00:01:12,770
+necesitamos el equivalente de la alfombra roja en nuestro programa. Sé
+
+24
+00:01:12,770 --> 00:01:16,300
+que esto se hace agregando una pantalla de ventana, y esta ventana
+
+25
+00:01:16,300 --> 00:01:19,200
+va a tener un fondo rojo, y quiero poder cerrar
+
+26
+00:01:19,200 --> 00:01:23,230
+esta ventana en cualquier momento que haga clic en ella. Bien, vamos a guardar y a ejecutar este programa.
+
+27
+00:01:23,230 --> 00:01:28,270
+[AUDIO VACÍO]
+
+28
+00:01:28,270 --> 00:01:32,510
+Bien. Parece que tenemos una ventana con un fondo rojo y una tortuga
+
+29
+00:01:32,510 --> 00:01:36,980
+llamada brad que se ha movido 100 pasos hacia adelante. Okay, entonces regreso al código
+
+30
+00:01:36,980 --> 00:01:41,770
+y voy a terminar de hacer el cuadrado. Así que después de que brad se ha movido 100
+
+31
+00:01:41,770 --> 00:01:46,890
+pasos hacia adelante, quiero que gire a la derecha y que lo haga 90 grados. Entonces
+
+32
+00:01:46,890 --> 00:01:53,300
+puedo decir, brad.right 90, y ya que quiero
+
+33
+00:01:53,300 --> 00:01:58,180
+dar estos dos pasos de aquí cuatro veces para dibujar un cuadrado, tan sólo
+
+34
+00:01:58,180 --> 00:02:01,940
+los copiaré y pegaré unas veces. Así que copiaré estas dos líneas
+
+35
+00:02:04,360 --> 00:02:06,422
+y las pegaré. Segunda vez,
+
+36
+00:02:06,422 --> 00:02:11,630
+tercera vez, cuarta vez. Permítanme guardar y ejecutar.
+
+37
+00:02:15,880 --> 00:02:18,150
+Muy bien, parece que tenemos nuestro primer cuadrado.
+

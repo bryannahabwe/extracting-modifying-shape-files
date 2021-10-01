@@ -1,0 +1,12 @@
+1
+00:00:00,508 --> 00:00:04,630
+Así, acabamos de ver un ejemplo de cómo las funciones nos pueden ayudar a diseñar el programa
+
+2
+00:00:04,630 --> 00:00:07,370
+Toma un Descanso. Veamos otro ejemplo
+
+3
+00:00:07,370 --> 00:00:09,390
+de cómo las funciones pueden ayudar a hacer las cosas más fáciles.
+

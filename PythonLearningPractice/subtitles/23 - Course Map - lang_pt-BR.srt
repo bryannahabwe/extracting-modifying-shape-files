@@ -1,0 +1,13 @@
+1
+00:00:00,508 --> 00:00:04,630
+Acabamos de ver um exemplo de como as funções
+podem nos ajudar no design do programa
+
+2
+00:00:04,630 --> 00:00:07,370
+de intervalos. Vejamos outro
+
+3
+00:00:07,370 --> 00:00:09,390
+exemplo de como as funções podem facilitar as coisas.
+

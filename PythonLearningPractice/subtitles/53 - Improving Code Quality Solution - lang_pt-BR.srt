@@ -1,0 +1,72 @@
+1
+00:00:00,530 --> 00:00:02,600
+Fiz algumas alterações no código, veja
+
+2
+00:00:02,600 --> 00:00:05,860
+se você concorda com elas. Na função draw_square,
+
+3
+00:00:05,860 --> 00:00:08,370
+usei um loop para fazer as
+
+4
+00:00:08,370 --> 00:00:12,430
+tarefas repetitivas, como avançar e virar
+
+5
+00:00:12,430 --> 00:00:16,650
+à direita, que é executado quatro vezes. Criei
+
+6
+00:00:16,650 --> 00:00:19,840
+uma nova função chamada draw_art,
+
+7
+00:00:19,840 --> 00:00:22,060
+e nela criei a tela window. Esta é a tela com o
+
+8
+00:00:22,060 --> 00:00:25,620
+segundo plano em vermelho. Depois, criei meu primeiro
+
+9
+00:00:25,620 --> 00:00:29,350
+turtle, que chamei de brad. Altero a forma,
+
+10
+00:00:29,350 --> 00:00:32,299
+cor e velocidade de brad, e chamo a função draw_square
+
+11
+00:00:32,299 --> 00:00:34,990
+para que possa desenhar meu primeiro
+
+12
+00:00:34,990 --> 00:00:39,196
+quadrado. Depois disso, crio angie, meu segundo turtle. Aqui
+
+13
+00:00:39,196 --> 00:00:41,800
+estão a forma e a cor de angie, que
+
+14
+00:00:41,800 --> 00:00:44,560
+desenha um círculo. Ao final, chamo
+
+15
+00:00:44,560 --> 00:00:47,540
+a função draw_art. Vou
+
+16
+00:00:47,540 --> 00:00:50,630
+salvar e executar este programa para
+
+17
+00:00:50,630 --> 00:00:53,672
+ter certeza de que está tudo funcionando bem. Pronto, nossos dois
+
+18
+00:00:53,672 --> 00:00:56,550
+turtles. Um desenha um quadrado e o outro, um círculo.
+

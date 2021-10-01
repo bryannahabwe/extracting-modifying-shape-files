@@ -1,0 +1,156 @@
+1
+00:00:00,210 --> 00:00:02,090
+Ahora puedes hacer esto con los archivos existentes en tu
+
+2
+00:00:02,090 --> 00:00:05,230
+equipo, pero si quieres seguir este ejemplo,
+
+3
+00:00:05,230 --> 00:00:07,540
+no dudes en descargar el archivo zip en las notas
+
+4
+00:00:07,540 --> 00:00:11,460
+del instructor. Al descomprimir el archivo, tendrás una carpeta
+
+5
+00:00:11,460 --> 00:00:15,670
+muy parecida a esta, con alrededor de 50 fotos. Muy bien, así
+
+6
+00:00:15,670 --> 00:00:17,820
+que lo que hemos hecho hasta ahora es justamente crear un nuevo
+
+7
+00:00:17,820 --> 00:00:23,180
+archivo en IDLE, y lo llamé rename_files.py. Y dentro
+
+8
+00:00:23,180 --> 00:00:25,460
+de él, he creado una función vacía con el mismo nombre.
+
+9
+00:00:26,570 --> 00:00:31,090
+Luego he añadido comentarios de las dos cosas principales que tengo que hacer en mi programa. Por cierto,
+
+10
+00:00:31,090 --> 00:00:33,330
+observa que la función ahora está bastante
+
+11
+00:00:33,330 --> 00:00:36,220
+vacía, y si guardara y ejecutara el programa,
+
+12
+00:00:36,220 --> 00:00:39,780
+esencialmente no haría nada. Ahora, lo primero que tengo
+
+13
+00:00:39,780 --> 00:00:41,990
+que hacer, es conseguir los nombres de los archivos de una carpeta
+
+14
+00:00:41,990 --> 00:00:45,400
+determinada. Así que Google puede ayudar con eso. Permítame
+
+15
+00:00:45,400 --> 00:00:51,340
+escribir: Encontrar nombres de archivo en una carpeta en
+
+16
+00:00:51,340 --> 00:00:54,460
+Python. Ahora, he leído los resultados, y
+
+17
+00:00:54,460 --> 00:00:58,100
+llegué a esta páginas stackoverflow.com. Y aquí
+
+18
+00:00:58,100 --> 00:01:02,270
+leí que hay esta cosa llamada os.listdir,
+
+19
+00:01:02,270 --> 00:01:04,300
+que te dará todo lo que está en un directorio
+
+20
+00:01:04,300 --> 00:01:06,780
+dado. Ahora, resulta que hay un
+
+21
+00:01:06,780 --> 00:01:10,970
+módulo en Python llamado os, abreviatura de sistema operativo.
+
+22
+00:01:10,970 --> 00:01:13,500
+Y éste tiene una función dentro de él llamada listdir.
+
+23
+00:01:13,500 --> 00:01:16,360
+Lo cual, como su nombre indica, enumera todo lo que está en
+
+24
+00:01:16,360 --> 00:01:18,890
+un directorio dado. Así que vamos a añadir esto al
+
+25
+00:01:18,890 --> 00:01:22,350
+código y veremos lo que hace. Ahora bien, esta función listdir
+
+26
+00:01:22,350 --> 00:01:24,890
+toma una ruta de la carpeta que contiene nuestras
+
+27
+00:01:24,890 --> 00:01:29,323
+fotos. Así que voy a volver a mi carpeta. Copiaré su
+
+28
+00:01:29,323 --> 00:01:32,760
+dirección y la pegaré. Ahora, para aquellos de ustedes que
+
+29
+00:01:32,760 --> 00:01:35,270
+están en una Mac, pueden utilizar un documento en
+
+30
+00:01:35,270 --> 00:01:37,580
+las notas del instructor, que les ayudará a obtener la ruta
+
+31
+00:01:37,580 --> 00:01:41,595
+de su carpeta. En una máquina de Windows, sin embargo, justo antes de
+
+32
+00:01:41,595 --> 00:01:44,090
+donde comienza la ruta, voy a agregar esta
+
+33
+00:01:44,090 --> 00:01:48,210
+letra r, y r es sinónimo de rawpack, y
+
+34
+00:01:48,210 --> 00:01:50,560
+le dice a Python oye, toma esta cadena como
+
+35
+00:01:50,560 --> 00:01:53,980
+está y no la interpretes de ninguna otra manera. Así,
+
+36
+00:01:53,980 --> 00:01:59,510
+solo déjenme guardar esto en una variable, e imprimirlo. Voy a guardar y
+
+37
+00:02:01,260 --> 00:02:06,690
+luego a ejecutar y, oh wow, tenemos una lista de todos los nombres de los archivo dentro de esa carpeta.
+
+38
+00:02:06,690 --> 00:02:08,574
+No es una lista muy bonita, pero es una lista
+
+39
+00:02:08,574 --> 00:02:12,470
+de cualquier modo. Muy bien, el primer paso del programa se completó.
+

@@ -1,0 +1,104 @@
+1
+00:00:00,350 --> 00:00:05,260
+De volta ao código, colei account_sid e
+
+2
+00:00:05,260 --> 00:00:09,730
+auth_token no programa. A próxima alteração que quero fazer é
+
+3
+00:00:09,730 --> 00:00:14,000
+no corpo da mensagem de texto. Vou alterá-lo para o que quero enviar, que é
+
+4
+00:00:14,000 --> 00:00:19,070
+"My name is Ron Burgandy?" (Meu nome é Ron Burgandy?),
+
+5
+00:00:20,470 --> 00:00:25,530
+com um ponto de interrogação. Para este número "to", o código
+
+6
+00:00:25,530 --> 00:00:28,350
+sugere que é necessário substitui-lo pelo meu
+
+7
+00:00:28,350 --> 00:00:32,159
+número de telefone. Vou selecionar e alterar
+
+8
+00:00:32,159 --> 00:00:35,590
+isto pelo meu número de telefone com o código do país.
+
+9
+00:00:35,590 --> 00:00:37,500
+Este número também é o
+
+10
+00:00:37,500 --> 00:00:41,930
+que registrei no Twilio anteriormente. O código diz em seguida que é necessário substituir o número "from"
+
+11
+00:00:41,930 --> 00:00:44,460
+pelo meu número do
+
+12
+00:00:44,460 --> 00:00:47,950
+Twilio. Eu me lembro que o Twilio me forneceu
+
+13
+00:00:47,950 --> 00:00:50,790
+um número de telefone, mas não o salvei.
+
+14
+00:00:50,790 --> 00:00:53,310
+Assim, se voltar para a página da minha conta e clicar em
+
+15
+00:00:53,310 --> 00:00:59,210
+Numbers, poderei obter meu número de telefone do Twilio. Muito bem,
+
+16
+00:00:59,210 --> 00:01:02,720
+de volta ao código, já posso alterar o número juntamente
+
+17
+00:01:02,720 --> 00:01:07,140
+com o código do país. Vou salvar e executar o programa em seguida.
+
+18
+00:01:09,660 --> 00:01:11,480
+Este é o telefone em que receberei
+
+19
+00:01:11,480 --> 00:01:13,940
+a mensagem de texto. Darei ao programa
+
+20
+00:01:13,940 --> 00:01:16,660
+alguns segundos. Pronto, a
+
+21
+00:01:16,660 --> 00:01:19,870
+mensagem de texto chegou. Vou ler a mensagem. Você provavelmente não consegue ler, mas
+
+22
+00:01:19,870 --> 00:01:24,540
+está escrito My name is Ron Burgendy? Acho impressionante
+
+23
+00:01:24,540 --> 00:01:27,930
+que algumas linhas de códigos como esta
+
+24
+00:01:27,930 --> 00:01:31,260
+possam nos ajudar a enviar uma mensagem de texto. Agora que o código
+
+25
+00:01:31,260 --> 00:01:34,710
+funcionou, vamos descobrir o que
+
+26
+00:01:34,710 --> 00:01:35,420
+realmente acontece com ele.
+

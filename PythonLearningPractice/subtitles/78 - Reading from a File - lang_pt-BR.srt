@@ -1,0 +1,168 @@
+1
+00:00:00,290 --> 00:00:02,600
+Nosso plano para o projeto é o seguinte: Vou começar
+
+2
+00:00:02,600 --> 00:00:06,530
+pela primeira etapa, que é a leitura de texto. Este é o
+
+3
+00:00:06,530 --> 00:00:08,930
+arquivo no qual quero verificar se há palavrões. Por
+
+4
+00:00:08,930 --> 00:00:11,790
+enquanto, tenho algumas citações famosas de filmes aqui. Esse
+
+5
+00:00:11,790 --> 00:00:14,640
+arquivo poderia conter outros textos, como
+
+6
+00:00:14,640 --> 00:00:17,350
+o rascunho de um email ou um artigo que você escreveu. Denominei
+
+7
+00:00:17,350 --> 00:00:22,210
+esse arquivo de movie_quotes.txt. Se você quiser usar
+
+8
+00:00:22,210 --> 00:00:25,330
+esse arquivo específico no programa, ele está disponível para
+
+9
+00:00:25,330 --> 00:00:27,970
+download nas Notas do instrutor. Mas
+
+10
+00:00:27,970 --> 00:00:29,900
+fique à vontade para usar qualquer outro arquivo de texto do seu
+
+11
+00:00:29,900 --> 00:00:34,470
+computador. Ok, vamos começar a escrever o código. Eu criei
+
+12
+00:00:34,470 --> 00:00:38,830
+um programa chamado check_profanity.py. Você pode nomeá-lo
+
+13
+00:00:38,830 --> 00:00:41,730
+como quiser. Nele, criei
+
+14
+00:00:41,730 --> 00:00:45,610
+uma função chamada read_text, que está vazia por enquanto. Sei que
+
+15
+00:00:45,610 --> 00:00:48,290
+há uma função no Python chamada open,
+
+16
+00:00:48,290 --> 00:00:51,260
+que permite que você trabalhe com os arquivos do seu computador.
+
+17
+00:00:51,260 --> 00:00:56,010
+Essa função utiliza o endereço ou local do arquivo que você quer abrir.
+
+18
+00:00:56,010 --> 00:00:57,780
+Em uma máquina Windows, navego
+
+19
+00:00:57,780 --> 00:01:02,980
+até o arquivo movie_quotes.txt. Copio o local.
+
+20
+00:01:05,080 --> 00:01:07,500
+E colo. Depois, adiciono o nome do arquivo
+
+21
+00:01:07,500 --> 00:01:14,360
+que quero abrir, que é movie_quotes.txt. Se
+
+22
+00:01:14,360 --> 00:01:18,830
+você estiver no Mac, encontrará um documento útil nas notas do instrutor.
+
+23
+00:01:18,830 --> 00:01:23,450
+Esse documento dirá como descobrir o local do arquivo no Mac.
+
+24
+00:01:23,450 --> 00:01:26,700
+Vou me referir a esse arquivo como quotes.
+
+25
+00:01:26,700 --> 00:01:30,420
+Agora que já tenho uma maneira de acessar o movie_quotes.txt,
+
+26
+00:01:30,420 --> 00:01:32,920
+usarei uma função chamada read. Assim,
+
+27
+00:01:32,920 --> 00:01:38,320
+vou escrever quotes.read. Isso me permitirá
+
+28
+00:01:38,320 --> 00:01:41,290
+ler o conteúdo do arquivo movie_quotes. Salvo
+
+29
+00:01:41,290 --> 00:01:44,790
+isso em uma variável chamada contents_of_file. Deixe-me
+
+30
+00:01:44,790 --> 00:01:47,690
+imprimir esse conteúdo. Também
+
+31
+00:01:47,690 --> 00:01:50,340
+é indicado fechar qualquer arquivo aberto
+
+32
+00:01:50,340 --> 00:01:53,320
+pelo programa. Certo. Vou salvar
+
+33
+00:01:53,320 --> 00:01:55,600
+e executar esse programa e ver
+
+34
+00:01:55,600 --> 00:01:56,299
+o que acontece.
+
+35
+00:01:59,360 --> 00:02:02,400
+Pronto! A janela de saída é exibida com todas as
+
+36
+00:02:02,400 --> 00:02:04,380
+citações de filmes que lemos
+
+37
+00:02:04,380 --> 00:02:07,490
+no arquivo de texto. Não sei quanto a você, mas
+
+38
+00:02:07,490 --> 00:02:10,508
+acho impressionante que possamos ler
+
+39
+00:02:10,508 --> 00:02:12,720
+um arquivo de texto com apenas algumas linhas de
+
+40
+00:02:12,720 --> 00:02:16,570
+código. Muito bem, estou de volta ao programa. Antes
+
+41
+00:02:16,570 --> 00:02:19,880
+de continuar a executar o plano, vamos
+
+42
+00:02:19,880 --> 00:02:22,750
+saber um pouco mais sobre a função chamada open.
+

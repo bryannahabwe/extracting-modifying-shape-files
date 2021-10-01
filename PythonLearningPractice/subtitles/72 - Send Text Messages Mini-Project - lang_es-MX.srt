@@ -1,0 +1,40 @@
+1
+00:00:00,260 --> 00:00:04,370
+Felicidades por terminar otro proyecto. Aquí está su tarea.
+
+2
+00:00:04,370 --> 00:00:07,450
+Ahora que hemos visto clases en dos proyectos diferentes,
+
+3
+00:00:07,450 --> 00:00:10,190
+por ejemplo, con Turtle y TwilioRestClient,
+
+4
+00:00:10,190 --> 00:00:12,720
+queremos que contesten las siguientes preguntas en el
+
+5
+00:00:12,720 --> 00:00:16,059
+foro de discusión. La primera pregunta es, ¿qué es una clase?
+
+6
+00:00:17,100 --> 00:00:18,950
+La siguiente es, ¿qué es una instancia de
+
+7
+00:00:18,950 --> 00:00:22,720
+una clase? Y, por último, hasta ahora hemos comparado
+
+8
+00:00:22,720 --> 00:00:25,300
+una clase con un plano. ¿Puedes pensar en otra
+
+9
+00:00:25,300 --> 00:00:28,650
+analogía para explicar las clases? Asegúrense de marcar esta
+
+10
+00:00:28,650 --> 00:00:31,190
+casilla, después de presentar sus respuestas en el foro.
+

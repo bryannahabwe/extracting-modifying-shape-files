@@ -1,0 +1,50 @@
+1
+00:00:00,270 --> 00:00:03,210
+Esta é a documentação Python. Se rolar para baixo,
+
+2
+00:00:03,210 --> 00:00:06,980
+encontrarei o módulo OS. Vou clicar nele.
+
+3
+00:00:09,180 --> 00:00:14,030
+Aqui, podemos encontrar todas as funções OS que usamos.
+
+4
+00:00:14,030 --> 00:00:19,090
+Este é os.chdir, para mudar diretório,
+
+5
+00:00:19,090 --> 00:00:21,890
+e este é o e.getcwd, ou diretório de trabalho atual.
+
+6
+00:00:21,890 --> 00:00:26,810
+Vou rolar para baixo um pouco mais.
+Se fizer isso, encontrarei os.listdir,
+
+7
+00:00:26,810 --> 00:00:30,920
+que lista todos os arquivos em um
+determinado diretório. Se rolar ainda mais,
+
+8
+00:00:30,920 --> 00:00:34,290
+encontrarei os.rename. Quero fazer uma rápida
+
+9
+00:00:34,290 --> 00:00:37,190
+observação: mesmo que não saibamos como as
+
+10
+00:00:37,190 --> 00:00:41,350
+funções, como rename, funcionam nos bastidores, podemos
+
+11
+00:00:41,350 --> 00:00:45,740
+ler a documentação e usá-las sem problemas. Essa ocultação de
+
+12
+00:00:45,740 --> 00:00:50,340
+detalhes na documentação é chamada de abstração em Ciência da Computação.
+

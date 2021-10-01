@@ -1,0 +1,112 @@
+1
+00:00:00,310 --> 00:00:02,280
+Agradecemos por concluir suas tarefas. Fornecerei
+
+2
+00:00:02,280 --> 00:00:05,460
+feedback nos fóruns de discussão periodicamente.
+
+3
+00:00:05,460 --> 00:00:07,142
+Agora, quero falar de como o
+
+4
+00:00:07,142 --> 00:00:10,150
+Python sabe sobre o turtle.
+
+5
+00:00:10,150 --> 00:00:14,970
+Na biblioteca padrão Python, há um arquivo chamado
+
+6
+00:00:16,210 --> 00:00:20,620
+turtle. turtle com t minúsculo, e nesse
+
+7
+00:00:20,620 --> 00:00:25,870
+arquivo temos algo novo. Esse novo elemento é chamado de classe.
+
+8
+00:00:25,870 --> 00:00:29,840
+Uma classe Turtle com T maiúsculo, o que é
+
+9
+00:00:29,840 --> 00:00:31,330
+um pouco diferente do que vimos até
+
+10
+00:00:31,330 --> 00:00:33,700
+agora. O que já usamos
+
+11
+00:00:33,700 --> 00:00:38,010
+foi um tipo de arquivo, como webbrowser, ponto algum
+
+12
+00:00:38,010 --> 00:00:41,620
+tipo de função, como open. Mas não vimos
+
+13
+00:00:41,620 --> 00:00:45,390
+esse elemento chamado classe. O que suscita a pergunta o que
+
+14
+00:00:45,390 --> 00:00:47,450
+é uma classe? Por enquanto, você pode pensar em uma classe
+
+15
+00:00:47,450 --> 00:00:51,040
+como uma caixa embalada com perfeição que reúne muito bem
+
+16
+00:00:51,040 --> 00:00:53,500
+seu conteúdo. Ela nos permite escrever códigos como turtle.Turtle,
+
+17
+00:00:53,500 --> 00:00:58,850
+com estes parênteses de aparência
+
+18
+00:00:58,850 --> 00:01:03,920
+estranha, como se estivéssemos chamando uma função. Na verdade, quando executamos este código,
+
+19
+00:01:03,920 --> 00:01:06,060
+estamos chamando uma função
+
+20
+00:01:06,060 --> 00:01:09,670
+init, que é definida na
+
+21
+00:01:09,670 --> 00:01:13,400
+classe Turtle. Init significa inicializar e
+
+22
+00:01:13,400 --> 00:01:16,130
+cria espaço na memória para uma nova instância ou um
+
+23
+00:01:16,130 --> 00:01:20,960
+novo objeto da classe Turtle. Essa instância foi
+
+24
+00:01:20,960 --> 00:01:26,180
+chamada de brad. Brad pode acessar todos os métodos restantes na
+
+25
+00:01:26,180 --> 00:01:33,012
+classe Turtle. Como forward e right. Forward faz
+
+26
+00:01:33,012 --> 00:01:35,824
+brad virar para frente e right, para
+
+27
+00:01:35,824 --> 00:01:38,240
+a direita. Você não precisa acreditar no que falo,
+
+28
+00:01:38,240 --> 00:01:40,210
+vamos procurá-los na documentação.
+

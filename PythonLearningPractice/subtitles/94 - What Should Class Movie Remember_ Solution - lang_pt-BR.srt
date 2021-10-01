@@ -1,0 +1,60 @@
+1
+00:00:00,460 --> 00:00:03,020
+A verdade é que a classe Movie
+
+2
+00:00:03,020 --> 00:00:05,574
+pode conter o que quisermos. Neste
+
+3
+00:00:05,574 --> 00:00:08,390
+caso, selecionarei o título,
+
+4
+00:00:08,390 --> 00:00:13,494
+o trailer no Youtube, as críticas, a história e
+
+5
+00:00:13,494 --> 00:00:16,880
+a imagem do cartaz do filme. Essa decisão significará que, se
+
+6
+00:00:16,880 --> 00:00:20,920
+disser algo como toy_story.storyline, o programa imprimirá
+
+7
+00:00:20,920 --> 00:00:25,475
+isto. A história de um menino e seus brinquedos que ganham vida. Se eu disser
+
+8
+00:00:25,475 --> 00:00:29,170
+avatar.show_trailer, o programa reproduzirá o trailer de Avatar
+
+9
+00:00:29,170 --> 00:00:32,980
+no YouTube. No envio, ao criar a classe
+
+10
+00:00:32,980 --> 00:00:36,390
+Movie, provavelmente vamos querer dados como
+
+11
+00:00:36,390 --> 00:00:40,110
+o título, a história
+
+12
+00:00:40,110 --> 00:00:44,410
+e o link para o trailer do filme no YouTube. O que faremos com esses dados é
+
+13
+00:00:44,410 --> 00:00:46,740
+criar uma função show_trailer,
+
+14
+00:00:46,740 --> 00:00:50,840
+que abre o trailer do filme no YouTube.
+
+15
+00:00:50,840 --> 00:00:53,170
+Ok, vamos transformar esse design em código.
+

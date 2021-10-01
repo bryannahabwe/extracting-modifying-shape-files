@@ -1,0 +1,136 @@
+1
+00:00:00,420 --> 00:00:03,350
+E aqui estamos, de volta ao projeto geral.
+
+2
+00:00:03,350 --> 00:00:06,280
+Você perceberá que até agora só criamos
+
+3
+00:00:06,280 --> 00:00:09,420
+uma instância da classe Movie. Essa instância é
+
+4
+00:00:09,420 --> 00:00:12,180
+Toy Story. O próximo passo
+
+5
+00:00:12,180 --> 00:00:14,800
+é criar outra instância dessa classe. Dessa vez,
+
+6
+00:00:14,800 --> 00:00:18,290
+vamos criar Avatar. Para tanto,
+
+7
+00:00:18,290 --> 00:00:20,700
+volto ao código. Aqui está o código
+
+8
+00:00:20,700 --> 00:00:25,520
+para a classe Movie. E aqui o arquivo entertainment_center.py, em que
+
+9
+00:00:25,520 --> 00:00:28,740
+estou criando a primeira instância Toy Story.
+
+10
+00:00:28,740 --> 00:00:31,050
+Você pode ter percebido que reduzi o tamanho
+
+11
+00:00:31,050 --> 00:00:33,940
+da fonte do código para
+
+12
+00:00:33,940 --> 00:00:36,520
+caber tudo em um quadro do vídeo
+
+13
+00:00:36,520 --> 00:00:39,350
+para obter uma boa visualização. Criarei a seguir a
+
+14
+00:00:39,350 --> 00:00:44,410
+instância Avatar chamando media.Movie. A primeira
+
+15
+00:00:44,410 --> 00:00:46,580
+informação que devo fornecer é o nome do
+
+16
+00:00:46,580 --> 00:00:50,650
+filme: Avatar. Depois, a história, que é
+
+17
+00:00:50,650 --> 00:00:57,390
+a de um soldado em um planeta alienígena. Em seguida, o cartaz do filme Avatar,
+
+18
+00:00:57,390 --> 00:01:02,630
+que colarei aqui. A informação final é o trailer de Avatar no YouTube,
+
+19
+00:01:02,630 --> 00:01:06,672
+que também colarei aqui. Muito bem. Esta é a nova
+
+20
+00:01:06,672 --> 00:01:09,520
+instância, Avatar. Vamos imprimir a história
+
+21
+00:01:09,520 --> 00:01:14,655
+a seguir informando print(avatar.storyline).
+
+22
+00:01:14,655 --> 00:01:19,650
+[SOUND] Tudo pronto. Também comentarei
+
+23
+00:01:19,650 --> 00:01:22,460
+a instrução print anterior, que era
+
+24
+00:01:22,460 --> 00:01:26,420
+print(toy_story.storyline). Pronto, agora vou
+
+25
+00:01:26,420 --> 00:01:29,470
+salvar este arquivo. Antes de continuar e
+
+26
+00:01:29,470 --> 00:01:32,500
+executar este programa, quero fazer uma pergunta. Qual
+
+27
+00:01:32,500 --> 00:01:34,740
+você acha que será a saída desta linha de
+
+28
+00:01:34,740 --> 00:01:37,430
+código? Sei que a fonte deste
+
+29
+00:01:37,430 --> 00:01:39,730
+código é muito difícil de ler. Assim,
+
+30
+00:01:39,730 --> 00:01:43,130
+vou aumentá-la um pouco. Pronto,
+
+31
+00:01:43,130 --> 00:01:46,540
+o código com um tamanho de fonte maior. Aqui é onde estamos criando a
+
+32
+00:01:46,540 --> 00:01:50,550
+instância avatar, e aqui estamos tentando imprimir a história do filme. Qual
+
+33
+00:01:50,550 --> 00:01:51,670
+você acha que será a saída
+
+34
+00:01:51,670 --> 00:01:54,440
+do código a seguir? Veja algumas opções de resposta.
+

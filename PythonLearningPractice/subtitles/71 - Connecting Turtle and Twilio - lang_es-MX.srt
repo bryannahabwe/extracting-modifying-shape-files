@@ -1,0 +1,256 @@
+1
+00:00:00,390 --> 00:00:02,810
+Bien, hasta ahora hemos visto dos ejemplos con
+
+2
+00:00:02,810 --> 00:00:07,010
+clases. Uno, cuando dibujamos formas utilizando Turtles. Y
+
+3
+00:00:07,010 --> 00:00:08,920
+la otra, cuando enviamos el mensaje
+
+4
+00:00:08,920 --> 00:00:13,710
+de texto utilizando Twilio. Bien, cuando creamos formas utilizando Turtle.
+
+5
+00:00:13,710 --> 00:00:16,090
+Escribimos una línea de código que dice,
+
+6
+00:00:16,090 --> 00:00:19,880
+brad = turtle.Turtle (). Bien, lo que realmente queremos
+
+7
+00:00:19,880 --> 00:00:21,840
+decir aquí con esta línea de código, es
+
+8
+00:00:21,840 --> 00:00:26,580
+que dentro de Python, hay un archivo llamado turtle y
+
+9
+00:00:26,580 --> 00:00:29,640
+dentro de ese archivo, está una clase llamada Turtle. Hay
+
+10
+00:00:29,640 --> 00:00:31,720
+está. Y cuando tratamos de acceder a esa
+
+11
+00:00:31,720 --> 00:00:35,180
+clase utilizando esta sentencia, especialmente con estos paréntesis
+
+12
+00:00:35,180 --> 00:00:37,950
+que abren y cierran Lo que estamos haciendo realmente detrás de escenas, es
+
+13
+00:00:37,950 --> 00:00:41,290
+invocar la función init definida dentro de la clase Y
+
+14
+00:00:41,290 --> 00:00:44,360
+lo que hace esta función init, es que inicia, o
+
+15
+00:00:44,360 --> 00:00:47,910
+crea espacio en la memoria para una nueva instancia, que
+
+16
+00:00:47,910 --> 00:00:51,720
+llamamos, brad. Brad es un objeto o instancia de
+
+17
+00:00:51,720 --> 00:00:55,020
+la clase Turtle Esta instancia brad, puede entonces
+
+18
+00:00:55,020 --> 00:00:57,880
+hacer cosas definidas dentro de la clase Turtle, por ejemplo
+
+19
+00:00:57,880 --> 00:01:01,440
+mover turtle hacia delante. Del mismo modo, cuando escribimos
+
+20
+00:01:01,440 --> 00:01:03,940
+una línea de código que dice
+
+21
+00:01:03,940 --> 00:01:07,950
+client = rest.TwilioRestClient (). Lo que realmente queremos
+
+22
+00:01:07,950 --> 00:01:10,900
+decir, es que, en el interior de twilio, hay
+
+23
+00:01:10,900 --> 00:01:14,630
+una carpeta llamada rest. Y dentro de esa carpeta,
+
+24
+00:01:14,630 --> 00:01:16,920
+hay un archivo Python que tiene una clase
+
+25
+00:01:16,920 --> 00:01:20,600
+llamada TwilioRestClient. Ahora, cuando llamamos esta
+
+26
+00:01:20,600 --> 00:01:22,780
+línea de código, aquella en la que accedemos
+
+27
+00:01:22,780 --> 00:01:26,980
+a la clase, TwilioRestClient (), con estos corchetes abiertos-cerrados,
+
+28
+00:01:26,980 --> 00:01:28,945
+lo que realmente estamos haciendo es llamar
+
+29
+00:01:28,945 --> 00:01:33,450
+una función init definida dentro de esa clase TwilioRestClient. Y
+
+30
+00:01:33,450 --> 00:01:35,450
+lo que hace esta función init, es que otra vez
+
+31
+00:01:35,450 --> 00:01:39,080
+inicia o crea espacios en la memoria, para
+
+32
+00:01:39,080 --> 00:01:42,970
+un objeto o instancia de esa clase, TwilioRestClient.
+
+33
+00:01:42,970 --> 00:01:46,080
+Llamamos a ese objeto, cliente. El objeto
+
+34
+00:01:46,080 --> 00:01:49,050
+cliente, entonces puede hacer cosas definidas dentro de esa
+
+35
+00:01:49,050 --> 00:01:54,780
+clase, TwillioRestClient, como enviar mensajes de texto cortos o textos. Bien,
+
+36
+00:01:54,780 --> 00:01:57,390
+en resumen. Pueden pensar en una clase,
+
+37
+00:01:57,390 --> 00:02:00,390
+como en los planos de una construcción. Bueno, este
+
+38
+00:02:00,390 --> 00:02:02,690
+plano tendrá cierta información acerca
+
+39
+00:02:02,690 --> 00:02:04,700
+de la construcción, como el número de habitaciones en el
+
+40
+00:02:04,700 --> 00:02:07,900
+la construcción, el área bajo el edificio etc.
+
+41
+00:02:07,900 --> 00:02:10,620
+Bueno, podemos usar el mismo plano, para construir
+
+42
+00:02:10,620 --> 00:02:14,860
+varios edificios. Por ejemplo, un complejo residencial con paredes de color amarillo
+
+43
+00:02:14,860 --> 00:02:18,300
+y un edificio de oficinas con paredes azules. Del mismo modo, una
+
+44
+00:02:18,300 --> 00:02:21,290
+clase. Tomemos el ejemplo de la clase Turtle que hemos
+
+45
+00:02:21,290 --> 00:02:23,980
+utilizado hasta ahora. Bien, esto tiene información sobre
+
+46
+00:02:23,980 --> 00:02:26,890
+turtle, por ejemplo, como mover turtle hacia adelante,
+
+47
+00:02:26,890 --> 00:02:30,010
+como girar turtle a la derecha, etc. Bien,podemos
+
+48
+00:02:30,010 --> 00:02:33,430
+utilizar una clase como plano o plantilla
+
+49
+00:02:33,430 --> 00:02:37,920
+para crear instancias múltiples, como Brad y Angie.
+
+50
+00:02:37,920 --> 00:02:40,570
+Bien, estas instancias pueden hacer cosas que
+
+51
+00:02:40,570 --> 00:02:43,290
+se definen dentro de nuestra clase o plano.
+
+52
+00:02:43,290 --> 00:02:46,440
+Cosas como, avanzar, girar a la derecha, y dibujar
+
+53
+00:02:46,440 --> 00:02:50,160
+un circulo Bien, recientemente hemos visto otra clase
+
+54
+00:02:50,160 --> 00:02:53,080
+y esta clase se llama TwilioRestClient.
+
+55
+00:02:53,080 --> 00:02:54,930
+Que acabo de abreviar aquí por falta
+
+56
+00:02:54,930 --> 00:02:58,500
+de espacio. Esta clase tiene información sobre como
+
+57
+00:02:58,500 --> 00:03:00,570
+conectar con Twillio y enviar un
+
+58
+00:03:00,570 --> 00:03:04,560
+mensaje de texto. Y a partir de este plano podemos entonces crear
+
+59
+00:03:04,560 --> 00:03:07,530
+una instancia llamado, cliente. El Cliente puede entonces hacer
+
+60
+00:03:07,530 --> 00:03:10,690
+cosas que se definen dentro de la clase, como, envíar
+
+61
+00:03:10,690 --> 00:03:12,950
+mensajes de texto. Bien, pueden pensar en una
+
+62
+00:03:12,950 --> 00:03:16,700
+clase, como un plano que tiene cierta información básica
+
+63
+00:03:16,700 --> 00:03:18,940
+definida dentro de ella. Y pueden pensar en
+
+64
+00:03:18,940 --> 00:03:23,330
+sus objetos, como ejemplos o instancias de ese plano.
+

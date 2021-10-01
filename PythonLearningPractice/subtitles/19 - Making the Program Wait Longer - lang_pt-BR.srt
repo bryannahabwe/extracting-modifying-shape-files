@@ -1,0 +1,52 @@
+1
+00:00:00,210 --> 00:00:02,570
+Só falta mais uma coisa para o nosso
+
+2
+00:00:02,570 --> 00:00:05,440
+programa. Digamos que desejamos fazer um intervalo
+
+3
+00:00:05,440 --> 00:00:08,280
+a cada duas horas de trabalho no computador.
+
+4
+00:00:08,280 --> 00:00:11,200
+Posso aumentar a duração do atraso de dez segundos
+
+5
+00:00:11,200 --> 00:00:15,770
+para duas horas. Lembre-se de que a função sleep usa
+
+6
+00:00:15,770 --> 00:00:19,310
+segundos, portanto, esse número para o computador é dois
+
+7
+00:00:19,310 --> 00:00:22,690
+segundos e não duas horas. Para corrigir isso,
+
+8
+00:00:22,690 --> 00:00:25,530
+posso descobrir o número de segundos em duas horas.
+
+9
+00:00:25,530 --> 00:00:29,320
+E usar isso no lugar. Como ainda estou testando o programa,
+
+10
+00:00:29,320 --> 00:00:32,850
+manterei um tempo de espera razoável de dez segundos.
+
+11
+00:00:32,850 --> 00:00:35,450
+Agora que escrevemos o primeiro programa,
+
+12
+00:00:35,450 --> 00:00:37,238
+vamos compreender a origem de funções como
+
+13
+00:00:37,238 --> 00:00:41,120
+webbrowser.open e time.sleep.
+

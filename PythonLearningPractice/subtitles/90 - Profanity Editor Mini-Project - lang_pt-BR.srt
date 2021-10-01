@@ -1,0 +1,48 @@
+1
+00:00:00,430 --> 00:00:02,733
+Agora que já concluímos o design do nosso projeto, esta
+
+2
+00:00:02,733 --> 00:00:05,710
+é sua tarefa. Queremos que você mostre o programa
+
+3
+00:00:05,710 --> 00:00:09,240
+que criamos para um amigo ou colega. Você
+
+4
+00:00:09,240 --> 00:00:12,180
+pode continuar usando o site de edição de palavrões, que
+
+5
+00:00:12,180 --> 00:00:16,309
+é wdyl.com, ou usar algum outro tipo de
+
+6
+00:00:16,309 --> 00:00:20,190
+serviço online, como o Pirate Speech. O link para esta página está
+
+7
+00:00:20,190 --> 00:00:23,310
+disponível nas Notas do instrutor. Ao fazer isso,
+
+8
+00:00:23,310 --> 00:00:25,530
+você deverá usar
+
+9
+00:00:25,530 --> 00:00:28,100
+um smartphone para gravar um vídeo da conversa com seu
+
+10
+00:00:28,100 --> 00:00:31,440
+amigo ou colega. E, em seguida, queremos que compartilhe esse vídeo do YouTube
+
+11
+00:00:31,440 --> 00:00:34,520
+conosco no fórum de discussão. Não deixe de
+
+12
+00:00:34,520 --> 00:00:37,150
+marcar esta caixa após enviar suas respostas ao fórum.
+

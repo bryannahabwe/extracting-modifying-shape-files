@@ -1,0 +1,124 @@
+1
+00:00:00,440 --> 00:00:03,300
+Antes de concluir o projeto, quero
+
+2
+00:00:03,300 --> 00:00:05,850
+dedicar um minuto para conectar algumas ideias que
+
+3
+00:00:05,850 --> 00:00:08,300
+vimos nesta aula até agora. Começamos
+
+4
+00:00:08,300 --> 00:00:11,290
+criando quadrados e escrevemos um
+
+5
+00:00:11,290 --> 00:00:15,890
+código que dizia: brad é igual a turtle.Turtle. O que fizemos
+
+6
+00:00:15,890 --> 00:00:19,090
+nos bastidores foi criar um
+
+7
+00:00:19,090 --> 00:00:22,818
+objeto ou instância da classe Turtle. Em seguida, foi possível
+
+8
+00:00:22,818 --> 00:00:26,820
+utilizar essa instância para fazer ações, como brad.forward.
+
+9
+00:00:26,820 --> 00:00:29,730
+Então, quisemos ler o conteúdo
+
+10
+00:00:29,730 --> 00:00:31,960
+de um arquivo no computador. Assim, escrevemos
+
+11
+00:00:31,960 --> 00:00:35,300
+um código que dizia: quotes é igual a open,
+
+12
+00:00:35,300 --> 00:00:38,422
+com o endereço de um arquivo. O que fizemos nos bastidores
+
+13
+00:00:38,422 --> 00:00:42,070
+foi criar um objeto do tipo File. Depois disso,
+
+14
+00:00:42,070 --> 00:00:46,560
+pudemos usar esse objeto para fazer coisas, como quotes.read. Quando
+
+15
+00:00:46,560 --> 00:00:49,460
+queríamos acessar um site na internet,
+
+16
+00:00:49,460 --> 00:00:52,040
+escrevemos um código que dizia: connection é
+
+17
+00:00:52,040 --> 00:00:55,270
+igual a urllib.urlopen(). Esse código
+
+18
+00:00:55,270 --> 00:00:58,930
+também retornou um objeto, ou instância, do tipo File.
+
+19
+00:00:58,930 --> 00:01:04,300
+E então pudemos fazer algo com essa instância, como connection.read().
+
+20
+00:01:04,300 --> 00:01:08,600
+Nos três exemplos, criamos instâncias, ou objetos,
+
+21
+00:01:08,600 --> 00:01:11,373
+e usamos esses objetos. Alguns
+
+22
+00:01:11,373 --> 00:01:16,620
+de vocês podem dizer que, no exemplo do editor de palavrões, usamos apenas funções.
+
+23
+00:01:16,620 --> 00:01:21,650
+Funções como open e urlopen, e que não havia qualquer classe,
+
+24
+00:01:21,650 --> 00:01:25,890
+como vimos nos exemplos anteriores com Turtle. Embora aparentemente não
+
+25
+00:01:25,890 --> 00:01:28,450
+tenhamos usado qualquer classe no exemplo do editor
+
+26
+00:01:28,450 --> 00:01:31,420
+de palavrões, se você observar como as funções
+
+27
+00:01:31,420 --> 00:01:35,950
+open e urlopen foram implementadas no Python,
+
+28
+00:01:35,950 --> 00:01:39,470
+descobrirá que alguma função init de alguma classe
+
+29
+00:01:39,470 --> 00:01:42,580
+está sendo chamada para retornar esses objetos.
+
+30
+00:01:43,660 --> 00:01:46,730
+Ok, vejamos mais um exemplo de como
+
+31
+00:01:46,730 --> 00:01:49,820
+usar classes. Tudo ficará muito mais claro depois disso.
+

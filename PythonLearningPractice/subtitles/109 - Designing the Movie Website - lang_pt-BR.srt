@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:02,760
+Agora que aprendemos vários termos novos
+
+2
+00:00:02,760 --> 00:00:05,796
+relacionados a classes e objetos, vamos passar à
+
+3
+00:00:05,796 --> 00:00:09,072
+criação de um site de filmes. Esta é a saída final
+
+4
+00:00:09,072 --> 00:00:11,808
+que estamos buscando. Todos os nossos filmes favoritos em uma
+
+5
+00:00:11,808 --> 00:00:14,595
+página da Web. Como você viu anteriormente, se
+
+6
+00:00:14,595 --> 00:00:17,640
+clicarmos em qualquer um desses filmes, o respectivo trailer é exibido.
+
+7
+00:00:17,640 --> 00:00:21,030
+Vamos em frente. De volta ao
+
+8
+00:00:21,030 --> 00:00:24,970
+código. Até agora, criamos apenas dois objetos de filme. toy_story
+
+9
+00:00:24,970 --> 00:00:28,610
+e avatar. Vou criar mais alguns.
+
+10
+00:00:28,610 --> 00:00:31,600
+Na verdade, mais quatro objetos de filme. Mas, antes disso,
+
+11
+00:00:31,600 --> 00:00:33,940
+vou aumentar um pouco esta janela
+
+12
+00:00:33,940 --> 00:00:37,320
+para que possamos ver com facilidade todos os códigos.
+
+13
+00:00:37,320 --> 00:00:39,620
+Certo. Estas são as duas instâncias
+
+14
+00:00:39,620 --> 00:00:43,740
+que criamos, toy_story e avatar. Antes de continuar,
+
+15
+00:00:43,740 --> 00:00:46,780
+comentarei as instruções de saída criadas
+
+16
+00:00:46,780 --> 00:00:50,260
+anteriormente. A instrução print e o método show_trailer.
+
+17
+00:00:50,260 --> 00:00:52,087
+Vou adicionar um comentário
+
+18
+00:00:52,087 --> 00:00:56,070
+[SOUND] nesses dois pontos. Pronto. Agora, vou adicionar
+
+19
+00:00:56,070 --> 00:00:58,860
+um novo objeto para um filme chamado School
+
+20
+00:00:58,860 --> 00:01:02,400
+of Rock. Aqui está. Você perceberá que
+
+21
+00:01:02,400 --> 00:01:04,239
+alterei o nome do filme,
+
+22
+00:01:04,239 --> 00:01:07,750
+a história, a imagem do cartaz e os valores do trailer do youtube
+
+23
+00:01:07,750 --> 00:01:11,720
+devidamente. Em seguida, adicionarei outro objeto de filme.
+
+24
+00:01:11,720 --> 00:01:15,900
+Dessa vez, para um filme de animação chamado Ratatouille. Depois,
+
+25
+00:01:15,900 --> 00:01:18,420
+adicionarei um objeto de filme chamado Midnight in
+
+26
+00:01:18,420 --> 00:01:20,850
+Paris. Esse é um dos meus filmes
+
+27
+00:01:20,850 --> 00:01:24,100
+favoritos. E o objeto de filme final que
+
+28
+00:01:24,100 --> 00:01:26,560
+adicionarei é para o filme Hunger Games.
+
+29
+00:01:27,750 --> 00:01:30,650
+Até agora, criamos seis objetos de
+
+30
+00:01:30,650 --> 00:01:34,020
+filme. Até aqui, tudo bem. Para transformar isso
+
+31
+00:01:34,020 --> 00:01:36,340
+em um site de filmes, você precisará de um
+
+32
+00:01:36,340 --> 00:01:39,590
+código que extraia essas informações. Chamamos esse código de
+
+33
+00:01:39,590 --> 00:01:42,970
+fresh_tomatoes.py. Esse arquivo está disponível para download nas
+
+34
+00:01:42,970 --> 00:01:45,110
+Notas do instrutor. Mas, antes
+
+35
+00:01:45,110 --> 00:01:46,950
+de usarmos esse arquivo, vejamos
+
+36
+00:01:46,950 --> 00:01:51,823
+o que ele faz. Esse arquivo tem uma função
+
+37
+00:01:51,823 --> 00:01:55,600
+chamada open_movies_page. Vamos examinar essa
+
+38
+00:01:55,600 --> 00:01:58,650
+função um pouco mais detalhadamente. O que essa função
+
+39
+00:01:58,650 --> 00:02:01,360
+faz é compilar uma lista de
+
+40
+00:02:01,360 --> 00:02:05,190
+filmes como entrada e criar e
+
+41
+00:02:05,190 --> 00:02:08,300
+abrir um site ou página HTML como saída, mostrando
+
+42
+00:02:08,300 --> 00:02:11,030
+os filmes que você forneceu anteriormente.
+
+43
+00:02:11,030 --> 00:02:13,140
+A seguir, usarei
+
+44
+00:02:13,140 --> 00:02:15,610
+o arquivo fresh_tomatoes.py e a
+
+45
+00:02:15,610 --> 00:02:18,390
+função open_movies_page no código.
+

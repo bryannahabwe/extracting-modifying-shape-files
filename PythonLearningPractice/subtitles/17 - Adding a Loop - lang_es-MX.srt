@@ -1,0 +1,24 @@
+1
+00:00:00,280 --> 00:00:04,740
+Ahora la siguiente cosa que tenemos que hacer, es poner estos dos pasos dentro de un ciclo, para que
+
+2
+00:00:04,740 --> 00:00:06,750
+nuestro programa invite al usuario a tomar un
+
+3
+00:00:06,750 --> 00:00:09,980
+descanso varias veces durante el día. Así que tu desafío
+
+4
+00:00:09,980 --> 00:00:14,950
+es añadir un ciclo a este código, para que inste al usuario a tomar 3 descansos. Ahora bien,
+
+5
+00:00:14,950 --> 00:00:16,900
+si estás confundido acerca de esta tarea, hay
+
+6
+00:00:16,900 --> 00:00:19,880
+algunos enlaces útiles sobre ciclos en las notas del instructor.
+

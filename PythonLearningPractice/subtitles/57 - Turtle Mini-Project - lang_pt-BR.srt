@@ -1,0 +1,32 @@
+1
+00:00:00,400 --> 00:00:02,890
+Parabéns por chegar até aqui. Agora que você já sabe
+
+2
+00:00:02,890 --> 00:00:05,300
+como desenhar usando códigos, veja
+
+3
+00:00:05,300 --> 00:00:07,640
+seu miniprojeto. Queremos que você crie
+
+4
+00:00:07,640 --> 00:00:11,830
+códigos para desenhar uma flor ou alguns fractais ou
+
+5
+00:00:11,830 --> 00:00:15,200
+escrever suas iniciais. Após terminar,
+
+6
+00:00:15,200 --> 00:00:17,650
+envie um vídeo ou captura de tela da saída do
+
+7
+00:00:17,650 --> 00:00:20,350
+seu código ao fórum de discussão. Não deixe de marcar esta caixa após
+
+8
+00:00:20,350 --> 00:00:22,490
+enviar suas respostas ao fórum.
+

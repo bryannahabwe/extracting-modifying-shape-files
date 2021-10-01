@@ -1,0 +1,112 @@
+1
+00:00:00,300 --> 00:00:02,500
+Antes de executar este programa, compartilharei com
+
+2
+00:00:02,500 --> 00:00:04,950
+você minha hipótese sobre o que acontecerá na execução
+
+3
+00:00:04,950 --> 00:00:07,510
+deste código. Antes de mais nada,
+
+4
+00:00:07,510 --> 00:00:10,740
+estamos criando neste programa uma instância
+
+5
+00:00:10,740 --> 00:00:14,450
+da classe Child que chamamos de miley_cyrus. Assim que essa
+
+6
+00:00:14,450 --> 00:00:18,020
+linha de código for executada, o método init na classe Child
+
+7
+00:00:18,020 --> 00:00:21,680
+será chamada. A primeira linha no método init é esta
+
+8
+00:00:21,680 --> 00:00:25,450
+instrução print. Minha hipótese é que a instrução print
+
+9
+00:00:25,450 --> 00:00:29,080
+será impressa primeiro em nossa saída. Depois disso,
+
+10
+00:00:29,080 --> 00:00:31,590
+o construtor da classe Parent será
+
+11
+00:00:31,590 --> 00:00:34,370
+chamado. O controle passará daqui para
+
+12
+00:00:34,370 --> 00:00:38,120
+cá. Quando o método init para a classe Parent for chamado,
+
+13
+00:00:38,120 --> 00:00:40,580
+essa instrução será executada. Portanto, minha
+
+14
+00:00:40,580 --> 00:00:44,290
+hipótese é que a instrução print Parent Construct Called
+
+15
+00:00:44,290 --> 00:00:47,395
+será o segundo elemento a ser impresso. Depois, as variáveis de instância
+
+16
+00:00:47,395 --> 00:00:51,760
+last_name e eye_color serão devidamente inicializadas.
+
+17
+00:00:51,760 --> 00:00:54,250
+Após o método init da classe Parent ser executado
+
+18
+00:00:54,250 --> 00:00:57,010
+com sucesso, o controle voltará para cá. Neste
+
+19
+00:00:57,010 --> 00:01:01,280
+ponto, a variável de instância number_of_toys será inicializada com sucesso.
+
+20
+00:01:01,280 --> 00:01:03,700
+A essa altura, o método init para a classe Child
+
+21
+00:01:03,700 --> 00:01:06,480
+foi concluído, o que significa que a instância miley_cyrus foi
+
+22
+00:01:06,480 --> 00:01:10,580
+criada com sucesso. As duas instruções print a seguir,
+
+23
+00:01:10,580 --> 00:01:12,560
+que estão tentando imprimir last_name e number_of_toys
+
+24
+00:01:12,560 --> 00:01:16,500
+para miley_cyrus serão executadas nessa ordem.
+
+25
+00:01:16,500 --> 00:01:21,160
+Muito bem, agora, deixe-me executar este código. Aqui
+
+26
+00:01:21,160 --> 00:01:25,460
+está a saída. Parece
+
+27
+00:01:25,460 --> 00:01:27,900
+com o que eu imaginava. Agora, quero que você interrompa o vídeo por um segundo
+
+28
+00:01:27,900 --> 00:01:31,750
+e veja se a saída corresponde com sua hipótese.
+

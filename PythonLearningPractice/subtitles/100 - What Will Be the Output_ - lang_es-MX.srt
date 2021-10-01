@@ -1,0 +1,136 @@
+1
+00:00:00,420 --> 00:00:03,350
+Bien, estamos de vuelta en nuestro diseño general.
+
+2
+00:00:03,350 --> 00:00:06,280
+Se darán cuenta que, hasta ahora, solo hemos creado
+
+3
+00:00:06,280 --> 00:00:09,420
+una instancia de nuestra clase Movie. Y que esa instancia
+
+4
+00:00:09,420 --> 00:00:12,180
+es Toy Story. La siguiente cosa que debemos hacer
+
+5
+00:00:12,180 --> 00:00:14,800
+es crear otra instancia de la clase Movie. Y esta vez,
+
+6
+00:00:14,800 --> 00:00:18,290
+vamos a crear Avatar. Bien, para hacer eso,
+
+7
+00:00:18,290 --> 00:00:20,700
+estoy de vuelta en mi código. Este es el código
+
+8
+00:00:20,700 --> 00:00:25,520
+para la clase Movie. Y este es mi archivo entertainment_center.py, que
+
+9
+00:00:25,520 --> 00:00:28,740
+es donde estoy creando mi primer instancia, toy_story.
+
+10
+00:00:28,740 --> 00:00:31,050
+Bueno, se habrán dado cuenta de que he reducido el tamaño
+
+11
+00:00:31,050 --> 00:00:33,940
+de la fuente de mi código, esto es para poder comprimir
+
+12
+00:00:33,940 --> 00:00:36,520
+todo el código, en el encuadre del vídeo para que
+
+13
+00:00:36,520 --> 00:00:39,350
+puedan verlo correctamente. En seguida, voy a crear la
+
+14
+00:00:39,350 --> 00:00:44,410
+instancia llamada avatar, llamando a media.Movie. La primera parte de
+
+15
+00:00:44,410 --> 00:00:46,580
+la información que tengo que suministrar es el nombre de la
+
+16
+00:00:46,580 --> 00:00:50,650
+película, que es Avatar. A continuación su trama, que es la de
+
+17
+00:00:50,650 --> 00:00:57,390
+un infante de marina en un planeta alienígena. A eso le sigue el póster de la película Avatar,
+
+18
+00:00:57,390 --> 00:01:02,630
+que voy a pegar aquí. Y la última parte de información es el avance
+
+19
+00:01:02,630 --> 00:01:06,672
+de YouTube de Avatar, mismo que también copiaré. Muy bien. Entonces, esta es nuestra
+
+20
+00:01:06,672 --> 00:01:09,520
+nueva instancia, Avatar. Vamos a imprimir su trama
+
+21
+00:01:09,520 --> 00:01:14,655
+enseguida. Entonces diré, imprimir avatar.storyline.
+
+22
+00:01:14,655 --> 00:01:19,650
+Ahí está. También voy a comentar
+
+23
+00:01:19,650 --> 00:01:22,460
+mi sentencia anterior de imprimir, que era imprimir
+
+24
+00:01:22,460 --> 00:01:26,420
+toy_story.story line. Bien, ahí está, déjenme continuar
+
+25
+00:01:26,420 --> 00:01:29,470
+y guardar este archivo Bueno, antes de seguir adelante y
+
+26
+00:01:29,470 --> 00:01:32,500
+ejecutar este programa, déjenme hacerles una pregunta. ¿Cuál
+
+27
+00:01:32,500 --> 00:01:34,740
+piensan que será el resultado de esta línea
+
+28
+00:01:34,740 --> 00:01:37,430
+de código justo aquí? De acuerdo, sé que la fuente
+
+29
+00:01:37,430 --> 00:01:39,730
+de este código es realmente difícil de leer. Entonces lo que
+
+30
+00:01:39,730 --> 00:01:43,130
+voy a hacer, es hacerla un poco más grande. Perfecto, aquí tienen
+
+31
+00:01:43,130 --> 00:01:46,540
+el código en un tamaño de letra más grande. Aquí es donde estamos creando la
+
+32
+00:01:46,540 --> 00:01:50,550
+instancia Avatar y aquí estamos tratando de imprimir su trama Bien, ¿cuál creen
+
+33
+00:01:50,550 --> 00:01:51,670
+ustedes que será el resultado del
+
+34
+00:01:51,670 --> 00:01:54,440
+siguiente código? Estas son algunas de las opciones de respuesta.
+

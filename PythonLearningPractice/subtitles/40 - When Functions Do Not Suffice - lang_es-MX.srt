@@ -1,0 +1,224 @@
+1
+00:00:00,690 --> 00:00:03,300
+Así, supongamos que queremos hacer un sitio web de películas.
+
+2
+00:00:03,300 --> 00:00:06,180
+Muy similar a éste. Ahora, si tuvieras que hacer
+
+3
+00:00:06,180 --> 00:00:08,450
+esto con base en lo que hemos estado haciendo hasta ahora,
+
+4
+00:00:08,450 --> 00:00:11,880
+lo que podrías hacer es comenzar con un archivo de programación vacío,
+
+5
+00:00:11,880 --> 00:00:15,930
+al que podríamos llamar algo así como movies.py. Ahora, puesto
+
+6
+00:00:15,930 --> 00:00:18,400
+que una película tiene una gran cantidad de datos asociados con ella,
+
+7
+00:00:18,400 --> 00:00:22,250
+como el título de la película, su argumento, nos gustaría añadir esto
+
+8
+00:00:22,250 --> 00:00:25,720
+a nuestro programa. Además, nos gustaría hacer cosas con
+
+9
+00:00:25,720 --> 00:00:29,500
+nuestras películas, como mostrar el avance o
+
+10
+00:00:29,500 --> 00:00:32,240
+mostrar o imprimir toda la información de la película. Así que,
+
+11
+00:00:32,240 --> 00:00:34,230
+añadiríamos esas funciones a nuestro código
+
+12
+00:00:34,230 --> 00:00:37,960
+también. Hasta ahora, todo bien. Ahora, imagina además que
+
+13
+00:00:37,960 --> 00:00:40,260
+que queremos ejecutar este programa. Y queremos
+
+14
+00:00:40,260 --> 00:00:44,860
+reproducir el avance de una película. Bueno, ¿el avance de cuál película?
+
+15
+00:00:44,860 --> 00:00:46,860
+Para que esto funcione, tendríamos que proporcionar
+
+16
+00:00:46,860 --> 00:00:51,480
+alguna información o argumentos a la función show_trailer, como estos.
+
+17
+00:00:51,480 --> 00:00:53,220
+En este caso estamos diciendo oye,
+
+18
+00:00:53,220 --> 00:00:57,870
+reproduce Toy Story, youtube_url. Eso parece bastante
+
+19
+00:00:57,870 --> 00:01:00,090
+manejable. Ahora vamos a tratar de imprimir
+
+20
+00:01:00,090 --> 00:01:04,370
+la información de una película. Bueno, ¿la información de cuál película?
+
+21
+00:01:04,370 --> 00:01:08,335
+Una vez más, tendríamos que suministrar algún tipo de información o argumentos a la
+
+22
+00:01:08,335 --> 00:01:12,003
+función show_info. Argumentos como el título de la película,
+
+23
+00:01:12,003 --> 00:01:16,035
+su argumento, fecha de estreno, clasificación, youtube_url, director,
+
+24
+00:01:16,035 --> 00:01:19,950
+box_office, etcétera. Bueno, no sé ustedes,
+
+25
+00:01:19,950 --> 00:01:23,730
+pero esta función show_info ya se está volviendo demasiado complicada
+
+26
+00:01:23,730 --> 00:01:26,140
+para mí. Imagina qué puede suceder si tenemos que
+
+27
+00:01:26,140 --> 00:01:29,890
+suministrarle más información. Como el elenco de la película
+
+28
+00:01:29,890 --> 00:01:33,260
+o las críticas de la película. Lo que realmente queremos hacer
+
+29
+00:01:33,260 --> 00:01:35,850
+es definir una plantilla para nuestra película y grabar
+
+30
+00:01:35,850 --> 00:01:37,420
+todos los datos que necesitan ir en
+
+31
+00:01:37,420 --> 00:01:41,828
+esa plantilla. Datos como el título de la película, su argumento y
+
+32
+00:01:41,828 --> 00:01:46,170
+funciones como show_trailer y show_information y luego simplemente decir,
+
+33
+00:01:46,170 --> 00:01:50,820
+oye, Toy Story es una película y Avatar también lo es.
+
+34
+00:01:50,820 --> 00:01:53,882
+Y luego tener la capacidad de decir, muéstrame el avance de
+
+35
+00:01:53,882 --> 00:01:59,780
+Toy Story o la información de Avatar. Sin necesidad de argumentos.
+
+36
+00:02:01,880 --> 00:02:06,390
+Ahora, una forma de hacer esto, tan solo mediante el uso de funciones, es tomar la plantilla que
+
+37
+00:02:06,390 --> 00:02:10,940
+hemos definido y hacer varias copias de la misma. Así, podríamos hacer una copia
+
+38
+00:02:10,940 --> 00:02:15,728
+de esta plantilla y llamarla toy_story.py, y hacer otra copia de esta
+
+39
+00:02:15,728 --> 00:02:21,240
+plantilla y llamarla avatar.py. Ahora, podremos decir cosas como
+
+40
+00:02:21,240 --> 00:02:26,760
+toy_story.show_trailer y avatar.show_info. Pero
+
+41
+00:02:26,760 --> 00:02:29,810
+esta no me parece a mí una solución muy inteligente.
+
+42
+00:02:29,810 --> 00:02:32,340
+Imagina qué puede suceder si tenemos que añadir más piezas de
+
+43
+00:02:32,340 --> 00:02:35,220
+datos a nuestra plantilla o si tiene que renombrar una
+
+44
+00:02:35,220 --> 00:02:40,150
+de nuestras funciones. Digamos, de show_trailer a play_trailer. Si eso ocurre,
+
+45
+00:02:40,150 --> 00:02:42,500
+vamos a tener que hacer esos cambios en todas y
+
+46
+00:02:42,500 --> 00:02:45,490
+cada una de las copias que hagamos. Esto no parece ser algo
+
+47
+00:02:45,490 --> 00:02:48,750
+muy sensato. Así que lo que realmente necesitamos es una
+
+48
+00:02:48,750 --> 00:02:52,690
+forma de hacer copias de una plantilla, sin tener varios archivos.
+
+49
+00:02:52,690 --> 00:02:55,170
+Necesitamos la capacidad de definir una plantilla para
+
+50
+00:02:55,170 --> 00:02:57,660
+algo, como lo hicimos para las películas, y luego poder
+
+51
+00:02:57,660 --> 00:03:00,480
+decir, oye, Toy Story es un tipo
+
+52
+00:03:00,480 --> 00:03:03,660
+de esa plantilla, y también lo es Avatar. Avatar es también
+
+53
+00:03:03,660 --> 00:03:06,940
+un tipo de esa plantilla. Necesitamos algo nuevo,
+
+54
+00:03:06,940 --> 00:03:09,670
+y este algo nuevo se llama clase en
+
+55
+00:03:09,670 --> 00:03:12,370
+programación. Así que, ¿que son las clases y cómo
+
+56
+00:03:12,370 --> 00:03:14,850
+las usamos? Lo averiguaremos en las lecciones siguientes.
+

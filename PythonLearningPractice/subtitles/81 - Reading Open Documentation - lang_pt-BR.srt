@@ -1,0 +1,40 @@
+1
+00:00:00,170 --> 00:00:03,500
+Esta é a biblioteca padrão Python. Se rolar
+
+2
+00:00:03,500 --> 00:00:05,810
+para baixo, verei um conjunto de
+
+3
+00:00:05,810 --> 00:00:09,520
+funções chamadas funções internas. Se clicar nelas,
+
+4
+00:00:09,520 --> 00:00:12,690
+encontrarei várias funções que estão sempre disponíveis
+
+5
+00:00:12,690 --> 00:00:16,440
+no Python. Uma delas é a função open. Se
+
+6
+00:00:16,440 --> 00:00:20,020
+clicar em open, segundo a documentação, isso abrirá
+
+7
+00:00:20,020 --> 00:00:22,230
+um arquivo. Que foi exatamente o que fizemos no
+
+8
+00:00:22,230 --> 00:00:25,330
+programa. A documentação sugere
+
+9
+00:00:25,330 --> 00:00:31,730
+que a função open retorna um objeto do tipo file. O termo objeto é muito
+
+10
+00:00:31,730 --> 00:00:36,560
+curioso. Onde cruzamos com esse termo antes? Vamos investigar.
+

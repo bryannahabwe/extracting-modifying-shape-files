@@ -1,0 +1,92 @@
+1
+00:00:00,350 --> 00:00:03,150
+De acuerdo, comencemos a escribir nuestro código Ahora, lo primero que
+
+2
+00:00:03,150 --> 00:00:07,110
+he hecho es crear un nuevo archivo llamado send_text.py. Y
+
+3
+00:00:07,110 --> 00:00:09,240
+como pueden ver, este archivo está vacío por ahora.
+
+4
+00:00:10,380 --> 00:00:13,040
+Entonces, si van a la página de instalación de Twilio, ah
+
+5
+00:00:13,040 --> 00:00:15,430
+a propósito, este enlace también está disponible en las
+
+6
+00:00:15,430 --> 00:00:19,340
+notas del instructor. Si se desplazan hacia abajo en la página,
+
+7
+00:00:19,340 --> 00:00:22,110
+se darán cuenta de que Twilio ha proporcionado un código de muestra que
+
+8
+00:00:22,110 --> 00:00:25,580
+nos permite enviar mensajes de texto a nuestro teléfono. Bien,
+
+9
+00:00:25,580 --> 00:00:27,850
+sólo quiero ejecutarlo y ver si el código
+
+10
+00:00:27,850 --> 00:00:31,530
+funciona. Si este programa funciona, sólo entonces
+
+11
+00:00:31,530 --> 00:00:34,080
+trataré de entender cómo envía realmente el mensaje de texto
+
+12
+00:00:34,080 --> 00:00:37,530
+a nuestro teléfono. Entonces, por ahora, todo lo que voy a hacer
+
+13
+00:00:37,530 --> 00:00:40,820
+es copiar este código e ir de nuevo a mi programa
+
+14
+00:00:40,820 --> 00:00:44,360
+de sintaxis y voy a pegar ese código. Bien, parece que
+
+15
+00:00:44,360 --> 00:00:48,420
+el código está importando Twilio. Aunque es un poco
+
+16
+00:00:48,420 --> 00:00:50,770
+diferente a lo que hemos visto hasta ahora, tenemos aquí esta
+
+17
+00:00:50,770 --> 00:00:53,230
+palabra clave llamada from, que no hemos visto
+
+18
+00:00:53,230 --> 00:00:56,208
+antes, retomaré esto más adelante. Bueno,
+
+19
+00:00:56,208 --> 00:01:01,130
+Si leen las siguientes dos líneas en el programa hablan acerca del sistema de identificación de la cuenta
+
+20
+00:01:01,130 --> 00:01:05,140
+y del identificador de autorización. Bueno, éstos deben ser para que Twilio
+
+21
+00:01:05,140 --> 00:01:07,810
+descifre quién soy. Casi como
+
+22
+00:01:07,810 --> 00:01:10,390
+mi nombre de usuario y contraseña. Bien, vayamos a
+
+23
+00:01:10,390 --> 00:01:13,020
+el sitio web de Twilio y resolvamos estos dos valores.
+

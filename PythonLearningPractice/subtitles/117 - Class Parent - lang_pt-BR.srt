@@ -1,0 +1,196 @@
+1
+00:00:00,330 --> 00:00:02,320
+Aqui no canto superior direito,
+
+2
+00:00:02,320 --> 00:00:04,280
+temos o projeto das classes
+
+3
+00:00:04,280 --> 00:00:07,040
+que vamos estruturar. O que fiz até agora foi
+
+4
+00:00:07,040 --> 00:00:11,310
+criar um novo arquivo Python chamado inheritance.py.
+
+5
+00:00:11,310 --> 00:00:13,530
+Com base no projeto, vou
+
+6
+00:00:13,530 --> 00:00:18,320
+criar uma classe Parent. [SOUND] Pronto. O próximo
+
+7
+00:00:18,320 --> 00:00:21,370
+passo é inicializar as variáveis da classe
+
+8
+00:00:21,370 --> 00:00:25,350
+Parent, como last_name e eye_color. Para tanto,
+
+9
+00:00:25,350 --> 00:00:27,500
+definirei essa classe como método init
+
+10
+00:00:27,500 --> 00:00:30,180
+ou construtor. O primeiro argumento para essa função
+
+11
+00:00:30,180 --> 00:00:33,365
+é self, e as duas variáveis de instância para a classe Parent
+
+12
+00:00:33,365 --> 00:00:38,040
+são self.last_name e
+
+13
+00:00:38,040 --> 00:00:42,010
+self.eye_color. A função init receberá
+
+14
+00:00:42,010 --> 00:00:45,150
+alguns valores como argumentos. Vamos
+
+15
+00:00:45,150 --> 00:00:46,950
+adicioná-los aqui, e
+
+16
+00:00:46,950 --> 00:00:50,720
+usarei dois argumentos para inicializar nossas variáveis de instância.
+
+17
+00:00:50,720 --> 00:00:56,160
+Farei isso em seguida. Muito bem. Você talvez tenha percebido que esse código é muito
+
+18
+00:00:56,160 --> 00:00:58,610
+similar ao código da classe Movie que
+
+19
+00:00:58,610 --> 00:01:01,300
+criamos anteriormente. O que farei de diferente agora
+
+20
+00:01:01,300 --> 00:01:03,000
+é adicionar uma
+
+21
+00:01:03,000 --> 00:01:05,890
+instrução print rápida ao método init. A declaração
+
+22
+00:01:05,890 --> 00:01:11,930
+será "Parent Constructor Called". Essa instrução print
+
+23
+00:01:11,930 --> 00:01:15,895
+nos dirá explicitamente sempre que o método init
+
+24
+00:01:15,895 --> 00:01:19,090
+ou o construtor da classe Parent for chamado.
+
+25
+00:01:19,090 --> 00:01:21,140
+Para garantir que o código
+
+26
+00:01:21,140 --> 00:01:23,760
+criado realmente funcione,
+
+27
+00:01:23,760 --> 00:01:27,000
+vamos usar essa classe. Definirei uma instância
+
+28
+00:01:27,000 --> 00:01:31,370
+da classe Parent e a chamarei de billy_cyrus, e
+
+29
+00:01:31,370 --> 00:01:34,530
+fornecerei os dois argumentos necessários. O primeiro
+
+30
+00:01:34,530 --> 00:01:37,490
+é last_name, que é
+
+31
+00:01:37,490 --> 00:01:40,770
+Cyrus, e o segundo é eye_color, e é
+
+32
+00:01:40,770 --> 00:01:44,500
+blue. Mas
+
+33
+00:01:44,500 --> 00:01:47,500
+atenção. Em geral, eu manteria
+
+34
+00:01:47,500 --> 00:01:49,480
+tanto a definição da classe
+
+35
+00:01:49,480 --> 00:01:52,140
+Parent como a criação de suas instâncias em
+
+36
+00:01:52,140 --> 00:01:56,050
+arquivos Python separados. Aqui, mantive no
+
+37
+00:01:56,050 --> 00:02:02,009
+mesmo arquivo para facilitar a demonstração. Para demonstrar
+
+38
+00:02:02,009 --> 00:02:06,479
+que a instância realmente funciona,
+
+39
+00:02:06,479 --> 00:02:15,300
+vou imprimir o sobrenome. Vou salvar e executar esse arquivo. E
+
+40
+00:02:15,300 --> 00:02:18,450
+temos a saída. Diz que o construtor Parent
+
+41
+00:02:18,450 --> 00:02:21,290
+foi chamado. O que parece apropriado, porque criamos
+
+42
+00:02:21,290 --> 00:02:23,820
+uma instância chamada billy_cyrus. Assim que
+
+43
+00:02:23,820 --> 00:02:26,260
+fizemos isso, o método _init_ da classe Parent
+
+44
+00:02:26,260 --> 00:02:28,650
+foi chamado, e nele há
+
+45
+00:02:28,650 --> 00:02:31,780
+uma instrução print. Depois, imprimimos o sobrenome
+
+46
+00:02:31,780 --> 00:02:36,980
+de Billy Cyrus, que está correto. Até aqui, tudo bem.
+
+47
+00:02:36,980 --> 00:02:40,640
+Nada do que fizemos até agora
+
+48
+00:02:40,640 --> 00:02:45,100
+é novidade. A única novidade será a herança, que
+
+49
+00:02:45,100 --> 00:02:48,900
+veremos ao criar a classe Child. Vamos fazer isso em seguida.
+

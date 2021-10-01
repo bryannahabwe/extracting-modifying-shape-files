@@ -1,0 +1,16 @@
+1
+00:00:00,550 --> 00:00:01,640
+Esta é uma maneira de desenhar um
+
+2
+00:00:01,640 --> 00:00:06,870
+quadrado. Posso avançar, virar à direita, avançar,
+
+3
+00:00:06,870 --> 00:00:10,550
+virar à direita, avançar mais uma vez, virar à direita
+
+4
+00:00:10,550 --> 00:00:14,450
+novamente, avançar e virar à direita. Aqui está.
+

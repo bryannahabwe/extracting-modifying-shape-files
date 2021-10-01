@@ -1,0 +1,92 @@
+1
+00:00:00,635 --> 00:00:03,270
+Uma maneira de fazer isso é desenhar um quadrado,
+
+2
+00:00:03,270 --> 00:00:05,330
+virá-lo um pouco para a direita e
+
+3
+00:00:05,330 --> 00:00:07,610
+desenhar outro quadrado. E virá-lo um pouco para a
+
+4
+00:00:07,610 --> 00:00:11,820
+direita novamente, e desenhar outro quadrado. E assim por diante. Vamos
+
+5
+00:00:11,820 --> 00:00:14,520
+fazer isso. Este é o código que desenha um
+
+6
+00:00:14,520 --> 00:00:17,760
+quadrado. Isto feito, quero que o Turtle
+
+7
+00:00:17,760 --> 00:00:20,980
+vire o quadrado um pouco para a direita. Vou
+
+8
+00:00:20,980 --> 00:00:25,880
+adicionar um código que diz brad.right em
+
+9
+00:00:25,880 --> 00:00:30,390
+dez graus. Como quero que essas duas instruções
+
+10
+00:00:30,390 --> 00:00:35,570
+se repitam sem parar, vou colocá-las em um loop. Deixe-me fazer isso. Vou
+
+11
+00:00:35,570 --> 00:00:40,680
+adicionar um loop for dizendo "for i in range", digamos que esse
+
+12
+00:00:40,680 --> 00:00:45,670
+loop seja executado quatro vezes. Adicionarei dois-pontos e colocarei as duas instruções
+
+13
+00:00:45,670 --> 00:00:51,030
+dentro do loop. Vou salvar, executar e ver
+
+14
+00:00:51,030 --> 00:00:56,600
+o que acontece. Ah-ha, aqui está o resultado. Desenhamos dois quadrados,
+
+15
+00:00:56,600 --> 00:01:02,020
+três quadrados e o programa deve parar. Só preciso agora
+
+16
+00:01:02,020 --> 00:01:08,180
+deixar que o turtle continue fazendo um círculo, que tem 360 graus.
+
+17
+00:01:08,180 --> 00:01:12,770
+Este loop não deverá ser executado quatro vezes, mas 36
+
+18
+00:01:12,770 --> 00:01:17,720
+vezes. Vou salvar
+
+19
+00:01:17,720 --> 00:01:23,773
+e executar. Muito bem. Aqui está, pessoal. Um círculo feito de quadrados. Vou
+
+20
+00:01:23,773 --> 00:01:26,356
+inserir uma música ao fundo deste
+
+21
+00:01:26,356 --> 00:01:28,702
+vídeo e deixar que vocês desfrutem de nossa criação final.
+
+22
+00:01:28,702 --> 00:01:38,702
+[MUSIC]
+
+23
+00:01:40,221 --> 00:01:50,221
+[MUSIC]
+

@@ -1,0 +1,112 @@
+1
+00:00:00,300 --> 00:00:02,500
+Bien, antes de ejecutar este programa, voy a compartir con
+
+2
+00:00:02,500 --> 00:00:04,950
+ustedes mi hipótesis de lo que sucederá cuando ejecute esta
+
+3
+00:00:04,950 --> 00:00:07,510
+parte del código. Bueno, una de las primeras cosas que estamos
+
+4
+00:00:07,510 --> 00:00:10,740
+haciendo en este programa, es que estamos creando una instancia
+
+5
+00:00:10,740 --> 00:00:14,450
+de la clase Child a la llamamos miley_cyrus. Tan pronto como
+
+6
+00:00:14,450 --> 00:00:18,020
+se ejecuta la línea de código, se llama al método init dentro
+
+7
+00:00:18,020 --> 00:00:21,680
+de la clase Child. La primera línea dentro del método init, es esta
+
+8
+00:00:21,680 --> 00:00:25,450
+sentencia print. Entonces mi hipótesis es que esta sentencia print
+
+9
+00:00:25,450 --> 00:00:29,080
+se imprimirá primero en nuestro resultado. Después de eso
+
+10
+00:00:29,080 --> 00:00:31,590
+se llama al constructor de la
+
+11
+00:00:31,590 --> 00:00:34,370
+clase Parent. De esa manera el control se moverá desde aquí hasta
+
+12
+00:00:34,370 --> 00:00:38,120
+aquí. Cuando se llama al método init para la clase Parent,
+
+13
+00:00:38,120 --> 00:00:40,580
+se ejecuta esta sentencia. Por eso mi
+
+14
+00:00:40,580 --> 00:00:44,290
+hipótesis es que esta sentencia Parent Constructor Called será
+
+15
+00:00:44,290 --> 00:00:47,395
+la segunda cosa que se imprime. Luego, la variables de instancia,
+
+16
+00:00:47,395 --> 00:00:51,760
+last_name y eye_color, se iniciarán de manera correcta.
+
+17
+00:00:51,760 --> 00:00:54,250
+Una vez que el método init para la clase Parent se ha
+
+18
+00:00:54,250 --> 00:00:57,010
+ejecutado con éxito, el control regresará aquí. En ese
+
+19
+00:00:57,010 --> 00:01:01,280
+punto, la variable de instancia number_of_toys se iniciará de manera correcta.
+
+20
+00:01:01,280 --> 00:01:03,700
+Así que en ese punto, el método init para la clase Child
+
+21
+00:01:03,700 --> 00:01:06,480
+está completo, lo que significa que la instancia miley_cyrus se
+
+22
+00:01:06,480 --> 00:01:10,580
+ha creado con éxito. Entonces, las dos siguientes sentencias print que
+
+23
+00:01:10,580 --> 00:01:12,560
+están tratando de imprimir el apellido y el número
+
+24
+00:01:12,560 --> 00:01:16,500
+de juguetes para miley_cyrus se ejecutarán en ese orden.
+
+25
+00:01:16,500 --> 00:01:21,160
+Bien, permítanme ejecutar esta vez en realidad esta parte del código. Y he ahí
+
+26
+00:01:21,160 --> 00:01:25,460
+mi resultado. Y parece estar muy cercano a lo que pensé
+
+27
+00:01:25,460 --> 00:01:27,900
+que estaría. Bien, quiero que aquí hagan una pausa en el video durante un segundo
+
+28
+00:01:27,900 --> 00:01:31,750
+y quiero que vean si el resultado aquí coincide con su hipótesis.
+

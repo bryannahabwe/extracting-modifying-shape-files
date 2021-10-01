@@ -1,0 +1,28 @@
+1
+00:00:00,500 --> 00:00:02,580
+Ahora que nuestro código ha funcionado, quiero que
+
+2
+00:00:02,580 --> 00:00:05,700
+pienses en los dos siguientes escenarios. ¿Qué sucedería
+
+3
+00:00:05,700 --> 00:00:12,670
+si tratamos de renombrar un archivo que no existe en nuestra carpeta? ¿O si
+
+4
+00:00:12,670 --> 00:00:14,550
+tratamos de renombrar un archivo con un nombre que
+
+5
+00:00:14,550 --> 00:00:17,410
+ya existe en nuestra carpeta? Puedes presentar tus
+
+6
+00:00:17,410 --> 00:00:20,620
+respuestas en el foro de discusión. Después de que hayas hecho eso,
+
+7
+00:00:20,620 --> 00:00:22,790
+asegúrate de marcar esta casilla antes de continuar.
+

@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,355
+Congratulations on getting this far.
+
+2
+00:00:02,355 --> 00:00:04,810
+Now that you know how to draw things using code,
+
+3
+00:00:04,810 --> 00:00:06,670
+here's your mini project.
+
+4
+00:00:06,670 --> 00:00:13,465
+We want you to write code to draw a flower or some fractals or write your initials.
+
+5
+00:00:13,465 --> 00:00:15,810
+Once you're done, post a video or
+
+6
+00:00:15,810 --> 00:00:19,955
+a screenshot of the output of your code on the discussion forum.
+
+7
+00:00:19,955 --> 00:00:22,660
+Check this box after you've submitted your responses on-
+
